@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Live Streaming Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-live-streaming.techidaily.com](https://ai-live-streaming.techidaily.com)
 
 ## Publish
 
