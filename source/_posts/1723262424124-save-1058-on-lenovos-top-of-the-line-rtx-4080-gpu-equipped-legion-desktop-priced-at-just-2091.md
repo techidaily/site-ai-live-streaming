@@ -1,7 +1,7 @@
 ---
 title: Save $1,058 on Lenovo's Top-of-the-Line RTX 4080 GPU-Equipped Legion Desktop Priced at Just $2,091!
-date: 2024-08-14T10:20:05.263Z
-updated: 2024-08-15T10:20:05.263Z
+date: 2024-09-03T23:11:54.295Z
+updated: 2024-09-04T23:11:54.295Z
 tags:
   - desktop
 categories:
@@ -80,5 +80,8 @@ When you're buying a[gaming PC](https://www.tomshardware.com/best-picks/best-gam
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
