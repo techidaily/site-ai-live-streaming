@@ -1,7 +1,7 @@
 ---
 title: Hewlett-Packard Enterprise Files Suit Against Inspur for Intellectual Property Rights Violation, Despite Ongoing Operations in the US Post-Sanctions Claims
-date: 2024-09-03T23:11:54.695Z
-updated: 2024-09-04T23:11:54.695Z
+date: 2024-09-09T00:05:22.745Z
+updated: 2024-09-10T00:05:22.745Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,24 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/TBdwWtT8R8b8eHovi2KeKB-320-80.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionize Your PC Experience with Maingear's Zero Motherboard Cables - Launches at High-End Prices Starting at Just $1,399
 
 Maingear has today announced the launch of its Zero Series of desktops featuring[MSI](https://www.tomshardware.com/tag/msi-microstar) Project Zero motherboards and cases. The Zero Series desktops feature[MG-RC hidden cables](https://www.tomshardware.com/desktops/gaming-pcs/maingear-patented-its-rear-connector-motherboard-design-in-2011-and-now-it-wants-to-make-mg-rc-an-industry-standard) which move the connectors and cables to the backside, helping to create a tidier build. Prices start at $1,399, with the most expensive model costing $3,929\. The Zero Series line-up comes after Maingear released just 50 Zero Limited Edition desktops, which are fundamentally similar.
 
 ![Maingear's Zero Series desktop PC.](https://cdn.mos.cms.futurecdn.net/UvoT3pXRiwgoEGGyFgEjAE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Maingear)
 
  By default, the Zero desktops use Nvidia GPUs — many of which feature on our list[Best Graphics Cards for Gaming](https://www.tomshardware.com/reviews/best-gpus,4380.html) — and Intel CPUs (except for the Ruby model which uses an[AMD Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) ). Customers can customize Zero Series PC if they so wish, though these units will apparently take longer to ship than stock configurations. Using the custom configurator you can easily build a $5,500 system, just in case you thought a $3,929 desktop was too cheap.
@@ -29,6 +41,12 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
  The Zero Series is available today at[Maingear's website](https://maingear.com/zero/) , with the cheapest configuration starting at $1,399, which is equipped with the RTX 4060, Core i5-14400F, 16GB of DDR5-5200MHz, and a 1TB PCIe 4.0 SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -93,10 +111,3 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
