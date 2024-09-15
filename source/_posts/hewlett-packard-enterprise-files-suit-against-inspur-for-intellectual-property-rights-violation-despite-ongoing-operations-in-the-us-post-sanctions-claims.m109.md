@@ -1,7 +1,7 @@
 ---
 title: Hewlett-Packard Enterprise Files Suit Against Inspur for Intellectual Property Rights Violation, Despite Ongoing Operations in the US Post-Sanctions Claims
-date: 2024-09-09T00:05:22.745Z
-updated: 2024-09-10T00:05:22.745Z
+date: 2024-09-12T20:51:15.433Z
+updated: 2024-09-14T19:03:01.058Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/TBdwWtT8R8b8eHovi2KeKB-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revolutionize Your PC Experience with Maingear's Zero Motherboard Cables - Launches at High-End Prices Starting at Just $1,399
 
 Maingear has today announced the launch of its Zero Series of desktops featuring[MSI](https://www.tomshardware.com/tag/msi-microstar) Project Zero motherboards and cases. The Zero Series desktops feature[MG-RC hidden cables](https://www.tomshardware.com/desktops/gaming-pcs/maingear-patented-its-rear-connector-motherboard-design-in-2011-and-now-it-wants-to-make-mg-rc-an-industry-standard) which move the connectors and cables to the backside, helping to create a tidier build. Prices start at $1,399, with the most expensive model costing $3,929\. The Zero Series line-up comes after Maingear released just 50 Zero Limited Edition desktops, which are fundamentally similar.
 
 ![Maingear's Zero Series desktop PC.](https://cdn.mos.cms.futurecdn.net/UvoT3pXRiwgoEGGyFgEjAE-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Maingear)
 
  By default, the Zero desktops use Nvidia GPUs — many of which feature on our list[Best Graphics Cards for Gaming](https://www.tomshardware.com/reviews/best-gpus,4380.html) — and Intel CPUs (except for the Ruby model which uses an[AMD Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) ). Customers can customize Zero Series PC if they so wish, though these units will apparently take longer to ship than stock configurations. Using the custom configurator you can easily build a $5,500 system, just in case you thought a $3,929 desktop was too cheap.
@@ -41,12 +29,6 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
  The Zero Series is available today at[Maingear's website](https://maingear.com/zero/) , with the cheapest configuration starting at $1,399, which is equipped with the RTX 4060, Core i5-14400F, 16GB of DDR5-5200MHz, and a 1TB PCIe 4.0 SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +37,11 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,41 +52,19 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-best-choice-streamline-your-youtube-audio/"><u>[New] 2024 Approved  Best Choice  Streamline Your YouTube Audio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-directly-posting-twitvideos-on-whatsapp/"><u>[New] 2024 Approved  Directly Posting TwitVideos on WhatsApp</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-exploring-6-exquisite-eastern-themed-homes-in-mc/"><u>[New] Exploring 6 Exquisite Eastern Themed Homes in MC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-noworrycapture-quick-and-easy-win11-recordings/"><u>[New] NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simple-guide-to-effective-and-smooth-iphone-screen-recordings-for-2024/"><u>[New] Simple Guide to Effective & Smooth Iphone Screen Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-insta-exiting-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Mastering Insta Exiting  A Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-vimeo-recording-techniques/"><u>[Updated] Mastering Vimeo Recording Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mkv-on-mac-top-5-player-apps-summary/"><u>[Updated] MKV on Mac  Top 5 Player Apps Summary</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-transition-to-non-stop-browsing-set-up-youtube-autoplay-on-fb/"><u>[Updated] Transition to Non-Stop Browsing  Set Up YouTube Autoplay on FB</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-laughable-phone-melodies-essential-sites-listed/"><u>2024 Approved  Laughable Phone Melodies  Essential Sites Listed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transforming-film-frames-on-insta-with-easy-steps/"><u>2024 Approved  Transforming Film Frames on Insta with Easy Steps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-free-and-paid/"><u>Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-without-watermark-for-2024/"><u>Free Video Editing Software Without Watermark for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New 2024 Approved Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New In 2024, A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry/"><u>New Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>New Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-key-to-dramatic-contrast-in-hdr-portrait-photography-for-2024/"><u>The Key to Dramatic Contrast in HDR Portrait Photography for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-10-free-football-streaming-sites-to-bookmark/"><u>Updated 10 Free Football Streaming Sites To Bookmark</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Updated 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-facebook-live-shopping-a-comprehensive-guide/"><u>Updated In 2024, Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-art-of-interaction-in-online-google-meet-spaces-for-2024/"><u>[New] The Art of Interaction in Online Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/maingears-north-series-revival-meet-the-next-gen-powerhouse-of-gaming-pcs/"><u>Maingear's North Series Revival: Meet the Next-Gen Powerhouse of Gaming PCs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/patent-dispute-escalates-as-hewlett-packard-enterprise-accuses-inspur-of-copyright-breach-while-flouting-sanctions-to-operate-stateside/"><u>Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-guide-to-enabling-and-activating-wireless-network-cards/"><u>Simplified Guide to Enabling & Activating Wireless Network Cards</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-holy-stone-race-cartoon-remote-control-cars-top-picks-for-family-entertainment/"><u>Ultimate Guide to Holy Stone Race Cartoon Remote Control Cars: Top Picks for Family Entertainment</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

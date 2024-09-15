@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment"
-date: 2024-09-09T00:05:22.573Z
-updated: 2024-09-10T00:05:22.573Z
+date: 2024-09-08T23:04:27.932Z
+updated: 2024-09-15T01:55:23.209Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c985b42fd4426ba3493876a07.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -33,38 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -77,12 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,37 +64,32 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>[New] In 2024, Clan the Challenge  Best Games Similar to Ghost of Tsushima</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-integrate-free-audio-in-your-videos-effortlessly/"><u>[New] In 2024, Integrate FREE Audio in Your Videos Effortlessly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>[New] The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-social-streams-find-just-watched-video-list-on-facebook/"><u>[Updated] 2024 Approved  Navigating Social Streams  Find Just-Watched Video List on Facebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio/"><u>2024 Approved  Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>2024 Approved A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-shopping-in-china-major-changes-in-the-industry/"><u>2024 Approved Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>2024 Approved The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Camon 20 Premier 5G FRP</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-user-dialogue-shapes-ai-understanding-in-chatgpt/"><u>How User Dialogue Shapes AI Understanding in ChatGPT?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New 2024 Approved Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>New 2024 Approved The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>New Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-watch-nba-live-stream-free-anywhere/"><u>New How To Watch NBA Live Stream Free Anywhere</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-learn-the-best-6-alternative-streaming-platforms/"><u>New In 2024, Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-review-of-lazlive-live-selling-platform-with-guide/"><u>New Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>New User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>Smart Choices  8 Best Convertors From Sub to SRT Format</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of-for-2024/"><u>Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/update-twitter-video-preview-for-2024/"><u>Update Twitter Video Preview for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>Updated 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated 2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>Updated 2024 Approved The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>Updated In 2024, How To Reach More Users by Using Instagram Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Updated In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-recording-slideshows/"><u>[New] 2024 Approved The Insider's Guide to Recording Slideshows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-total-unlinkage-from-youtube-shorts-complete-guide/"><u>[New] In 2024, Total Unlinkage From YouTube Shorts Complete Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-fb-story-sharing-a-four-step-guide-for-2024/"><u>[New] Mastering FB Story Sharing A Four-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-brevity-in-action-shortening-youtube-video-content-for-2024/"><u>[Updated] Brevity in Action Shortening YouTube Video Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-guide-to-making-youtube-thumbnails-for-mobile-storytellers/"><u>[Updated] The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-how-asmr-can-benefit-your-life/"><u>2024 Approved Understanding How ASMR Can Benefit Your Life</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/compact-performance-unbox-the-ultimate-combo-of-full-amd-ryzen-desktop-and-portable-folding-keyboard-with-touchpad-just-add-monitor/"><u>Compact Performance: Unbox the Ultimate Combo of Full AMD Ryzen Desktop & Portable Folding Keyboard with Touchpad, Just Add Monitor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-images-with-gopro-studios-color-adjustment/"><u>Enhancing Images with GoPro Studio's Color Adjustment</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/expert-review-of-minecraft-the-ideal-cross-generational-creative-world/"><u>Expert Review of Minecraft: The Ideal Cross-Generational Creative World</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/motorola-one-5g-ace-unveiled-comprehensive-review-on-its-swift-data-speeds-and-remarkable-battery-durability/"><u>Motorola One 5G Ace Unveiled: Comprehensive Review on Its Swift Data Speeds & Remarkable Battery Durability</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-toms-device-diagnostics-and-performance-analysis/"><u>Unveiling Tom's Device Diagnostics & Performance Analysis</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/your-ultimate-source-for-tech-comparisons-tomgearreview/"><u>Your Ultimate Source for Tech Comparisons - TomGearReview</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

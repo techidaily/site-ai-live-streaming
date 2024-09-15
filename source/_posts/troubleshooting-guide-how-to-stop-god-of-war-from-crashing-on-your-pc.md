@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-09-09T00:05:23.026Z
-updated: 2024-09-10T00:05:23.026Z
+date: 2024-09-11T18:39:11.266Z
+updated: 2024-09-15T00:07:31.997Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Troubleshooting Guide: How to Stop God of War F
 thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd74185b074d0cf9fcbe34770c5fd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Guide: Stop Chivalry II From Crashing Now
 
 There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any progress in the full release. Chivalry 2 is a multiplayer slash and hacked action pack video game, it starts facing criticism due to bugs, glitches, and crashes.  
@@ -35,12 +29,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,27 +46,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -91,18 +61,6 @@ If it’s not working, move to next fix.
 
 No luck with this one? Move to the next.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -138,11 +96,18 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -153,6 +118,14 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -170,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,54 +152,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>[New] 2024 Approved  Flip and Flash  Unveiling the Power of Instagram's Angled Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>[New] 2024 Approved  Unleash Potential  AE Templates for Aspiring Artists</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-instagram-cultivating-a-robust-following/"><u>[New] In 2024, The Art of Instagram  Cultivating a Robust Following</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-your-first-channel-essential-video-gear-list-for-2024/"><u>[Updated] Building Your First Channel  Essential Video Gear List for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-room-strategies-to-record-clear-sound-for-2024/"><u>[Updated] Revolutionize Your Room  Strategies to Record Clear Sound for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-key-to-a-successful-tweet-including-aspect-ratio-details-for-2024/"><u>[Updated] The Key to a Successful Tweet  Including Aspect Ratio Details for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection-for-2024/"><u>[Updated] Zoom's Acoustic Edge  Unlocking Two-Pronged Audio Perfection for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/10-free-football-streaming-sites-to-bookmark-for-2024/"><u>10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-election-excitement-5-best-voting-simulators/"><u>2024 Approved  Election Excitement  5 Best Voting Simulators</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>2024 Approved  Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-secrets-for-tiktok-live-studio-success/"><u>2024 Approved Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-guide-to-top-5-text-effects-downloading-sites/"><u>A Guide to Top 5 Text Effects Downloading Sites</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/astro-clear-sweep-your-essential-guide-to-removing-windows-file-clutter/"><u>Astro Clear Sweep: Your Essential Guide to Removing Windows File Clutter</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-bt500-wireless-bluetooth-adapter-driver-download-compatible-with-win11win10win8/"><u>Asus BT500 Wireless Bluetooth Adapter Driver Download - Compatible with Win11/Win10/Win8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-realtek-audio-driver-free-download-for-windows-10-7/"><u>ASUS Realtek Audio Driver Free Download for Windows 10, 7</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify/"><u>Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-clarity-high-end-gyroscopic-tripod-gear/"><u>Capture Clarity  High-End Gyroscopic Tripod Gear</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-honor-100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor 100 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-x8b-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X8b Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>In 2024, The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-mac-os-guide-for-screen-casting/"><u>In 2024, The Ultimate Mac OS Guide for Screen Casting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-turn-up-the-volume-enabling-sound-on-tweeted-videos/"><u>In 2024, Turn Up the Volume  Enabling Sound on Tweeted Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-versus-dailymention-identifying-key-gaps/"><u>In 2024, YouTube Versus DailyMention  Identifying Key Gaps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-lg-display-drivers-across-windows-platforms-a-step-by-step-guide/"><u>Mastering LG Display Drivers Across Windows Platforms - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-capture-every-move-top-motion-tracking-apps-for-android-and-ios/"><u>New 2024 Approved Capture Every Move Top Motion Tracking Apps for Android and iOS</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New In 2024, Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>New In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>New Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips/"><u>New YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolve-diagonal-discrepancies-in-pc-monitors/"><u>Resolve Diagonal Discrepancies in PC Monitors</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/rotate-your-iphone-screen-back-to-landscape-easy-solutions/"><u>Rotate Your iPhone Screen Back to Landscape - Easy Solutions</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unintended-tiktok-rewind-what-now-for-2024/"><u>Unintended TikTok Rewind – What Now for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated 2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated 2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-list-best-livestream-shopping-apps-of/"><u>Updated 2024 Approved Top List Best Livestream Shopping Apps Of</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-to-using-obs-studio-to-stream-to-facebook-for-2024/"><u>Updated A Guide to Using OBS Studio To Stream to Facebook for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Updated In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-transform-youtube-live-with-these-must-know-secrets/"><u>Updated Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-unveiling-the-secrets-of-shopee-livestream-selling-system-for-2024/"><u>Updated Unveiling the Secrets of Shopee Livestream Selling System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/why-bluetooth-never-shuts-down-on-win11-answered/"><u>Why Bluetooth Never Shuts Down on WIN11 [Answered]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-8-amd-radeon-hd-graphics-drivers-free-download/"><u>Windows 8 AMD Radeon HD Graphics Drivers Free Download</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>[Updated] 2024 Approved Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>2024 Approved Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-top-reviews-and-insights/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-selection-of-lgbtq-shows-dominating-netflix-charts-in-july-2024/"><u>Explore Our Curated Selection of LGBTQ Shows Dominating Netflix Charts in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-downloading-and-applying-new-fonts-on-ios-devices/"><u>Guide: Downloading and Applying New Fonts on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-ingenuity-3d-text-magic/"><u>In 2024, Illustration Ingenuity 3D Text Magic</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/maingears-north-series-revival-meet-the-next-gen-powerhouse-of-gaming-pcs/"><u>Maingear's North Series Revival: Meet the Next-Gen Powerhouse of Gaming PCs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/navigating-modern-hardware-through-toms-digital-portal/"><u>Navigating Modern Hardware Through Tom's Digital Portal</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac-for-2024/"><u>Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/premium-auditory-device-amd-edition/"><u>Premium Auditory Device - AMD Edition</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-10-strategies-for-resolving-recurring-windows-11-system-crashes/"><u>Top 10 Strategies for Resolving Recurring Windows 11 System Crashes</u></a></li>
 </ul></div>
+

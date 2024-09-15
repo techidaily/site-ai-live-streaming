@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2024-09-09T00:05:22.789Z
-updated: 2024-09-10T00:05:22.789Z
+date: 2024-09-13T23:30:09.151Z
+updated: 2024-09-15T00:29:40.560Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/M9s4X395kDajV9RZQYMxnX-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
 
 Mini PCs, the class of desktops that fit in really tiny cases, have a following among PC enthusiasts thanks to Intel's (now Asus's) NUC line. But because of their size and modest thermal budgets, most mini PCs have two severe limitations: they rely on performance-limited mobile CPUs and they usually are stuck with integrated graphics.
@@ -29,12 +23,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker Turbo Mini X Open](https://cdn.mos.cms.futurecdn.net/6Lgg2ep6349kAWRyprQDe3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can use any Raptor Lake or Raptor Lake Refresh chip that consumes 65 watts, a Core i5-1440 or Core i7-1470 for example. A passive heat sink covers the chip and a blower fan sits next to the sink and above the SODIMM slots. The kit doesn't come with an SSD (or the RAM or CPU) but it does come with a heatsink you can use with your SSD to keep it cool.
@@ -43,12 +31,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,12 +45,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -77,18 +53,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini Maker is a very new brand whose parent company is Hibertek, a Taiwanese OEM that builds B2B systems. Company reps said that they are trying to find a partner in the U.S. to sell the Turbo Mini X and its other mini PCs. The products may carry any future partners' brand name or they could be labeled as Mini Maker. At present, the system is set to come out in mainland China and Taiwan.
@@ -97,14 +61,11 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  But even at a much higher price, the Turbo Mini X and Streamplay X could be a very compelling combination. Users with limited desk space or those who just like the idea of a tiny desktop could get a lot of performance and flexibility with a very small footprint.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,44 +76,21 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[New] From HD to Breathtaking  EIZO's Newest 4K Display</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[New] In 2024, Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-google-voice-call-recording-essential-steps/"><u>[New] Mastering Google Voice Call Recording  Essential Steps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-controlling-who-can-leave-a-comment-on-your-youtube-videos/"><u>[Updated] 2024 Approved  Controlling Who Can Leave a Comment on Your YouTube Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-pick-for-mp4-recorders-on-market/"><u>[Updated] 2024 Approved  Top Pick for MP4 Recorders on Market</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp/"><u>[Updated] From Facebook to the Friend's Inbox  Sharing Videos Through WhatsApp</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-digital-background-switchers-shutterfix-excellence/"><u>[Updated] In 2024, Leading Digital Background Switchers  ShutterFix Excellence</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-stay-updated-the-latest-instagram-filter-updates/"><u>[Updated] Stay Updated  The Latest Instagram Filter Updates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-stardew-upgrades-ranked-7-14-for-2024/"><u>[Updated] Ultimate Stardew Upgrades  Ranked #7-14 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>2024 Approved  Craft Compelling Openers for Your Podcast Episodes  Examples & Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-freeandpaid-for-2024/"><u>Best 12 Sports Streaming Sites (Free&Paid) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos/"><u>Faces in Flux  Perfecting Motion Blur on Human Figures in Photos</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-play-8t-video-recovery-recover-deleted-videos-from-honor-play-8t-by-fonelab-android-recover-video/"><u>Honor Play 8T Video Recovery - Recover Deleted Videos from Honor Play 8T</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-your-favorite-games-online-for-2024/"><u>How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>In 2024, Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-no-8-digital-composers-kit/"><u>In 2024, Premier No. 8 Digital Composer's Kit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-the-secrets-of-free2x-recording-tech/"><u>In 2024, Unveiling the Secrets of Free2X Recording Tech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-alternatives-for-affordable-camera-screenshots-for-2024/"><u>Innovative Alternatives for Affordable Camera Screenshots for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-newest-hp-network-drivers-on-your-pc-windows-11-7-and-8-guide/"><u>Installing the Newest HP Network Drivers on Your PC: Windows 11, 7 & 8 Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-selling-a-comprehensive-starters-guide/"><u>Live Selling A Comprehensive Starters Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>New 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>New 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>New How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>New How To Start a Private Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>New In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping-for-2024/"><u>Perfect Guide To Excel in TikTok Live Shopping for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sonys-hdrcx405-improved-stability-and-dual-record/"><u>Sony's HDRCX405: Improved Stability & Dual Record</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-10-free-football-streaming-websites-for-live-matches/"><u>Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated 2024 Approved Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Updated Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated In 2024, Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>Updated The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service/"><u>All-Inclusive Guide What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-silence-essential-fixes-for-nonfunctional-windows-10-volume-buttons/"><u>Beat the Silence: Essential Fixes for Nonfunctional Windows 10 Volume Buttons</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/elevate-fathers-day-gifting-with-an-immersive-ibuypower-computer-experience/"><u>Elevate Father’s Day Gifting with an Immersive iBUYPOWER Computer Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/exclusive-offer-chip-in-an-extra-250-for-your-ultimate-rtx-cuarto-pc/"><u>Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flashy-flights-prime-pc-and-mobile-game-hits/"><u>Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>In 2024, Cinematic Close-Ups Elevating Your Work with Kinemaster</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/navigating-toms-tech-landscape-comprehensive-reviews-and-comparisons/"><u>Navigating Tom's Tech Landscape: Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-windows-update-halted-at-zero-percent-dilemma/"><u>Quick Fixes: Resolving the Windows Update Halted at Zero Percent Dilemma</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

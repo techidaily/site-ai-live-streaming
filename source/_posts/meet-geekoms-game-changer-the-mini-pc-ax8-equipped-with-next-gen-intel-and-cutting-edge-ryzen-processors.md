@@ -1,7 +1,7 @@
 ---
 title: "Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors"
-date: 2024-09-09T00:05:22.523Z
-updated: 2024-09-10T00:05:22.523Z
+date: 2024-09-07T20:00:14.271Z
+updated: 2024-09-14T21:57:42.039Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39bbf16416336b018124bf2bc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ryzen 9 Powerhouse in a Compact Form: The Mini PC with Touchscreen, Next-Level CPU, and Speedy SSDs
 
 A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.[Miniproca claims](https://www.kickstarter.com/projects/91388361/miniproca-all-in-1-mini-pc-with-intergarted-display/rewards) its 7-inch screen-lidded device is a “revolutionary” mix of high-performance PC and monitor, delivering a versatile[All-in-One PC](https://www.tomshardware.com/tag/all-in-one-pcs) to its Kickstarter backers.
@@ -46,18 +40,6 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -70,36 +52,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
  It seems increasingly necessary for mini-PC makers to deliver some exciting twist on the form factor, or news of their latest product may be drowned out among the also-rans. Whether the twist is appealing or practical enough to gain traction is up to consumers. The ‘retail price’ doesn’t help either.
 
  Kickstarter users already seem to have passed judgment on this Miniproca device, which has been very successful since its launch. However, we shall repeat our standard warning about crowdfunders—backing this kind of project isn’t the same as buying a product. You may face lengthy delays, spec changes, and/or even project cancellations and difficulties getting refunds or warranty cover.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,39 +77,26 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-viral-talent-quest-episodes-1-10/"><u>[New] 2024 Approved  Viral Talent Quest Episodes #1-10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-masterclass-in-real-time-twitvid-engagement-for-2024/"><u>[New] Masterclass in Real-Time TwitVid Engagement for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/"><u>[Updated] 2024 Approved  Elite Group of High-Speed Video Snapshot Apps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-doctor-patient-conversations-7-advantages-of-ai/"><u>Enhancing Doctor-Patient Conversations: 7 Advantages of AI</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-snap-into-the-loop-mastering-boomerangs-for-max-impact/"><u>In 2024, Snap Into the Loop  Mastering Boomerangs for Max Impact</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-empire-top-picks-in-computing-hardware/"><u>Navigating Tom's Electronics Empire: Top Picks in Computing Hardware</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>New 2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-facebook-live-shopping-a-comprehensive-guide/"><u>New 2024 Approved Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>New 2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>New 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further/"><u>New Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>New The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-top-6-alternatives-to-twitch-for-your-streaming-needs-for-2024/"><u>New The Top 6 Alternatives to Twitch for Your Streaming Needs for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-list-best-livestream-shopping-apps-of-for-2024/"><u>New Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/e-methods-for-youtube-to-mp4-conversion/"><u>Secure Methods for Youtube-to-MP4 Conversion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/thwart-bots-surge-in-authentic-youtube-interest-for-2024/"><u>Thwart Bots, Surge in Authentic YouTube Interest for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches/"><u>Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-12-sports-streaming-sites-freeandpaid/"><u>Updated 2024 Approved Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>Updated 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>Updated 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Updated Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-contemporary-techniques-for-crafting-effective-audio-echoes-for-2024/"><u>Updated Contemporary Techniques for Crafting Effective Audio Echoes for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-to-shopee-livestream-selling-maximize-profits-for-2024/"><u>Updated Ultimate Guide to Shopee Livestream Selling Maximize Profits for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports/"><u>Updated User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quick-steps-to-find-youtube-comment-feed/"><u>[New] 2024 Approved Quick Steps to Find YouTube Comment Feed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-budget-friendly-video-grabber-selections/"><u>[Updated] In 2024, Budget-Friendly Video Grabber Selections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-taking-flight-in-content-creation-dji-drones-and-fb-live-for-2024/"><u>[Updated] Taking Flight in Content Creation DJI Drones & FB Live for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-playbook-for-captivating-youtube-audiences-with-strategic-banners/"><u>[Updated] The Ultimate Playbook for Captivating YouTube Audiences with Strategic Banners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-every-angle-not-just-a-single-plane/"><u>Capturing Every Angle, Not Just a Single Plane</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/decoding-digital-devices-tips-and-reviews-from-toms-tech-analysis/"><u>Decoding Digital Devices - Tips and Reviews From Tom’s Tech Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-make-your-archive-pop-with-instagrams-vibrant-filter-options/"><u>How to Make Your Archive Pop with Instagram's Vibrant Filter Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/may-the-fourth-be-with-you-unveiling-acemagics-mini-pc-in-iconic-x-wing-design/"><u>May the Fourth Be With You: Unveiling AceMagic's Mini PC in Iconic X-Wing Design</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-noisy-zoom-sounds-effective-remedies/"><u>Navigate Noisy Zoom Sounds Effective Remedies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-through-best-liquid-physics-experiences/"><u>Navigating Through Best Liquid Physics Experiences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-netflixs-ui-80e-error-code/"><u>Troubleshooting Guide: Resolving Netflix's UI-80e Error Code</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-gadgets-and-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling Gadgets and Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-technology-review/"><u>Unveiling the Latest in Computing: Insights From Tom's Technology Review</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-guidance/"><u>Unveiling the Latest in PC Hardware with Tom's Guidance</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

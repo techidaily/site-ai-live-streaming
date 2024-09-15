@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-09-09T00:05:22.371Z
-updated: 2024-09-10T00:05:22.371Z
+date: 2024-09-08T21:40:57.904Z
+updated: 2024-09-14T17:31:02.823Z
 tags:
   - desktop
 categories:
@@ -19,12 +19,6 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 ![shock diamonds](https://cdn.mos.cms.futurecdn.net/wMGjjqj2ttbEB8vS7vxPqW-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Cylo’s Garage)
 
  About halfway through the video from Cylo’s Garage, we get to see how supersonic air speeds were confirmed using a rudimentary Schlieren imaging setup. All that was needed was a simple lens, a razor blade, an imaging sensor, and a light source. See this test setup, above. This admittedly “janky” set up more or less confirmed shock diamonds in the flow of gas from the can.
@@ -37,52 +31,22 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 ![shock diamonds](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Cylo’s Garage)
 
 ![shock diamonds](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Cylo’s Garage)
 
 ![shock diamonds](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Cylo’s Garage)
 
 ![shock diamonds](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Cylo’s Garage)
 
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +55,11 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,42 +70,22 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-the-ultimate-mc-community-dwellings/"><u>[New] 2024 Approved  Crafting the Ultimate MC Community Dwellings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>[New] In 2024, Convert YouTube Sounds to Wider Reach  MP3 for Mac Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-your-daily-dose-of-delightful-and-distressing-memes-from-ig/"><u>[New] Your Daily Dose of Delightful & Distressing Memes From IG</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-linkedin-live-clarity-ending-the-partially-muted-frustration/"><u>[Updated] LinkedIn Live Clarity - Ending the Partially Muted Frustration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-lives-image-language/"><u>[Updated] Understanding YouTube Live's Image Language</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-decoding-the-new-era-of-bite-sized-videos-for-2024/"><u>Facebook   Decoding the New Era of Bite-Sized Videos for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-8-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 8</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-xr21-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Nokia XR21 Contacts  An Easy Method Explained.</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-s17t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo S17t Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12 Pro? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic5-ultimate-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic5 Ultimate Phone FRP Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kids-and-newbies-rejoice-our-10-easiest-to-fly-drones-for-2024/"><u>Kids & Newbies Rejoice! Our 10 Easiest-to-Fly Drones for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-learn-the-best-6-alternative-streaming-platforms/"><u>New 2024 Approved Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New 2024 Approved Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-selling-a-comprehensive-starters-guide/"><u>New 2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-facebook-live-shopping-a-comprehensive-guide-for-2024/"><u>New Facebook Live Shopping A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-tv-streaming-9-sites-you-need-to-know/"><u>New In 2024, Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>New In 2024, The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-user-choice-top-free-streaming-sites-for-sports/"><u>New In 2024, User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>New In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>New Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-money-tally-for-video-marketers-for-2024/"><u>Quick Money Tally for Video Marketers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/spotlight-on-10-youtube-channels-with-swift-popularity-boosts/"><u>Spotlight on 10 YouTube Channels With Swift Popularity Boosts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y55s-5g-2023-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y55s 5G (2023) Device</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>Updated 2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>Updated Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>Updated How To Start a Private Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>Updated In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>Updated In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-value-top-6-discounted-4k-hd-projectors/"><u>[New] Best Value Top 6 Discounted 4K HD Projectors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-review-comparing-screen-recorders-for-professionals/"><u>[Updated] 2024 Approved The Ultimate Review Comparing Screen Recorders for Professionals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-digital-canvas-exploring-the-8-outstanding-drawing-apps-for-iphones/"><u>2024 Approved Digital Canvas Exploring the 8 Outstanding Drawing Apps for iPhones</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/amazfit-bip-unboxing-and-review-why-its-a-game-changer-for-newbies/"><u>Amazfit Bip Unboxing & Review: Why It's a Game-Changer for Newbies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-overview-of-monster-hunter-world-confronting-one-of-a-kind-and-hazardous-beasts/"><u>Exclusive Overview of Monster Hunter: World – Confronting One-of-a-Kind & Hazardous Beasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic 6 Lite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>In 2024, Unlocking the Mystery Phantom’s Temporal Expansion Capabilities</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/level-up-your-gaming-experience-nzxts-monthly-lease-options-core-i5-and-rtx-4060-for-a-budget-friendly-59-or-amp-up-to-the-ultimate-super-premium-pc-wcore-i98/"><u>Level Up Your Gaming Experience! NZXT's Monthly Lease Options: Core I5 & RTX 4060 for a Budget-Friendly $59 or Amp Up to the Ultimate Super Premium PC W/Core I7 + RTX 4070 Ti at an Unbeatable Price of $169</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/toms-electronic-emporium-unveiling-top-gear-in-computing-and-hardware/"><u>Tom's Electronic Emporium: Unveiling Top Gear in Computing & Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-amd-rx-5700-xt/"><u>Windows 10에서 AMD RX 5700 XT 드라이버 업로드(다울)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
