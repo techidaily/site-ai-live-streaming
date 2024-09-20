@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-09-13T00:07:54.257Z
-updated: 2024-09-14T18:39:26.951Z
+date: 2024-09-15T00:57:48.346Z
+updated: 2024-09-19T17:37:48.839Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -72,19 +72,6 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
@@ -96,6 +83,13 @@ Lifewire / Todd Braylor
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
 
  It reliably delivers on its promise of long-distance sensitivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
 
@@ -111,13 +105,6 @@ Lifewire / Todd Braylor
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
  A popular competitor brand to Escort that makes a wide selection of radar detectors is Uniden. The Uniden DFR9 (view on[Amazon](https://www.amazon.com/Uniden-DFR9-Detection-Cameras-Display/dp/B07F6PZXHM/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7C) ) is a model that can be considered the next price tier above the S55\. The DFR9's MSRP is $300 but it can often be found on sale for about $270.
@@ -129,6 +116,13 @@ Lifewire / Todd Braylor
  **A basic radar detector that's ideal for beginners or anyone on a budget.**
 
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -159,16 +153,19 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-prime-free-enhancement-tool-for-pics-onlineapp/"><u>[Updated] Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-and-instagram-integration-the-essential-how-to-manual/"><u>2024 Approved OBS and Instagram Integration The Essential How To Manual</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquering-communication-which-superior-ai-prevails/"><u>Conquering Communication: Which Superior AI Prevails?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/hewlett-packard-enterprise-files-suit-against-inspur-for-intellectual-property-rights-violation-despite-ongoing-operations-in-the-us-post-sanctions-claims.m109/"><u>Hewlett-Packard Enterprise Files Suit Against Inspur for Intellectual Property Rights Violation, Despite Ongoing Operations in the US Post-Sanctions Claims</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-virtual-landscape-an-overview/"><u>In 2024, Navigating the Virtual Landscape An Overview</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/level-up-your-gaming-experience-nzxts-monthly-lease-options-core-i5-and-rtx-4060-for-a-budget-friendly-59-or-amp-up-to-the-ultimate-super-premium-pc-wcore-i98/"><u>Level Up Your Gaming Experience! NZXT's Monthly Lease Options: Core I5 & RTX 4060 for a Budget-Friendly $59 or Amp Up to the Ultimate Super Premium PC W/Core I7 + RTX 4070 Ti at an Unbeatable Price of $169</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maximize-your-home-network-with-netgear-nighthawk-xam-wi-fi-mesh-system-an-authoritative-review/"><u>Maximize Your Home Network with Netgear Nighthawk Xam Wi-Fi Mesh System: An Authoritative Review</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/patent-dispute-escalates-as-hewlett-packard-enterprise-accuses-inspur-of-copyright-breach-while-flouting-sanctions-to-operate-stateside/"><u>Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-10-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-90-lite-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor 90 Lite Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/unveiling-latest-innovations-insights-from-toms-hardware-analysis/"><u>Unveiling Latest Innovations - Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finalcut-pro-101-crafting-professional-youtube-edits/"><u>[New] 2024 Approved FinalCut Pro 101 Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-notable-platforms-offering-text-modifications/"><u>[New] Guide to Notable Platforms Offering Text Modifications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[New] In 2024, How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tips-for-efficient-film-recording-on-pc-and-mobile/"><u>[Updated] Top Tips for Efficient Film Recording on PC & Mobile</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-and-amending-social-groups-regulatory-frameworks/"><u>Creating & Amending Social Groups' Regulatory Frameworks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-screen-journey-begins-on-yt-ideas-take-flight/"><u>Green Screen Journey Begins on YT, Ideas Take Flight!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-access-all-matches-free-world-cup-live-streaming-options/"><u>New 2024 Approved Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-secrets-for-tiktok-live-studio-success-for-2024/"><u>New Secrets for TikTok Live Studio Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutorial-facile-e-veloce-sulle-tecniche-top-di-acquisizione-screen-del-tuo-mac/"><u>Tutorial Facile E Veloce Sulle Tecniche Top Di Acquisizione Screen Del Tuo Mac</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-12-sports-streaming-sites-freeandpaid/"><u>Updated In 2024, Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Star Citizen Stability Improved: No More Crashes on Windows"
-date: 2024-09-12T18:21:17.049Z
-updated: 2024-09-14T21:49:00.840Z
+date: 2024-09-15T20:41:40.829Z
+updated: 2024-09-19T17:42:28.650Z
 tags:
   - win11
   - win10
@@ -84,10 +84,10 @@ If your game still crashes, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Yes** .
@@ -153,13 +153,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -190,22 +183,16 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -214,6 +201,13 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -229,6 +223,13 @@ If your issue persists, go ahead with the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-227.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Modify the graphics settings following the screenshot below, then click CONFIRM to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-656.png)
@@ -236,19 +237,6 @@ If your issue persists, go ahead with the next fix, below.
 **5)** Relaunch your game to test your issue.
 
 If your game crashes again, try the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -262,6 +250,13 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -269,13 +264,6 @@ If your game crashes again, try the fix below.
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -322,16 +310,18 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-pivot-to-personal-how-to-directly-send-tweets-videos-on-whatsapp/"><u>[New] Pivot to Personal How to Directly Send Tweets' Videos on WhatsApp</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-top-reviews-and-insights/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/asus-rt-ac8gaming-reality-check-triple-band-speed-and-performance-analyzed/"><u>ASUS RT-AC8#Gaming Reality Check: Triple Band Speed and Performance Analyzed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-on-how-to-apply-watermarks-to-gif-images-in-any-environment/"><u>Comprehensive Tutorial on How To Apply Watermarks to GIF Images in Any Environment</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-clearer-crisper-youtube-videos-with-quality-tools/"><u>Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-breaks-tradition-whatsapp-delivers-2fa-codes/"><u>Instagram Breaks Tradition: WhatsApp Delivers 2FA Codes</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-tech-world-easily-with-toms-innovation-hub/"><u>Navigating Tech World Easily with Tom's Innovation Hub</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/simple-video-resizer-convert-your-footages-dimensions-instantly-with-our-aspect-ratio-adjuster/"><u>Simple Video Resizer: Convert Your Footage's Dimensions Instantly with Our Aspect Ratio Adjuster</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/soundscapes-elevated-discover-rokus-enhanced-experience/"><u>Soundscapes Elevated: Discover Roku's Enhanced Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/strategies-to-triumph-at-language-certifications/"><u>Strategies to Triumph at Language Certifications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-your-viewing-experience-recording-overwatch-games-for-2024/"><u>[Updated] Enhancing Your Viewing Experience Recording Overwatch Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-inverting-video-order-on-snapchat/"><u>[Updated] In 2024, Inverting Video Order on Snapchat</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-free-and-paid/"><u>Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-se-2020-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone SE (2020) Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-build-insights-from-toms-hardware-authority/"><u>Mastering Your Build - Insights From Tom's Hardware Authority</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>New Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
 </ul></div>
 

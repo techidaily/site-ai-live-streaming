@@ -1,7 +1,7 @@
 ---
 title: "Simple Tricks: Avoiding Hassle While Uninstalling Nvidia GeForce Experience"
-date: 2024-09-13T18:40:33.407Z
-updated: 2024-09-15T00:12:04.082Z
+date: 2024-09-18T05:36:11.264Z
+updated: 2024-09-19T17:40:29.190Z
 tags:
   - win11
   - win10
@@ -100,6 +100,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, restart Genshin and see if it crashes again. If not, repeat these steps but disable half of the services to root out the offenders.
 
 If this trick doesn’t work for you, check out the next one below.
@@ -117,10 +124,10 @@ Here’s how you can install system updates on Windows 10 or 7:
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -137,21 +144,7 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
 
@@ -179,14 +172,14 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -204,13 +197,6 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
@@ -218,6 +204,19 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can launch Genshin Impact and see if it stops crashing.
 
@@ -231,6 +230,14 @@ Now you can launch Genshin Impact and see if it stops crashing.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -254,18 +261,19 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-screen-refreshing-issue-in-dell-pc/"><u>[Fixed]: Screen Refreshing Issue in Dell PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ips-for-youtube-video-shooting/"><u>[New] Tips for YouTube Video Shooting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-social-media-potential-a-guide-to-video-marketing-on-fb/"><u>[Updated] 2024 Approved Unlocking Social Media Potential A Guide to Video Marketing on FB</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-cam-repaired-obs-recovery-successful/"><u>[Updated] Cam Repaired OBS Recovery Successful</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-strategies-and-costs-promoting-videos-effectively/"><u>[Updated] In 2024, Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-the-art-of-comfortable-virtual-experiences/"><u>2024 Approved Mastering the Art of Comfortable Virtual Experiences</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/compact-performance-unbox-the-ultimate-combo-of-full-amd-ryzen-desktop-and-portable-folding-keyboard-with-touchpad-just-add-monitor/"><u>Compact Performance: Unbox the Ultimate Combo of Full AMD Ryzen Desktop & Portable Folding Keyboard with Touchpad, Just Add Monitor</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enabledisable-picture-in-picture-with-safari-on-ios-ipad/"><u>Enable/Disable Picture-in-Picture with Safari on iOS, iPad</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/expert-review-of-minecraft-the-ideal-cross-generational-creative-world/"><u>Expert Review of Minecraft: The Ideal Cross-Generational Creative World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/motorola-one-5g-ace-unveiled-comprehensive-review-on-its-swift-data-speeds-and-remarkable-battery-durability/"><u>Motorola One 5G Ace Unveiled: Comprehensive Review on Its Swift Data Speeds & Remarkable Battery Durability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-programs-against-windows-autoshrinks/"><u>Securing Programs Against Windows Autoshrinks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-updating-your-dell-sound-card-software/"><u>Step-by-Step Tutorial for Updating Your Dell Sound Card Software</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/unveiling-toms-device-diagnostics-and-performance-analysis/"><u>Unveiling Tom's Device Diagnostics & Performance Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-essential-camera-techniques-for-novice-filmmakers-for-2024/"><u>[New] Essential Camera Techniques for Novice Filmmakers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>2024 Approved Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-accuracy-and-dependability-of-chatgpt-for-proofreading-needs/"><u>Evaluating the Accuracy and Dependability of ChatGPT for Proofreading Needs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-process-for-obtaining-dell-monitor-driver-updates-online/"><u>Hassle-Free Process for Obtaining Dell Monitor Driver Updates Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-c210-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia C210 online without jailbreak</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>In 2024, ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/indispensable-iphone-companions-a-buyers-guide-to-perfect-add-ons/"><u>Indispensable iPhone Companions - A Buyer's Guide to Perfect Add-Ons</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>New How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-format-issues-10-best-webm-to-mp4-converters/"><u>Say Goodbye to Format Issues 10 Best WebM to MP4 Converters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-unknown-number-alerts-a-guide-to-muting-spam-calls-on-your-iphone/"><u>Stop Unknown Number Alerts: A Guide to Muting Spam Calls on Your iPhone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated 2024 Approved How To Perform a Successful Streaming on Twitch</u></a></li>
 </ul></div>
 

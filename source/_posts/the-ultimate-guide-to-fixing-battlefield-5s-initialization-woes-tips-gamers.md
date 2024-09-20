@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-09-09T19:54:52.603Z
-updated: 2024-09-14T22:37:49.381Z
+date: 2024-09-13T17:36:58.020Z
+updated: 2024-09-19T22:08:38.311Z
 tags:
   - win11
   - win10
@@ -143,6 +143,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
@@ -152,13 +159,6 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -210,19 +210,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -232,10 +219,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
@@ -243,19 +230,6 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -278,6 +252,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
@@ -289,6 +270,13 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -303,10 +291,10 @@ sfc /scannow
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
@@ -359,19 +347,20 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagrams-hashtag-language-for-enhanced-engagement-for-2024/"><u>[New] Mastering Instagram's Hashtag Language for Enhanced Engagement for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-ios-ps2-emulation-tools/"><u>[Updated] 2024 Approved Premier iOS PS2 Emulation Tools</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/comprehensive-analysis-the-power-of-the-samsung-galaxy-note20-ultra-5g/"><u>Comprehensive Analysis: The Power of the Samsung Galaxy Note20 Ultra 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/expert-review-of-minecraft-the-ideal-cross-generational-creative-world/"><u>Expert Review of Minecraft: The Ideal Cross-Generational Creative World</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-gameplay-and-webcam-for-2024/"><u>How to Record Gameplay and Webcam for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to others devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A78 Bootloader Easily</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/motorola-one-5g-ace-unveiled-comprehensive-review-on-its-swift-data-speeds-and-remarkable-battery-durability/"><u>Motorola One 5G Ace Unveiled: Comprehensive Review on Its Swift Data Speeds & Remarkable Battery Durability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phantom-problems-solved-strategies-for-decreasing-high-cpu-usage-while-playing-phasmophobia/"><u>Phantom Problems Solved: Strategies for Decreasing High CPU Usage While Playing Phasmophobia</u></a></li>
-<li><a href="https://media-tips.techidaily.com/requesting-spotifys-help-how-to-enable-muting-on-my-account/"><u>Requesting Spotify's Help - How To Enable Muting on My Account</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/score-big-savings-slash-250-off-your-new-rtx-nvidia-geforce-rtx-4090-equipped-beast-mode-gaming-setup/"><u>Score Big Savings: Slash $250 Off Your New RTX nVidia GeForce RTX 4090-Equipped Beast Mode Gaming Setup</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/toms-tech-hub-expert-reviews-and-in-depth-guides/"><u>Tom's Tech Hub: Expert Reviews & In-Depth Guides</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/toms-tech-reviews-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Latest Computer Components</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-xiaomis-precision-flight-insights-via-4k-lens/"><u>[Updated] In 2024, Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-covert-consumer-of-virtual-diaries/"><u>2024 Approved Covert Consumer of Virtual Diaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-spotters-insights-into-zerogpts-stealth-capabilities/"><u>Can You Rely on AI Spotters? Insights Into ZeroGPT's Stealth Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fix-for-broken-usb-ports-on-hp-computers-a-user-friendly-tutorial/"><u>Comprehensive Fix for Broken USB Ports on HP Computers - A User-Friendly Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/vering-the-top-5-smarter-url-lengtheners-for-youtube-for-2024/"><u>Discovering the Top 5 Smarter URL Lengtheners for YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-all-in-one-screen-capture-az-insights-and-alternatives/"><u>In 2024, All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>In 2024, Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enrich-your-brain-with-these-15-ultimate-science-youtubes/"><u>In 2024, Enrich Your Brain with These 15 Ultimate Science Youtubes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-quick-and-slick-video-edits-a-guide-to-using-a-video-clipper-or-trimmer/"><u>Mastering Quick & Slick Video Edits: A Guide to Using a Video Clipper or Trimmer</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>New 2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>New Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>Updated In 2024, The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>Updated In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
 </ul></div>
 

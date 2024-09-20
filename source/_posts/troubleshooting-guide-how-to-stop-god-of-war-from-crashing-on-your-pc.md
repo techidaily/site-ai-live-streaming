@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-09-11T18:39:11.266Z
-updated: 2024-09-15T00:07:31.997Z
+date: 2024-09-12T20:02:34.877Z
+updated: 2024-09-20T04:14:57.118Z
 tags:
   - win11
   - win10
@@ -61,6 +61,19 @@ If it’s not working, move to next fix.
 
 No luck with this one? Move to the next.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -96,16 +109,10 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -118,13 +125,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -152,17 +152,13 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>[Updated] 2024 Approved Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>2024 Approved Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-top-reviews-and-insights/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-selection-of-lgbtq-shows-dominating-netflix-charts-in-july-2024/"><u>Explore Our Curated Selection of LGBTQ Shows Dominating Netflix Charts in July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-downloading-and-applying-new-fonts-on-ios-devices/"><u>Guide: Downloading and Applying New Fonts on iOS Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-ingenuity-3d-text-magic/"><u>In 2024, Illustration Ingenuity 3D Text Magic</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maingears-north-series-revival-meet-the-next-gen-powerhouse-of-gaming-pcs/"><u>Maingear's North Series Revival: Meet the Next-Gen Powerhouse of Gaming PCs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-modern-hardware-through-toms-digital-portal/"><u>Navigating Modern Hardware Through Tom's Digital Portal</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac-for-2024/"><u>Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/premium-auditory-device-amd-edition/"><u>Premium Auditory Device - AMD Edition</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-10-strategies-for-resolving-recurring-windows-11-system-crashes/"><u>Top 10 Strategies for Resolving Recurring Windows 11 System Crashes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-instagram-voice-transformation/"><u>[New] 2024 Approved Mastering the Art of Instagram Voice Transformation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-engagement-customizing-your-shorts-first-impressions/"><u>[Updated] 2024 Approved Boosting Engagement Customizing Your Shorts' First Impressions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-vistas-backgrounds-boosting-live-quality-for-2024/"><u>Best Vistas Backgrounds Boosting Live Quality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>In 2024, Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-review-of-lazlive-live-selling-platform-with-guide-for-2024/"><u>Updated Review of LazLive Live Selling Platform With Guide for 2024</u></a></li>
 </ul></div>
 

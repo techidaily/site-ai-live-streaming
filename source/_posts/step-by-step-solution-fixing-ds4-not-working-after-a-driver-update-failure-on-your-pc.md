@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing 'DS4 Not Working' After a Driver Update Failure on Your PC"
-date: 2024-09-11T22:16:14.104Z
-updated: 2024-09-14T16:40:11.051Z
+date: 2024-09-13T03:40:31.745Z
+updated: 2024-09-20T01:08:42.094Z
 tags:
   - win11
   - win10
@@ -95,15 +95,16 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
-4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
+4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -120,13 +121,6 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -138,6 +132,13 @@ To optimize the graphics settings, follow the steps below:
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable background recording and Xbox Game Bar
 
  Microsoft introduces many gaming features to Windows 10, such as background recording, Xbox Game Bar, etc.. Once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -147,17 +148,32 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Click**Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
@@ -171,19 +187,6 @@ To optimize the graphics settings, follow the steps below:
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
  A power plan is a collection of hardware and system settings that manages how your computer use power. In most cases, the power plan on PCs are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU.
@@ -194,13 +197,6 @@ To optimize the graphics settings, follow the steps below:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -226,17 +222,19 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>[New] In 2024, Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rush-release-channeling-playlist-hits-online/"><u>[New] Rush Release Channeling Playlist Hits Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[Updated] 2024 Approved No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-4k-player-picks-best-8-free-cross-platform-compatible/"><u>[Updated] Optimal 4K Player Picks Best 8 FREE, Cross-Platform Compatible</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/amazfit-bip-unboxing-and-review-why-its-a-game-changer-for-newbies/"><u>Amazfit Bip Unboxing & Review: Why It's a Game-Changer for Newbies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-football-simulation-ever-dive-into-our-comprehensive-fifa-nineteen-analysis/"><u>Best Football Simulation Ever? Dive Into Our Comprehensive FIFA Nineteen Analysis!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719574151519-canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here's How to Fix It</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-innovations-in-tech-tips-and-reviews-from-toms-hardware-team/"><u>Navigating Innovations in Tech: Tips and Reviews From Tom's Hardware Team</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/techniques-for-rapid-deletion-of-youtube-feedback-for-2024/"><u>Techniques for Rapid Deletion of Youtube Feedback for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-holy-stone-race-cartoon-remote-control-cars-top-picks-for-family-entertainment/"><u>Ultimate Guide to Holy Stone Race Cartoon Remote Control Cars: Top Picks for Family Entertainment</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-photo-collage-on-maciphone-using-iphoto-in-2024/"><u>Updated How to Make a Photo Collage on Mac/iPhone Using iPhoto, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-latest-in-art-software-comprehensive-picsart-review-and-guide-2024-edition/"><u>[New] Exploring the Latest in Art Software - Comprehensive PicsArt Review and Guide 2024 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamerease-screen-recording-on-win11/"><u>[Updated] In 2024, StreamerEase Screen Recording on Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-10-drone-fleet-for-professional-photos-and-films/"><u>2024 Approved Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>2024 Approved The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-13-pro-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 13 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-seamlessly-connect-and-play-xbox-game-pass-via-glossi/"><u>How to Seamlessly Connect and Play Xbox Game Pass via GlosSI</u></a></li>
+<li><a href="https://blog-min.techidaily.com/itunesmp32024/"><u>ITunesからMP3形式への楽曲変換手順：2024年版</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/master-amazon-live-features-pro-tips-and-future-trends/"><u>Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-corsair-headset-drivers-on-a-pc/"><u>Step-by-Step Guide: Updating Your Corsair Headset Drivers on a PC</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-access-all-matches-free-world-cup-live-streaming-options/"><u>Updated 2024 Approved Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>Updated 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated In 2024, Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
 </ul></div>
 

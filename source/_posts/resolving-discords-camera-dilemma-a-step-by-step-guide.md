@@ -1,7 +1,7 @@
 ---
 title: "Resolving Discord's Camera Dilemma: A Step-by-Step Guide"
-date: 2024-09-10T16:25:37.394Z
-updated: 2024-09-15T01:11:49.695Z
+date: 2024-09-15T19:23:04.645Z
+updated: 2024-09-20T00:50:41.376Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ Here’s how you can download and install Windows updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. When you have performance issues on your game, your outdated or faulty graphics driver can be the culprit. To fix it, you need to update your graphics driver. This is pretty necessary, especially if you can’t remember when was the last time you updated it.
@@ -103,6 +96,13 @@ Here’s how you can download and install Windows updates:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -114,22 +114,15 @@ Here’s how you can do this:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -144,6 +137,19 @@ To verify the integrity of game files, take these steps:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
@@ -167,6 +173,13 @@ To verify the integrity of game files, take these steps:
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now play Outriders to see if you can get better gaming performance.
 
 ---
@@ -182,28 +195,15 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -226,20 +226,16 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>[New] In 2024, Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-most-innovative-arvr-iphoneandroid-apps-for-2024/"><u>[New] Most Innovative AR/VR iPhone/Android Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-acquire-no-cost-sounds-for-videos-and-podcasts/"><u>[Updated] Acquire No-Cost Sounds for Videos & Podcasts!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-4k-laptops-ultimate-gaming-edition/"><u>[Updated] Best 4K Laptops - Ultimate Gaming Edition</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a18-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/acemagic-unveils-star-wars-inspired-x-wing-miniature-gaming-computer-for-may-the-fourth-day/"><u>AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/elevate-fathers-day-gifting-with-an-immersive-ibuypower-computer-experience/"><u>Elevate Father’s Day Gifting with an Immersive iBUYPOWER Computer Experience</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/exclusive-offer-chip-in-an-extra-250-for-your-ultimate-rtx-cuarto-pc/"><u>Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fastest-performance-alert-newly-released-rtx-2060-super-graphics-card-drivers-for-modern-windows-os/"><u>Fastest Performance Alert! Newly Released RTX 2060 Super Graphics Card Drivers for Modern Windows OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/master-the-latest-tech-trends-with-insights-from-toms-hardware/"><u>Master the Latest Tech Trends with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-toms-tech-landscape-comprehensive-reviews-and-comparisons/"><u>Navigating Tom's Tech Landscape: Comprehensive Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/1723262424124-save-1058-on-lenovos-top-of-the-line-rtx-4080-gpu-equipped-legion-desktop-priced-at-just-2091/"><u>Save $1,058 on Lenovo's Top-of-the-Line RTX 4080 GPU-Equipped Legion Desktop Priced at Just $2,091!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-commence-quickly-open-windows-and-sticky-notes/"><u>Streamlined Commence: Quickly Open Windows and Sticky Notes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>2024 Approved The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-14-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi 14 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/"><u>Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-computers-notebook-recommendations-for-editors/"><u>In 2024, Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Camon 30 Pro 5G FRP?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-secrets-for-tiktok-live-studio-success/"><u>New 2024 Approved Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system-for-2024/"><u>New Unveiling the Secrets of Shopee Livestream Selling System for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sound-excellence-for-podcasters-ultimate-audio-interface-guide-for-2024/"><u>Sound Excellence for Podcasters Ultimate Audio Interface Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>Updated Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-mastering-facebook-live-your-complete-guide-to-successful-streaming-for-2024/"><u>Updated Mastering Facebook Live Your Complete Guide to Successful Streaming for 2024</u></a></li>
 </ul></div>
 
