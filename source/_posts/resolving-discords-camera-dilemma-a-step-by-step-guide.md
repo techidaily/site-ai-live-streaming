@@ -1,7 +1,7 @@
 ---
 title: "Resolving Discord's Camera Dilemma: A Step-by-Step Guide"
-date: 2024-09-15T19:23:04.645Z
-updated: 2024-09-20T00:50:41.376Z
+date: 2024-09-20T16:27:02.047Z
+updated: 2024-09-26T06:01:16.984Z
 tags:
   - win11
   - win10
@@ -45,9 +45,29 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
@@ -61,9 +81,23 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
@@ -87,6 +121,13 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -95,13 +136,6 @@ Here’s how you can download and install Windows updates:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -113,16 +147,16 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -138,22 +172,16 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
@@ -169,16 +197,16 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
@@ -193,13 +221,6 @@ Now play Outriders to see if you can get better gaming performance.
  2) Type **taskmgr** , then press **Enter**  on your keyboard to open the Task Manager.  
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
@@ -224,5 +245,24 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-melody-rights-on-instagram-a-full-breakdown/"><u>[New] 2024 Approved Navigating Melody Rights on Instagram A Full Breakdown</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-essential-tactics-in-creating-convincing-testimonial-content/"><u>[New] Essential Tactics in Creating Convincing Testimonial Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-tips-on-ipad-screen-casts/"><u>[New] In 2024, Expert Tips on iPad Screen Casts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-iconic-trailer-highlight-assortment/"><u>[New] In 2024, Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transform-your-instagram-vocal-identity-today/"><u>[New] Transform Your Instagram Vocal Identity Today</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-user-choice-top-free-streaming-sites-for-sports/"><u>2024 Approved User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bouncie-track-and-trace-revealed-budget-friendly-gps-monitoring-unveiled/"><u>Bouncie Track & Trace Revealed: Budget-Friendly GPS Monitoring Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-comedy-mastering-kinemaster/"><u>Crafting Comedy Mastering KineMaster</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/facebook-live-shopping-a-comprehensive-guide-for-2024/"><u>Facebook Live Shopping A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-10-free-football-streaming-sites-to-bookmark-for-2024/"><u>New 10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>New How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>New The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915248108-top-social-networks-explore-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks - Explore Facebook, Twitter, Instagram & Youtube!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-ultimate-guide-how-to-live-stream-on-facebook/"><u>Updated 2024 Approved Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-basic-guidebook-to-live-selling-in-todays-digital-world-for-2024/"><u>Updated A Basic Guidebook To Live Selling in Todays Digital World for 2024</u></a></li>
+</ul></div>
 

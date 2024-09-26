@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-09-13T17:36:58.020Z
-updated: 2024-09-19T22:08:38.311Z
+date: 2024-09-24T20:59:37.864Z
+updated: 2024-09-26T03:09:23.076Z
 tags:
   - win11
   - win10
@@ -79,6 +79,19 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -100,6 +113,13 @@ In case you don’t know how, here’s the guidance:
 **[Fix 8: Wait for more game updates](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
 
@@ -139,15 +159,28 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
@@ -159,6 +192,13 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -210,6 +250,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -218,18 +265,18 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -253,10 +300,10 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
@@ -271,13 +318,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
  If, after running sfc you still experience the crashing issue, try running dism.exe as described below.
@@ -289,13 +329,6 @@ sfc /scannow
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
 
@@ -345,5 +378,24 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shaping-letters-in-visual-content-for-2024/"><u>[Updated] Shaping Letters in Visual Content for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world-for-2024/"><u>A Basic Guidebook To Live Selling in Todays Digital World for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-motorola-moto-g14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Motorola Moto G14 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-the-chaos-of-nvidias-rtx-3080-in-games/"><u>Conquering the Chaos of Nvidia's RTX 3080 in Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-insiders-guide-to-instagram-video-success/"><u>In 2024, The Insider’s Guide to Instagram Video Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>New 2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>New In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>New The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/review-of-lazlive-live-selling-platform-with-guide/"><u>Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-common-connectivity-issues-in-dysfunctional-samsung-soundbars-effective-solutions-and-techniques/"><u>Solving Common Connectivity Issues in Dysfunctional Samsung Soundbars - Effective Solutions & Techniques</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-10-proplus-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 10 Pro+ 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>Updated 2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>Updated 2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
+</ul></div>
 

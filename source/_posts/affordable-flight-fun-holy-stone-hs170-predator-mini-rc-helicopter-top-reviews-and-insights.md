@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-09-15T00:57:48.346Z
-updated: 2024-09-19T17:37:48.839Z
+date: 2024-09-24T02:20:44.943Z
+updated: 2024-09-25T22:46:06.446Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -36,6 +36,13 @@ Lifewire / Todd Braylor
 [View On Amazon $280](https://www.amazon.com/dp/B019HF60EI/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7CB019HF60EI) [View On Walmart $140](https://www.walmart.com/ip/Escort-Passport-S55-High-Performance-Pro-Radar-and-Laser-Detector-w-DSP/49140972)
 
 3.8
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Escort Passport S55
 
@@ -78,18 +85,18 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Range: Impressive detection**
 
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
 
  It reliably delivers on its promise of long-distance sensitivity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
 
@@ -98,6 +105,13 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: You get what you pay for**
 
@@ -118,10 +132,10 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -151,5 +165,19 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-decoding-the-full-scope-of-obs-screen-recorder/"><u>[New] 2024 Approved Decoding the Full Scope of OBS Screen Recorder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhanced-motion-video-with-top-mics-for-cams/"><u>[New] 2024 Approved Enhanced Motion Video with Top Mics for Cams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>[New] 2024 Approved Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] 2024 Approved Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-close-up-secrets-mastering-the-magnify-technique/"><u>[Updated] In 2024, Instagram's Close-Up Secrets Mastering the Magnify Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apple-m1-explained-the-future-in-your-hands-for-2024/"><u>Apple M1 Explained The Future in Your Hands for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/master-amazon-live-features-pro-tips-and-future-trends-for-2024/"><u>Master Amazon Live Features, Pro Tips and Future Trends for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide-for-2024/"><u>New Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-virtualdub-alternative-guide-features-and-pricing-for-2024/"><u>New The Ultimate Virtualdub Alternative Guide Features and Pricing for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+</ul></div>
 

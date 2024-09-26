@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing 'DS4 Not Working' After a Driver Update Failure on Your PC"
-date: 2024-09-13T03:40:31.745Z
-updated: 2024-09-20T01:08:42.094Z
+date: 2024-09-20T19:27:29.237Z
+updated: 2024-09-25T23:16:38.165Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
 
@@ -65,6 +72,13 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -73,7 +87,21 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
@@ -97,10 +125,10 @@ To optimize the graphics settings, follow the steps below:
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -133,10 +161,10 @@ To optimize the graphics settings, follow the steps below:
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
@@ -150,30 +178,16 @@ To optimize the graphics settings, follow the steps below:
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
@@ -184,6 +198,13 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -220,5 +241,22 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-popularity-essential-seo-techniques-for-success-for-2024/"><u>[New] Elevate Your Video Popularity Essential SEO Techniques for Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-flashes-top-snippets-for-skilled-editors/"><u>[New] Film Flashes Top Snippets for Skilled Editors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-blueprint-for-thriving-on-instagrams-crowd/"><u>[New] The Blueprint for Thriving on Instagram's Crowd</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>[Updated] Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands-for-2024/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-9-key-points-for-choosing-the-perfect-dash-cam/"><u>The Ultimate Checklist: 9 Key Points for Choosing the Perfect Dash Cam</u></a></li>
+<li><a href="https://fox-http.techidaily.com/total-kinetic-analysis-exploration/"><u>Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Nonfunctional Speakers on Your Windows 11 PC: Expert Tips & Tricks"
-date: 2024-09-12T23:25:44.684Z
-updated: 2024-09-19T23:22:16.343Z
+date: 2024-09-18T21:19:40.573Z
+updated: 2024-09-26T01:42:30.253Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  If the sound is still not working, here’s the next thing to try…
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -62,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
@@ -85,9 +105,23 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -101,22 +135,29 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
 4) Try the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -137,10 +178,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
@@ -149,21 +190,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
 
@@ -184,6 +211,13 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -229,5 +263,21 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seamless-video-downloads-windowsmacosandroid-2e-2023/"><u>[New] In 2024, Seamless Video Downloads Windows/macOS/Android, 2E 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-integrating-vimeo-to-instagram-posts/"><u>[Updated] Integrating Vimeo to Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ps1-gaming-delighted-top-5-emulators/"><u>2024 Approved PS1 Gaming Delighted? Top 5 Emulators</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-10-streaming-services-worth-a-try/"><u>2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format-for-2024/"><u>Best in Class Top 8 Software Turning Subtitles Into Simplified SRT Format for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/complete-guide-to-recording-live-tv-on-your-windows-pc-for-2024/"><u>Complete Guide to Recording Live TV on Your Windows PC for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube/"><u>New How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/s-top-10-streaming-video-services-free-ones-available/"><u>S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-s17e-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo S17e</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+</ul></div>
 

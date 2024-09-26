@@ -1,7 +1,7 @@
 ---
 title: SX720HS Review - Balancing Size and Extensive Zooming Capabilities
-date: 2024-09-18T21:02:09.866Z
-updated: 2024-09-20T00:58:58.345Z
+date: 2024-09-20T04:03:51.477Z
+updated: 2024-09-26T00:59:31.367Z
 categories:
   - BestProducts
 description: This Article Describes SX720HS Review - Balancing Size and Extensive Zooming Capabilities
@@ -73,25 +73,11 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Hardware: Some odd decisions**
 
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -107,6 +93,13 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Audio: Excellent sound**
 
  Once the EQ effects are turned off, the Sound Blaster ZxR provides beautiful sound. While it wasn’t quite as clean or crisp as an enthusiast audiophile amplifier, such as the OPPO HA-1, it was solid for a system that costs a quarter of the HA-1’s price. On the HD-800s, the bass came across slightly muddy, but the ZxR provides solid quality for consumer-grade headphones like the Sennheiser GSP300 or the Sony MDR-7506\. As our our[headphone buying guide](https://www.lifewire.com/headphones-buying-guide-4172763) suggests, most headphones under $250 will not be sensitive enough to meaningfully distinguish between the ZxR and the HA-1.
@@ -115,7 +108,27 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Lots of options with mixed utility**
 
@@ -126,15 +139,28 @@ Lifewire / Emily Ramirez
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -160,13 +186,6 @@ Lifewire / Emily Ramirez
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -204,5 +223,17 @@ Lifewire / Emily Ramirez
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-elevating-positivity-in-a-constructive-space/"><u>[New] In 2024, Elevating Positivity in a Constructive Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-techs-time-capsule-a-screen-review/"><u>[New] In 2024, Tech's Time Capsule A Screen Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-walkthrough-for-activating-googles-two-factor-auth-on-mail/"><u>A Comprehensive Walkthrough for Activating Google's Two-Factor Auth on Mail</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-the-best-editing-suite-for-videos-a-deep-dive-into-cyberlinks-powerdirector-2024/"><u>Exploring the Best Editing Suite for Videos: A Deep Dive Into Cyberlink's PowerDirector 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-reach-more-users-by-using-instagram-live-shopping/"><u>How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>New 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-shots-mastering-distortion-in-ps/"><u>Transform Your Shots Mastering Distortion in PS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Updated Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+</ul></div>
 

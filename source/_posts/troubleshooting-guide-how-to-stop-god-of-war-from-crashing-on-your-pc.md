@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-09-12T20:02:34.877Z
-updated: 2024-09-20T04:14:57.118Z
+date: 2024-09-20T02:04:11.531Z
+updated: 2024-09-25T16:34:41.947Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -62,16 +69,16 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
+<span id="1977028">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -105,15 +112,15 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -125,6 +132,13 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -150,5 +164,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-simple-techniques-for-downloading-youtube-content/"><u>[New] 2024 Approved Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-troubleshooting-steps-for-smooth-video-playback-on-a-pc-running-windows/"><u>Complete Troubleshooting Steps for Smooth Video Playback on a PC Running Windows</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-websites-with-cookiebot-technology-for-better-engagement/"><u>Enhancing Websites with Cookiebot Technology for Better Engagement</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-v30-lite-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo V30 Lite 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-v27-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo V27 Face Lock?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>New 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo Find X7</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-oneplus-ace-2-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-hp-screen-glitches-and-flickers/"><u>Taming HP Screen Glitches and Flickers</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+</ul></div>
 
