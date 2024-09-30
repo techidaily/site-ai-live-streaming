@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing 'DS4 Not Working' After a Driver Update Failure on Your PC"
-date: 2024-09-20T19:27:29.237Z
-updated: 2024-09-25T23:16:38.165Z
+date: 2024-09-28T19:32:58.993Z
+updated: 2024-09-30T18:52:28.237Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -43,6 +36,13 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,13 +72,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -88,20 +81,13 @@ There are mainly two methods for you to update the graphics driver:
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
@@ -121,15 +107,16 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
-3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Select **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
@@ -152,6 +139,20 @@ To optimize the graphics settings, follow the steps below:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -159,13 +160,6 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -177,17 +171,17 @@ To optimize the graphics settings, follow the steps below:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
@@ -198,13 +192,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -217,7 +204,22 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -243,20 +245,22 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-popularity-essential-seo-techniques-for-success-for-2024/"><u>[New] Elevate Your Video Popularity Essential SEO Techniques for Success for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-flashes-top-snippets-for-skilled-editors/"><u>[New] Film Flashes Top Snippets for Skilled Editors</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-blueprint-for-thriving-on-instagrams-crowd/"><u>[New] The Blueprint for Thriving on Instagram's Crowd</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>[Updated] Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands-for-2024/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-9-key-points-for-choosing-the-perfect-dash-cam/"><u>The Ultimate Checklist: 9 Key Points for Choosing the Perfect Dash Cam</u></a></li>
-<li><a href="https://fox-http.techidaily.com/total-kinetic-analysis-exploration/"><u>Total Kinetic Analysis Exploration</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-tools-and-tricks-for-minecraft-recordings/"><u>[New] 2024 Approved Essential Tools and Tricks for Minecraft Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-viewership-with-innovative-youtube-thumbnail-ideas/"><u>[Updated] 2024 Approved Maximize Viewership with Innovative YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-youtubes-noteworthy-chats/"><u>[Updated] Examining YouTube's Noteworthy Chats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[Updated] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simplify-video-creation-making-engaging-youtube-trailers-in-filmora/"><u>[Updated] Simplify Video Creation Making Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ferramentas-poderosas-para-gerar-intros-online-gratuitos-em-youtube/"><u>Ferramentas Poderosas Para Gerar Intros Online Gratuitos Em YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-your-favorite-games-online/"><u>How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-s18-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo S18 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-stability-on-iphones-three-key-methods-explored/"><u>In 2024, Ideal Stability on iPhones Three Key Methods Explored</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-user-choice-top-free-streaming-sites-for-sports/"><u>New 2024 Approved User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Updated In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-lego-stop-motion-superstars-the-best-of-the-best-for-2024/"><u>Updated Lego Stop Motion Superstars The Best of the Best for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-list-best-livestream-shopping-apps-of-for-2024/"><u>Updated Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>Updated YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
 </ul></div>
 

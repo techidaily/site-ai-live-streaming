@@ -1,7 +1,7 @@
 ---
 title: Transforming Medicine Through Conversational AI
-date: 2024-09-23T03:31:32.924Z
-updated: 2024-09-26T04:50:40.345Z
+date: 2024-09-27T17:29:28.387Z
+updated: 2024-09-30T20:12:46.464Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ Here are the best ChatGPT alternatives.
 
 ![Bard explaining what MakeUseOf does](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bard-explaining-what-makeuseof-does.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another worthy alternative to ChatGPT is Google's Gemini, formerly Bard AI. After Claude AI, Google's Gemini is probably the most powerful and widely used ChatGPT alternative that doesn't rely on OpenAI's GPT language model. Aptly named, the AI chatbot is currently powered by Google's[Gemini family of large language models](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/) , a move away from the poorly performing[PaLM 2 large language model](https://www.makeuseof.com/what-is-google-palm-2/) .
 
  Although Google's Gemini AI model is similar to OpenAI's GPT at the architectural level, there is a noticeable difference in the practical capabilities of the two language models. Regardless, Google is always trying to build the capabilities of its chatbot to be on par with ChatGPT. Recently, Gemini has been supercharged with new abilities that enable it to generate stunning AI images, just as ChatGPT currently does.
@@ -63,9 +56,23 @@ Here are the best ChatGPT alternatives.
 
  There[are some creative ways to use Google's Gemini](https://www.makeuseof.com/how-to-use-google-bard/) , and if you're wondering how Gemini stacks up against ChatGPT, take a look at our in-depth analysis[comparing ChatGPT vs. Gemini](https://www.makeuseof.com/chatgpt-vs-google-bard/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Microsoft Copilot](https://copilot.microsoft.com)
 
 ![microsoft copilot in edge browser feb 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-in-edge-browser-feb-2024.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft Copilot, formerly Bing AI Chat, is one of the best AI chatbots that uses OpenAI's GPT-4 technology. Microsoft Copilot blends results from the web, OpenAI's GPT-4 model, and Microsoft's proprietary technology to produce factual and up-to-date results for millions of its users worldwide. Like ChatGPT, Copilot can also generate stunning images using the DALL-E image generation model, although the quality of images from Copilot sometimes seems less appealing than those generated from DALL-E on ChatGPT.
 
@@ -81,24 +88,44 @@ Here are the best ChatGPT alternatives.
 
  However, unlike other AI chatbots that are simply "powered by GPT" and do nothing unique, Perplexity has a few interesting features you'll find useful, particularly its ability to regularize GPT data with current information it sources from the internet. Perplexity AI is also great at citing sources in its responses and providing links you might need for further research on a topic. Its free plan is powered by the GPT-3.5 language model, while the Pro plan, priced at $20 per month, is powered by the more powerful GPT-4 language model. Here's our detailed breakdown of[ChatGPT vs. Perplexity AI chatbots](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) .
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Pi AI](https://pi.ai/)
 
 ![Screenshot of PI AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-of-pi-ai-chatbot.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some form of conversational AI model powers all the chatbots on our lists. However, Pi, developed by AI startup Inflection, stands out in its unique interpretation of conversational AI. The chatbot might not be the most advanced AI, but it is one of the most interesting when it comes to holding engaging conversations.
 
  You'll ask other chatbots questions, and they'll provide you with a response, and that's just about that. Pi AI goes the extra mile to make sure that you get the best conversational experience, almost always responding to your queries with a subtle push to keep you engaged in more conversations. It doesn't have the shiny fancy features you'll find in other front-runner chatbots like ChatGPT, but it can provide accurate and detailed answers to most of the questions you throw at it. We highly recommend you give it a try whenever you need a chatbot that is interesting to talk to.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6.[OpenAI GPT Playground](https://beta.openai.com/playground)
 
 ![OpenAI GPT-3.5 Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openai-gpt-3-5-playground.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even before ChatGPT went viral, there was OpenAI's GPT Playground, a platform for the public to play with different iterations of OpenAI's GPT AI models. Unfortunately, the tool didn't create as much buzz as ChatGPT has. This is partly because of its technical user interface and lack of consumer-focused publicity.
 
@@ -110,13 +137,6 @@ Here are the best ChatGPT alternatives.
 
  While ChatGPT will refuse to answer questions on some sensitive topics, the Playground model is less likely to refuse to answer questions. If you'd love to get handy with the Playground, here's a guide on[how to use the GPT Playground](https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[Poe by Quora](http://poe.com)
 
 ![Poe AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-ai.jpg)
@@ -126,15 +146,22 @@ Here are the best ChatGPT alternatives.
  How good is Poe? Well, let's say the biggest allure of using Poe is its array of choices. You could say Poe is as good as a combination of the chatbots available on the platform. Although you might not get the same quality of service as you'd get when using the individual chatbots directly on their original provider's platform, you'll love Poe's flexibility. Things get much better if you take up Poe's $20 monthly subscription, which is cost-effective considering the number of AI models at your disposal. In comparison, the same amount gives you access to a ChatGPT Plus subscription for a month.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8.[YouChat](https://you.com/search?q=who+are+you&tbm=youchat)
 
 ![You.com August screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/you-com-august-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  YouChat, like most ChatGPT alternatives on our list, is powered by a combination of OpenAI's GPT-3.5 and GPT-4 AI models. Its GPT-4 model capabilities are slapped behind a $20 monthly subscription, although you get a few free GPT-4 credits to try out the chatbot. Unless you subscribe to the YouChat Pro plan, your queries should be powered by the slightly older GPT-3.5 series model. This should give you roughly similar results to the capabilities of the free-tier ChatGPT, although with more summarized results that are heavily synthesized with live internet data.
 
@@ -144,29 +171,9 @@ Here are the best ChatGPT alternatives.
 
  Besides a few limitations, YouChat is a simple and powerful ChatGPT alternative that deserves exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9.[Chatsonic](https://writesonic.com/chat)
 
 ![Chatsonic August 2023 screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatsonic-august-2023-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The underlying technology behind ChatGPT (first GPT 3.5, since updated to GPT-4) is the same technology that powers Chatsonic, making it almost as interesting as ChatGPT. Chatsonic goes a step further and builds on[the abilities of ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) while fixing[some of ChatGPT's limitations](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) .
 
@@ -175,13 +182,6 @@ Here are the best ChatGPT alternatives.
  However, Chatsonic is not all rosy. Although you'll get freemium access when you sign up, unlike ChatGPT, Chatsonic is mostly a paid service. You get allocated tokens, and once you're out of tokens, you'll have to stick with the barebones on offer. Also, compared to ChatGPT, Chatsonic isn't great with computer codes.
 
  Compared with Chatsonic, ChatGPT responses are typically significantly more "complete" and better formatted. In several cases, Chatsonic tends to summarize its responses. That might work for some people, but you might not find it useful when you need a long-form response. However, those limitations aside, Chatsonic is exciting and one of the best ChatGPT alternatives.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10.[Character.AI](https://character.ai)
 
@@ -214,22 +214,16 @@ Here are the best ChatGPT alternatives.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-essential-guide-to-lut-applications-in-photoshop-cs6/"><u>[Updated] The Essential Guide to LUT Applications in Photoshop CS6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44cm44k544k44k144ox5yuv55s744gu44oa44km44oz44ot44o844oj5oml6acg77ya6kmz57sw44ks44kk44oj44cn/"><u>「スタサプ動画のダウンロード手順：詳細ガイド」</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>2024 Approved Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avantree-aria-review-hidden-gems-discovered/"><u>Avantree Aria Review: Hidden Gems Discovered</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/becoming-a-pro-in-tiktok-live-shopping-your-complete-guide-for-2024/"><u>Becoming a Pro in TikTok Live Shopping Your Complete Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v29-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V29 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>New 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a38-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A38</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-adventure-a-recommended-watch-list-for-the-indiana-jones-series/"><u>Unraveling the Adventure - A Recommended Watch List for The Indiana Jones Series</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mobile-video-editing-made-easy-powerdirector-alternatives-you-need-to-know/"><u>Updated In 2024, Mobile Video Editing Made Easy PowerDirector Alternatives You Need to Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dynamic-font-movement-packs/"><u>[Updated] Dynamic Font Movement Packs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screenshot-expert-evaluator-for-2024/"><u>[Updated] ScreenShot Expert Evaluator for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-anker-soundcore-airfit-pro-the-ultimate-guide-to-ergonomic-on-the-go-audio/"><u>Expert Analysis: Anker SoundCore AirFit Pro - The Ultimate Guide to Ergonomic On-the-Go Audio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-mastering-facebook-live-your-complete-guide-to-successful-streaming-for-2024/"><u>New Mastering Facebook Live Your Complete Guide to Successful Streaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-proactive-disk-management/"><u>Optimizing Windows 11: Proactive Disk Management</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/step-into-the-future-samsungs-new-k850-ultrablade-unveiled-for-2024/"><u>Step Into the Future - Samsung's New K850 UltraBlade Unveiled for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated How To Perform a Successful Streaming on Twitch</u></a></li>
 </ul></div>
 

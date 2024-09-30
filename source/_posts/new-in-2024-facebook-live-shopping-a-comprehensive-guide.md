@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Facebook Live Shopping A Comprehensive Guide
-date: 2024-09-22T00:52:25.163Z
-updated: 2024-09-26T03:29:59.726Z
+date: 2024-09-25T19:22:21.025Z
+updated: 2024-09-30T18:25:39.552Z
 tags: 
   - ai
   - live-streaming
@@ -191,6 +191,13 @@ Upon creating an account and choosing a suitable product niche, it’s time to f
 
 ![right-ways-to-perform-facebook-live-shopping-5.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Products Are Suitable for Facebook Live?
 
 Determining the top-selling product would help retailers to increase sales. Notably, clothing and accessories are the most selling products of 2022 on Facebook. Meanwhile, self-grooming products stand second, followed by furniture and electronic appliances. Provided is a list of the products that seem suitable for **Facebook live shopping**:
@@ -210,6 +217,13 @@ After learning about setting up a Facebook shop, you should look into some tips 
 
 Build anticipation of your event a couple of days before. Following that, announce or promote your event and encourage people to subscribe to your page. You can invite them via other channels like Instagram posts, blogs, and social media groups.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Keep It Short and Engaging
 
 Consider the first few minutes of the live event important. Show an energetic attitude and grab the audience's attention initially. According to research, social media users prefer to watch videos in under 1 minute.
@@ -225,13 +239,6 @@ Make your audience as much involved in the event as you can. For this, it is sug
 ### 5\. Don’t Let Your Work Wasted
 
 You should not let your **Facebook live online selling** sessions be wasted. Save it in your timeline for people to watch anytime and get information about items. It will also attract new audiences who couldn't join the live session.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Sell Better With Simplicity: Wondershare Virbo Live
 
@@ -312,13 +319,6 @@ The first step is choosing where you want to live. Ask yourself where are you tr
 ##### Step 2 Going live
 
 ![Live Video](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Let’s say that you want to go live on your personal Facebook profile. Then, you need to click on the Facebook app, and click on **What’s on your mind?** Select **Live Video** which will be an option available. Now, you will start to see that new features will appear and you will need to set details about your livestreams in the next step.
 
@@ -434,6 +434,13 @@ Now you will need to give Facebook access to your camera and microphone, add a d
 
 Once you have completed the live stream, simply click the **Finish** button to end your broadcast. In just a couple of minutes, your livestream will be ready in the form of a video.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 02 How to go live on Facebook using the web
 
 When you use the web version of Facebook, you will be redirected to **Live Producer**, which is a tool that allows you to use higher-end production equipment and streaming software. This happens on both laptops and PCs.
@@ -491,6 +498,13 @@ Yes, **Facebook live streaming** is 100% free, meaning you don’t have to pay a
 ##### 4\. Is YouTube Live better than Facebook Live?
 
 Both YouTube Live and Facebook Live are perfect for streaming. However, if your goal is monetization and making money, then using YouTube Live would be better. However, if you want to interact with your audience and make your community grow, then Facebook Live is the best choice.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -810,13 +824,6 @@ Yearning for high-quality, award-winning content? HBO Max is your haven. Dive in
 
 ![hbo max interface](https://images.wondershare.com/virbo/article/2024/03/best-streaming-service-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Apple TV+
 
 Apple device user and craving original content? Apple TV+ offers exclusive shows like Ted Lasso and Severance alongside select movies and documentaries. Enjoy a seamless viewing experience on your Apple devices and discover captivating stories from Apple Studios.
@@ -964,19 +971,6 @@ Yearning for high-quality, award-winning content? HBO Max is your haven. Dive in
 * **Free Trial:**None currently offered.
 
 ![hbo max interface](https://images.wondershare.com/virbo/article/2024/03/best-streaming-service-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Apple TV+
 
@@ -1172,6 +1166,13 @@ Within the Virbo Live interface, you can either compose the script for your live
 
 ![Write your content script for Twitch Live](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pro Tip:** You can use Virbo's AI Script Writer for inspiration. Click on "AI Smart Script" and provide topic details, language preferences, and stylistic choices. Click "Generate" to create a script. Then, you can refine it as needed.
 
 **Step 3:** Customize your AI avatar and background.
@@ -1185,13 +1186,6 @@ Navigate to "AI Avatars" to select an avatar for your live stream. Additionally,
 Once your AI avatar and background are set, click "Start Livestream" to commence broadcasting. The next step should be acquiring the Twitch streaming key to put into the OBS.
 
 ![Start the live stream](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once everything is ready, click "Start Streaming" in OBS Studio, and your stream will broadcast on Twitch.
 
@@ -1226,6 +1220,13 @@ OBS Studio is a free streaming software that works on any device. You can use it
 1. **Twitch Studio**
 
 Twitch Studio is the official free streaming application developed to simplify the streaming process for new streamers on Twitch. It offers an intuitive interface and pre-made scenes designed to streamline the user experience.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Streaming equipment
 
@@ -1386,13 +1387,6 @@ One aspect of LiveNewsChat that we did not like is that it has a lot of annoying
 | **Quality**         | Up to 720p (HD)              |
 | **User Experience** | Simple to use and understand |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Live HD TV
 
 ![Live HD TV](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-2.jpg)
@@ -1429,13 +1423,6 @@ There are advanced options too that are related to ad control, latency, and more
 | **Quality**         | Up to 720p (HD) adjustable |
 | **User Experience** | Simple design              |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. LiveNewsMag
 
 ![LiveNewsMag](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-4.jpg)
@@ -1471,6 +1458,13 @@ Moreover, you also do not have the ability to choose servers, which can be probl
 | **Loading Speed**   | Excellent loading speed          |
 | **Quality**         | Up to 720p (HD) but usually 480p |
 | **User Experience** | Confusing design                 |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: FAQs about MSNBC Live
 
@@ -1517,13 +1511,6 @@ What’s unique about Live HD TV is that it provides you with multiple servers f
 | **Quality**         | Up to 720p (HD)              |
 | **User Experience** | Great design and aesthetics. |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. STREAMFARE
 
 ![STREAMFARE](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-3.jpg)
@@ -1601,6 +1588,13 @@ Yes! You can use any of the links that we have mentioned above to get free MSNBC
 
 If you buy it from the official website, then yes, MSNBC is paid. However, if you stream from a third-party website, then you will not pay anything to use and watch MSNBC live TV shows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Most streaming services require a cable connection to stream MSNBC. However, in this list, we have covered five tools that will let you watch MSNBC Live for free and without having to invest in cable.
@@ -1617,22 +1611,24 @@ These platforms are fast and efficient, and most of them don’t even display ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ifestyle-logging-101-keeping-viewers-hooked-everyday-for-2024/"><u>[New] Lifestyle Logging 101 Keeping Viewers Hooked Everyday for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-profit-pioneering-transforming-youtube-views-into-vast-revenue-on-mobile/"><u>[New] Profit Pioneering Transforming YouTube Views Into Vast Revenue on Mobile</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unseen-but-not-untouched-instagram-guide/"><u>[Updated] 2024 Approved Unseen but Not Untouched Instagram Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-concealment-techniques-securing-image-integrity/"><u>[Updated] Concealment Techniques Securing Image Integrity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-nighttime-hiking-camera-battle-gopro-vs-sj7-star-for-2024/"><u>[Updated] Nighttime Hiking Camera Battle GoPro Vs SJ7 Star for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/conquering-browser-blockades-fix-your-ie-page-loading-problems-once-and-for-all/"><u>Conquering Browser Blockades: Fix Your IE Page Loading Problems Once and For All</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/fixing-the-issue-improving-download-speeds-on-utorrent/"><u>Fixing the Issue: Improving Download Speeds on uTorrent</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>In 2024, YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/overcoming-hurdles-ensuring-a-smooth-launch-of-battlefield-4-on-your-pc/"><u>Overcoming Hurdles: Ensuring a Smooth Launch of Battlefield 4 on Your PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/overcoming-mute-hurdles-in-facebook-video-streams-pc-troubleshooting-tips-for-202/"><u>Overcoming Mute Hurdles in Facebook Video Streams - PC Troubleshooting Tips for 202</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/overcoming-the-hurdle-of-a-non-responsive-google-chrome-browser/"><u>Overcoming the Hurdle of a Non-Responsive Google Chrome Browser</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-harmony-avoiding-wasted-money-on-incompatible-parts/"><u>PC Harmony: Avoiding Wasted Money on Incompatible Parts</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/"><u>Simple Tricks: Avoiding Hassle While Uninstalling Nvidia GeForce Experience</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/star-citizen-stability-improved-no-more-crashes-on-windows/"><u>Star Citizen Stability Improved: No More Crashes on Windows</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/stop-diablo-immortal-from-crashing-on-your-computer-updated-fixes/"><u>Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-espnplus-and-how-does-espns-streaming-service-work/"><u>What Is ESPN+ and How Does ESPN's Streaming Service Work?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-8-choices-of-tripods-for-4k-cinematography/"><u>[New] 2024 Approved Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-game-genre-matchups-titles-alike-to-gta-v/"><u>[Updated] Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c12-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C12 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-excellence-a-practical-approach/"><u>2024 Approved Social Media Excellence A Practical Approach</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/3-gratis-methoden-zum-umwandeln-von-mts-dateien-in-das-mp4-format/"><u>3 Gratis Methoden Zum Umwandeln Von MTS-Dateien in Das MP4 Format</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XR</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y200e-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y200e 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>New 2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New 2024 Approved A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide-for-2024/"><u>New Becoming a Pro in TikTok Live Shopping Your Complete Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-options-top-live-streaming-platforms-according-to-types/"><u>New Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-12-sports-streaming-sites-free-and-paid/"><u>New In 2024, Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-wevideo-your-go-to-platform-for-online-video-editing-for-2024/"><u>New WeVideo Your Go-To Platform for Online Video Editing for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-sony-xperia-5-v-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Sony Xperia 5 V? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Updated 2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Updated In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
 </ul></div>
 

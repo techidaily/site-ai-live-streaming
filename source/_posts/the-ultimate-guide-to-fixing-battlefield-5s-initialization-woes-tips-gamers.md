@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-09-24T20:59:37.864Z
-updated: 2024-09-26T03:09:23.076Z
+date: 2024-09-27T19:53:40.525Z
+updated: 2024-09-30T16:48:13.063Z
 tags:
   - win11
   - win10
@@ -80,16 +80,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
@@ -115,10 +109,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
@@ -138,6 +132,19 @@ In case you don’t know how, here’s the guidance:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -160,28 +167,15 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
@@ -192,13 +186,6 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -214,9 +201,23 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
@@ -250,13 +251,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -270,13 +264,6 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -299,13 +286,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
@@ -317,6 +297,13 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -339,6 +326,13 @@ dism.exe /online /cleanup-image /restorehealth
  After that, hit **Enter** on your keyboard. Then the DISM tool will begin to scan for any problems and try to fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
@@ -380,22 +374,20 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-shaping-letters-in-visual-content-for-2024/"><u>[Updated] Shaping Letters in Visual Content for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world-for-2024/"><u>A Basic Guidebook To Live Selling in Todays Digital World for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-motorola-moto-g14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Motorola Moto G14 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-the-chaos-of-nvidias-rtx-3080-in-games/"><u>Conquering the Chaos of Nvidia's RTX 3080 in Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-insiders-guide-to-instagram-video-success/"><u>In 2024, The Insider’s Guide to Instagram Video Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>New 2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>New In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>New The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/review-of-lazlive-live-selling-platform-with-guide/"><u>Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-connectivity-issues-in-dysfunctional-samsung-soundbars-effective-solutions-and-techniques/"><u>Solving Common Connectivity Issues in Dysfunctional Samsung Soundbars - Effective Solutions & Techniques</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-10-proplus-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 10 Pro+ 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>Updated 2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-square-to-wide-how-to-adjust-video-shape/"><u>Updated 2024 Approved From Square to Wide How to Adjust Video Shape</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-mobile-writing-tools-for-iosandroid-images/"><u>[New] 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-free-your-cameras-potential-best-screens-recording-apps-reviewed/"><u>[New] In 2024, Free Your Camera's Potential Best Screens Recording Apps Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-craft-your-story-pace-with-instagrams-temp-control-feature/"><u>[Updated] Craft Your Story Pace with Instagram's Temp Control Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-podcast-acquisition-on-apple-devices/"><u>[Updated] Mastering Podcast Acquisition on Apple Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastery-over-instagrams-integration-with-music-emoji-features/"><u>2024 Approved Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/celebrity-inspired-glamour-videos/"><u>Celebrity-Inspired Glamour Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a70-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A70</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigate-the-melody-maze-crafting-a-personalized-youtube-playlist/"><u>Navigate the Melody Maze Crafting a Personalized YouTube Playlist</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-12-sports-streaming-sites-freeandpaid/"><u>New 2024 Approved Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>New 2024 Approved Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-10-streaming-services-worth-a-try/"><u>New In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-8-live-selling-platforms-beginners-tool-tip/"><u>New Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-reality-of-youtubes-fast-subscribe-technique/"><u>The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of/"><u>Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated 2024 Approved A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
 </ul></div>
 

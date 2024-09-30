@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-09-24T02:20:44.943Z
-updated: 2024-09-25T22:46:06.446Z
+date: 2024-09-27T21:29:17.179Z
+updated: 2024-09-30T17:24:54.008Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -38,10 +38,10 @@ Lifewire / Todd Braylor
 3.8
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Escort Passport S55
@@ -86,10 +86,10 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Range: Impressive detection**
@@ -107,10 +107,10 @@ Lifewire / Todd Braylor
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: You get what you pay for**
@@ -118,6 +118,13 @@ Lifewire / Todd Braylor
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
@@ -130,13 +137,6 @@ Lifewire / Todd Braylor
  **A basic radar detector that's ideal for beginners or anyone on a budget.**
 
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -167,17 +167,18 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-decoding-the-full-scope-of-obs-screen-recorder/"><u>[New] 2024 Approved Decoding the Full Scope of OBS Screen Recorder</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhanced-motion-video-with-top-mics-for-cams/"><u>[New] 2024 Approved Enhanced Motion Video with Top Mics for Cams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-picks-premium-costless-screencasting-apps-reviewed/"><u>[New] 2024 Approved Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimize-your-streams-with-advanced-obs-techniques-android/"><u>[Updated] 2024 Approved Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-close-up-secrets-mastering-the-magnify-technique/"><u>[Updated] In 2024, Instagram's Close-Up Secrets Mastering the Magnify Technique</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apple-m1-explained-the-future-in-your-hands-for-2024/"><u>Apple M1 Explained The Future in Your Hands for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/master-amazon-live-features-pro-tips-and-future-trends-for-2024/"><u>Master Amazon Live Features, Pro Tips and Future Trends for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide-for-2024/"><u>New Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-virtualdub-alternative-guide-features-and-pricing-for-2024/"><u>New The Ultimate Virtualdub Alternative Guide Features and Pricing for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-what-is-a-parody-and-how-to-make-a-parody-video/"><u>[New] In 2024, What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-zoom-in-zoom-out-managing-close-up-footage-in-videoleap/"><u>[Updated] 2024 Approved Zoom In, Zoom Out Managing Close-Up Footage in Videoleap</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-witness-humor-with-hearts-on-instagram-top-10-memes-to-admire/"><u>[Updated] Witness Humor with Hearts on Instagram Top 10 Memes to Admire</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch/"><u>How To Perform a Successful Streaming on Twitch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-mix-fold-3-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Mix Fold 3.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-9a-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 9A to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-ark-for-pc-troubleshooting-and-fixing-persistent-crash-errors/"><u>Lost Ark for PC: Troubleshooting and Fixing Persistent Crash Errors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-sound-selecting-mics-for-varied-youtube-formats/"><u>Mastering Sound Selecting Mics for Varied YouTube Formats</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches/"><u>New Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>New Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
 </ul></div>
 

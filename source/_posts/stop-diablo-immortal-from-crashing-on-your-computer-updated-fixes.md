@@ -1,7 +1,7 @@
 ---
 title: Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )
-date: 2024-09-19T00:55:14.760Z
-updated: 2024-09-26T00:32:48.566Z
+date: 2024-09-25T21:33:17.104Z
+updated: 2024-09-30T16:47:46.401Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 5. [**Move game files to your Steam drive**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  When you’re dealing with game crashes, first you need to check if you have**the latest intact game files** . You’re likely to run into issues with missing or corrupted game data.
@@ -49,20 +42,28 @@ Here’s how to verify file integrity on Steam:
 2. Right click**Back 4 Blood** and select**Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-3.jpg)
 3. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[latest B4B hotfix](https://www.back4blood.com/en-us/news/october-11-2021-hotfix) is available now. During the verification process, your game files will be updated as well.
 
 Once done, restart your game and see if it crashes again.
 
  If Steam can’t find any faulty game files, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,19 +77,26 @@ Once done, restart your game and see if it crashes again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
  After updating your drivers, restart your PC and check if Back 4 Blood crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Check for conflicting programs
 
@@ -99,6 +107,14 @@ Once done, restart your game and see if it crashes again.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
@@ -106,32 +122,18 @@ Once done, restart your game and see if it crashes again.
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Make sure Windows is up to date
 
@@ -143,17 +145,24 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -173,6 +182,13 @@ Here’s how you can check for updates manually:
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
  If this method doesn’t work for you, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change in-game graphics settings
 
@@ -204,18 +220,16 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-drafting-dynamic-denouements-for-2024/"><u>[New] Drafting Dynamic Denouements for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>[New] Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-budget-friendly-fitbit-versa-smartwatch/"><u>Comprehensive Guide to the Budget-Friendly Fitbit Versa Smartwatch</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-zebra-gk420d-drivers-now-fast-and-simple-download/"><u>Get Your Zebra GK420D Drivers Now – Fast and Simple Download</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multilingual-momentum-speak-and-travel-without-leaving-home/"><u>Multilingual Momentum: Speak and Travel without Leaving Home</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New 2024 Approved Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-for-2024/"><u>New Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategic-vr-marketing-manifesto-for-2024/"><u>Strategic VR Marketing Manifesto for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/understanding-movavi-end-user-licensing-terms-a-comprehensive-guide/"><u>Understanding Movavi End-User Licensing Terms: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-review-of-lazlive-live-selling-platform-with-guide/"><u>Updated Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-of-an-engaging-podcast-blurb/"><u>[Updated] The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-11-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 11 Pro Smoothly</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/masterful-methods-to-log-lol-bouts/"><u>Masterful Methods to Log LOL Bouts</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>New How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/setup-guide-connect-obs-and-streamlabs-on-your-mac-for-2024/"><u>Setup Guide Connect OBS and Streamlabs on Your Mac for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated 2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
 </ul></div>
 
