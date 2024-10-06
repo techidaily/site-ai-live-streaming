@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Secrets for TikTok Live Studio Success
-date: 2024-09-24T18:58:17.991Z
-updated: 2024-09-30T16:08:02.981Z
+date: 2024-10-05T04:08:00.938Z
+updated: 2024-10-05T18:12:44.824Z
 tags: 
   - ai
   - live-streaming
@@ -67,19 +67,6 @@ Lastly, with 24/7 seamless AI streaming, you can plan the stream ahead of time a
 * **AI Live Shopping:** Virbo offers 24/7 live avatars that you can use to set up AI live shopping right on your TikTok page. You don’t need any human model present and you can showcase your product on the TikTok page as you like.
 * **Realistic AI-Driven Avatars:** All avatars are realistic and the vTubers can perfectly mimic natural movements. From different ethnicities, poses, and attire, you have the freedom to choose anything.
 * **Multiple Languages and Accents:** Virbo offers multiple languages and accents that various avatars can have. Hence, you can break the language barrier and create live streams in various languages to target the native people.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set your objectives for TikTok Live
 
@@ -389,6 +376,13 @@ Amazon Live is an effective tool for starting a major sale or increasing the ove
 * You will still need a creative team with resources to represent your brand well
 * Amazon Live is still a fledging service and does not offer influencer marketing nor have its own place on Amazon’s website navigation yet
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Step Guidance: Getting Started with Amazon Live
 
 To create a livestream on Amazon, you need to be a U.S. Professional Seller either registered as a U.S. Vendor or in the Amazon Brand Registry. Sellers who meet the requirements can create their livestreams through the [Amazon Live Creator](https://apps.apple.com/us/app/amazon-live-creator/id1265170914) mobile app.
@@ -598,10 +592,10 @@ Through this platform, users can get their orders delivered to their door withou
 ![shopee live stream platform](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Live Shopping Features Available on Shopee
@@ -633,6 +627,13 @@ When starting **live shopping at Shopee**, it is essential to follow the rules t
 
 With the rise of online shopping, Shopee streamlines the process for its users. Users can perform **live selling in Shopee**through mobile apps and desktops. The friendly interface allows you to showcase things in real-time. Let's discuss a step-by-step guide to elevate your online shopping experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps of Live Shopping in the Shopee Mobile App
 
 Before starting the process, download the Shopee mobile app on your smartphone. Afterward, pass the eligibility test for being the seller. Next, you need to prepare the required equipment to go for a livestream. To start your Shopee Live, you can follow these steps.
@@ -657,6 +658,13 @@ In addition to the mobile app, you can also utilize **Shopee live commerce** on 
 * **Step 2\.** Then, head to the Shopee Live website and sign in with your relevant country page. To create streaming, provide all the details, including the cover photo and title. Now, hit the "Add Related Products" button to insert your desired ones in a live stream. Finally, click the "Next" button to proceed with this livestream generation.
 
 ![add products across shopee live desktop](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Step 3.** Upon reaching a new window, copy the generated link and Stream key through the app and paste it into OBS. This facilitates the transition of streaming between the software and the Shopee website. After adjusting the settings, select the “Go Live” button to start showcasing your products.
 
@@ -686,6 +694,13 @@ First, access the Wondershare Virbo Live website online to enter the primary int
 
 ![start live stream on virbo live](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * Step 2\. Pick and Personalize Your Preferred AI Avatars and AI Backgrounds
@@ -705,13 +720,6 @@ After picking the avatar and background, locate the text box on the left side of
 Once you’ve made your desired changes, hit the “Start livestream” button from the top right. By doing so, you can livestream on your preferred platform, such as Shopee.
 
 ![proceed to start virbo live streaming](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -796,13 +804,6 @@ Using [Virbo AI](https://virbo.wondershare.com/virbo-live.html) for your live sh
 5. **Customizable Q&A Repository**: Create a personalized Q&A database that allows the AI streamer to interact more naturally with your audience
 6. **Interaction Through Text**: Trigger the AI streamer to speak what you type in and engage your audience in text responses
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs About Live Shopping
 
 ##### **1\. What are the benefits of live shopping?**
@@ -822,19 +823,6 @@ It refers to the emotional responses and actions of buyers during the shopping e
 The impact of online live shopping on e-commerce cannot be overlooked. Sellers and influencers are actively engaging with shoppers, encouraging them to make purchases in real-time. As more people get attracted to this, the role of technology is become more evident. For those looking to automate the live shopping experience and save the streaming costs, we highly recommend [Virbo Live](https://virbo.wondershare.com/virbo-live.html). It offers you AI streamers that will keep your viewers engaged at all times, boosting your online revenue.
 
 **Live shopping** has quickly grown in popularity due to the see-no-want-now mentality. Sellers and consumers in most parts of the world have embraced this trend, influencing how products are being sold. In this article, we are going to look at some of the **online live shopping** success case studies and the lessons we can learn from them.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Background Information of Live Stream Shopping
 
@@ -944,13 +932,6 @@ The same goes for the marketing field, which has revolutionized with live sales.
 Customers perceive it as a lively shopping experience instead of websites loading products. It creates a sense of connection as people feel like shopping in physical stores. As **live selling** has a core element of being in real time, people can question and know about the product. Compared with traditional shopping, one can place an order through links mentioned in the livestream.
 
 ![preview of live selling](https://images.wondershare.com/virbo/article/2024/03/guide-to-live-selling-in-todays-work-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Is It Beneficial To Sell Live in This Digital Industry?
 
@@ -1092,6 +1073,13 @@ To expand the product's reach, it is essential to carefully select an **online l
 ### 2\. Real-Time Session With Host
 
 Upon choosing a suitable platform, a live video session is arranged. For that purpose, you need a host who should seem trustworthy and relatable to the product. There could be more than one person in the live sale to demonstrate products and share tips and benefits. Besides, the host needs to interact with the customers and share thoughts about the product.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Points of Product or Video Content
 
@@ -1214,6 +1202,13 @@ With its intuitive options, MLB66 provides a dedicated platform for MLB fans. Th
 
 ![mlb66 mlb streaming option](https://images.wondershare.com/virbo/article/2024/04/watch-free-mlb-streaming-from-best-options-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. Viewers can change the layout and theme for a better viewing experience.
@@ -1245,10 +1240,10 @@ Watching MLB matches with Sportsurge doubles the fun for sports lovers. This pla
 3. No region-based restrictions exist, so you want to watch sports from anywhere.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Comparison of the Best MLB Streaming Sites \[Made Easy\]
@@ -1363,13 +1358,6 @@ Once you complete all the customizations, you can start your live stream. At the
 
 ![start livestream through virbo live](https://images.wondershare.com/virbo/article/2024/04/watch-free-mlb-streaming-from-best-options-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Watching MLB matches is always fun for viewers, but it becomes hectic when facing region-based restrictions. To overcome those limitations, this article introduces **free MLB streaming sites**. With these platforms, you can watch all the matches on any device from anywhere. Besides, we have introduced you to Virbo Live, which can assist you in creating your live streams with different AI functions.
@@ -1384,21 +1372,21 @@ Watching MLB matches is always fun for viewers, but it becomes hectic when facin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>2024 Approved Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-blueprint-mastering-movie-maker-with-windows-8-for-2024/"><u>Beginner's Blueprint Mastering Movie Maker with Windows 8 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-videos-from-mov-to-mp4-for-free-quick-and-simple-online-tool-by-movavi/"><u>Convert Videos From MOV to MP4 for Free - Quick and Simple Online Tool by Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-intuitive-videography-expansion-feature/"><u>In 2024, Intuitive Videography Expansion Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>In 2024, The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-f04-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy F04? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-latest-technology-breakthroughs-at-toms-equipment-corner/"><u>Navigate Through Latest Technology Breakthroughs at Tom's Equipment Corner</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-mastering-facebook-live-your-complete-guide-to-successful-streaming-for-2024/"><u>New Mastering Facebook Live Your Complete Guide to Successful Streaming for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>New Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/revelez-lorigine-de-vos-photographies-vintage-avec-des-logiciels-gratuits-dintelligence-artificielle-les-8-meilleurs-exemples/"><u>Révélez L'Origine De Vos Photographies Vintage Avec Des Logiciels Gratuits D'Intelligence Artificielle - Les 8 Meilleurs Exemples</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-compact-wireless-bluetooth-fm-transmitter-an-exclusive-review-of-the-aphaca-bt69-car-audio-device/"><u>Top Rated Compact Wireless Bluetooth FM Transmitter: An Exclusive Review of the Aphaca BT69 Car Audio Device</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-guide-to-capturing-desktop-using-ezvid-software/"><u>[New] Step-by-Step Guide to Capturing Desktop Using Ezvid Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essential-list-of-8-authentic-youtube-boosters/"><u>[New] The Essential List of 8 Authentic YouTube Boosters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[Updated] 2024 Approved Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-chatter-on-the-hottest-tiktoks/"><u>[Updated] In 2024, Twitter Chatter on the Hottest TikToks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>2024 Approved Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/creating-skype-chats-for-pc-and-mac-users/"><u>Creating Skype Chats for PC & Mac Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-cold-start-ensuring-seamless-launch-of-cod-black-ops-cold-war-on-pc-systems/"><u>Mastering The Cold Start: Ensuring Seamless Launch of Cod: Black Ops Cold War on PC Systems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-excessive-svchost-process-load-on-windows-11-computers/"><u>Top Solutions for Excessive Svchost Process Load on Windows 11 Computers</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
 

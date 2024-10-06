@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-09-29T20:09:48.879Z
-updated: 2024-09-30T21:41:44.157Z
+date: 2024-10-03T20:57:42.251Z
+updated: 2024-10-06T03:08:04.682Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -54,14 +54,14 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -76,10 +76,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -110,15 +110,22 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -160,20 +167,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-monitors-unveiled-the-ultimate-guide-for-sourcing-a-stellar-4k-screen/"><u>[New] In 2024, Monitors Unveiled The Ultimate Guide for Sourcing a Stellar 4K Screen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-trustworthy-tactics-growing-your-youtube-channel-by-a-million-steps/"><u>[New] Trustworthy Tactics Growing Your YouTube Channel by a Million Steps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-tips-for-capturing-desktop-activity-the-ezvide-way-for-2024/"><u>[Updated] Expert Tips for Capturing Desktop Activity - The Ezvide Way for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-your-brother-hl-3170cdw-printer-download-the-latest-drivers-today/"><u>Fast Track Your Brother HL-3170CDW Printer: Download the Latest Drivers Today</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-105-classic-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia 105 Classic in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>In 2024, The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>New In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/"><u>Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-flowchart-streaming-success-on-facebook-iphonesipads/"><u>The Ultimate Flowchart Streaming Success on Facebook, iPhones/iPads</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated 2024 Approved Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated 2024 Approved Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>Updated In 2024, A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[New] Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mr-beasts-wealth-estimated-net-worth/"><u>[New] Mr. Beast's Wealth Estimated Net Worth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-complete-circular-imaging-and-its-distinct-characteristics/"><u>[Updated] In 2024, Complete Circular Imaging and Its Distinct Characteristics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-avoiding-storage-woes-removing-youtube-media/"><u>2024 Approved Avoiding Storage Woes Removing YouTube Media</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v29e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V29e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/facebook-live-shopping-a-comprehensive-guide/"><u>Facebook Live Shopping A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>In 2024, Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-lenovo-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Lenovo Phone Screen?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-itunes-recording-hacks-for-enhanced-videos/"><u>In 2024, ITunes Recording Hacks for Enhanced Videos</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-9-free-tv-streaming-services-or-sites-to-use/"><u>New 2024 Approved Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-leading-into-the-live-selling-world-for-2024/"><u>New Live Chat With WooCommerce Leading Into the Live Selling World for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>New The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-note-30-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Note 30 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
 </ul></div>
 
