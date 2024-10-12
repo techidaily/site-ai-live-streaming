@@ -1,7 +1,7 @@
 ---
 title: Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )
-date: 2024-10-03T03:15:08.814Z
-updated: 2024-10-05T18:15:31.944Z
+date: 2024-10-05T22:20:46.153Z
+updated: 2024-10-11T22:23:37.002Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 5. [**Move game files to your Steam drive**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  When you’re dealing with game crashes, first you need to check if you have**the latest intact game files** . You’re likely to run into issues with missing or corrupted game data.
@@ -43,14 +50,20 @@ Here’s how to verify file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-3.jpg)
 3. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** .. and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[latest B4B hotfix](https://www.back4blood.com/en-us/news/october-11-2021-hotfix) is available now. During the verification process, your game files will be updated as well.
 
@@ -71,26 +84,19 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After updating your drivers, restart your PC and check if Back 4 Blood crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Check for conflicting programs
 
@@ -102,11 +108,31 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -131,20 +157,13 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -159,13 +178,6 @@ Here’s how you can check for updates manually:
  You can right-click your Steam client to get the location. To find out where Back 4 Blood is installed, right-click Back 4 Blood in your Steam Library to open properties and browse local files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-browse-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
@@ -183,10 +195,10 @@ Here’s how:
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -208,22 +220,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-aspect-ratios-for-video-content-creation/"><u>[Updated] Optimal Aspect Ratios for Video Content Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-soar-with-the-pros-top-9-drone-editors-at-every-experience-level/"><u>[Updated] Soar with the Pros Top 9 Drone Editors at Every Experience Level</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-c02-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia C02 without App | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-web-visibility-with-cookiebot-technology/"><u>Boost Web Visibility with Cookiebot Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hp-wirelessnetwork-card-updates-now-supported-on-windows-11-7-and-8/"><u>Get Your HP Wireless/Network Card Updates Now: Supported on Windows 11, 7, and 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-10-video-subtitling-services-online/"><u>In 2024, Foremost 10 Video Subtitling Services Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>In 2024, Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>New 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further-for-2024/"><u>New Searching for Free Sports Streaming Sites? Look No Further for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-ultimate-setup-breakdown-error-1603-explained/"><u>Resolving the Ultimate Setup Breakdown - Error 1603 Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-againnst-ai-leaders-openai-and-meta-faces-lawsuit/"><u>Sarah Silverman Joins Legal Battle Againnst AI Leaders - OpenAI & Meta Faces Lawsuit</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-top-6-alternatives-to-twitch-for-your-streaming-needs-for-2024/"><u>The Top 6 Alternatives to Twitch for Your Streaming Needs for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>Updated 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Updated Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated In 2024, How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated In 2024, RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-hunters-picks-best-video-recorders-reviewed/"><u>[Updated] Hunters' Picks Best Video Recorders Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-comprehensive-list-of-premium-windows-edits-apps/"><u>2024 Approved Comprehensive List of Premium Windows Edits Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles/"><u>From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mx492-drivers-for-your-windows-pc-the-ultimate-resource-for-mx-printers/"><u>Get the Latest Canon MX492 Drivers for Your Windows PC - The Ultimate Resource for MX Printers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/grasping-the-glossary-of-virtual-worlds/"><u>Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-find-your-niche-and-style-a-starters-guide/"><u>How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-blaze-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Blaze Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>New 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>New 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>New How To Start a Private Live Stream on YouTube for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping-for-2024/"><u>Perfect Guide To Excel in TikTok Live Shopping for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated 2024 Approved Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated In 2024, Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
 </ul></div>
 

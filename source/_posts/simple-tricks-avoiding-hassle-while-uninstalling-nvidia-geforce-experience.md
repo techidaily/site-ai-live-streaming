@@ -1,7 +1,7 @@
 ---
 title: "Simple Tricks: Avoiding Hassle While Uninstalling Nvidia GeForce Experience"
-date: 2024-09-29T23:44:51.025Z
-updated: 2024-10-05T17:53:28.898Z
+date: 2024-10-07T22:15:49.343Z
+updated: 2024-10-11T18:09:16.355Z
 tags:
   - win11
   - win10
@@ -59,19 +59,26 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-1.jpg)
 2. Right-click**GenshinImpact.exe** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-02.jpg)
 3. Navigate to the**Compatibility** tab. Under the**Settings** section, check the boxes next to**Disable fullscreen optimizations** (if you’re on Windows 10) and**Run this program as an administrator** . Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-3.jpg)
 4. Run Genshin Impact and see if the crash has gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -85,10 +92,10 @@ Here’s how:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -99,6 +106,13 @@ Here’s how:
  Once you’ve updated your graphics driver, restart your PC and see if Genshin Impact crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -114,13 +128,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -153,13 +160,6 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
 
@@ -170,10 +170,10 @@ Here’s how you can install system updates on Windows 10 or 7:
  If this method doesn’t solve your case, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change in-game resolution
@@ -186,10 +186,24 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
  If this method doesn’t do the trick for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -199,14 +213,14 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
- If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -224,22 +238,8 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
@@ -284,24 +284,16 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-dji-inspire-2-explored-in-detail-for-2024/"><u>[New] DJI Inspire 2 Explored in Detail for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-echoes-of-unity-combining-tracks-in-digital-performer/"><u>[New] In 2024, Echoes of Unity Combining Tracks in Digital Performer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-vs-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic Vs 2 Activity | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>2024 Approved Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-detailed-guide-to-stream-to-instagram-with-an-rtmp-for-2024/"><u>A Detailed Guide To Stream to Instagram With an RTMP for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/become-a-virtual-sleuth-in-these-4-ai-powered-web-detective-escapades-and-enigmas-for-gamers/"><u>Become a Virtual Sleuth in These 4 AI-Powered Web Detective Escapades & Enigmas for Gamers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-start-a-private-live-stream-on-youtube/"><u>How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-6-plus-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 6 Plus for Free</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-live-chat-apps-to-try-with-shopify/"><u>In 2024, Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-turn-onoff-youtube-feedback-settings-with-this-guide/"><u>In 2024, Turn On/Off YouTube Feedback Settings With This Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>New A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>New In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/reclaiming-acoustics-lost-in-social-media-videos-for-2024/"><u>Reclaiming Acoustics Lost in Social Media Videos for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-shopee-livestream-selling-maximize-profits-for-2024/"><u>Ultimate Guide to Shopee Livestream Selling Maximize Profits for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-find-free-songs-for-video-editing/"><u>Updated 2024 Approved Find Free Songs for Video Editing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated 2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-swift-and-smooth-media-navigation-for-2024/"><u>Expert Strategies for Swift and Smooth Media Navigation for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-your-favorite-games-online-for-2024/"><u>How To Stream Your Favorite Games Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-and-mend-lost-disk-spaces-in-windows/"><u>Identify and Mend Lost Disk Spaces in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>In 2024, The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-your-avi-files-easy-techniques-to-minimize-size-for-youtube-streaming-and-email-sharing/"><u>Optimize Your AVI Files - Easy Techniques to Minimize Size for YouTube Streaming and Email Sharing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taste-of-tomorrow-top-2024-audio-innovations-reviewed/"><u>Taste of Tomorrow: Top 2024 Audio Innovations Reviewed</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>Updated 2024 Approved The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Updated Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-top-6-alternatives-to-twitch-for-your-streaming-needs-for-2024/"><u>Updated The Top 6 Alternatives to Twitch for Your Streaming Needs for 2024</u></a></li>
 </ul></div>
 

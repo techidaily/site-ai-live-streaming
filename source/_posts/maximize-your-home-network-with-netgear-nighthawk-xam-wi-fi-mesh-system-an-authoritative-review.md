@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Home Network with Netgear Nighthawk Xam Wi-Fi Mesh System: An Authoritative Review"
-date: 2024-10-05T03:28:11.063Z
-updated: 2024-10-05T22:19:47.722Z
+date: 2024-10-05T18:35:44.637Z
+updated: 2024-10-11T21:34:03.119Z
 categories:
   - BestProducts
 description: "This Article Describes Maximize Your Home Network with Netgear Nighthawk Xam Wi-Fi Mesh System: An Authoritative Review"
@@ -69,6 +69,13 @@ Lifewire / Erika Rawes
 
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Batman’s router**
 
  The Netgear Nighthawk RAX120 has a futuristic design—angular, with clean lines. It looks like a cross between a spaceship and the Batmobile. It’s matte black and rectangular, but instead of the multiple antennas you’d typically see protruding from the top of a Nighthawk router, it has two wing-like extensions that come from each side.
@@ -80,10 +87,10 @@ Lifewire / Erika Rawes
 Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Quick and easy**
@@ -91,13 +98,6 @@ Lifewire / Erika Rawes
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
 
@@ -109,21 +109,7 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Network performance: Stellar**
 
@@ -138,10 +124,10 @@ Lifewire / Erika Rawes
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
@@ -156,6 +142,13 @@ Lifewire / Erika Rawes
 
  The router has two USB 3.0 storage ports on the back for connecting an external hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Nighthawk App**
 
  In the Nighthawk app, you can change your router’s settings, create a guest network, control your router remotely, manage your devices individually, and you can test your network speeds. However, when testing my network speeds, they consistently clock much faster on the Nighthawk app than on other platforms like Ookla and VeeApps.
@@ -167,6 +160,13 @@ Lifewire / Erika Rawes
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -216,24 +216,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[New] 2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-compelling-case-for-integrating-hdr-in-your-workflow/"><u>[New] The Compelling Case for Integrating HDR in Your Workflow</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P40 Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S24+</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-lightning-loop-transferring-youtube-playlists-fast/"><u>In 2024, Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-training-on-googles-automatic-transcription-tool-for-2024/"><u>In-Depth Training on Google's Automatic Transcription Tool for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-amazon-live-for-beginners-features-pro-tips-and-future-trends-for-2024/"><u>New Amazon Live for Beginners Features, Pro Tips & Future Trends for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-perform-a-successful-streaming-on-twitch/"><u>New In 2024, How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/techniques-for-optimizing-video-streaming/"><u>Techniques for Optimizing Video Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-freeandpaid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free&Paid) for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-stream-your-favorite-games-online-for-2024/"><u>Updated How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-selling-a-comprehensive-starters-guide/"><u>Updated In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-secrets-for-tiktok-live-studio-success/"><u>Updated In 2024, Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rendering-reawakening-amds-radeon/"><u>[New] 2024 Approved Rendering Reawakening AMD's Radeon</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-validate-your-youtube-profile-a-simple-guide/"><u>[Updated] 2024 Approved How to Validate Your YouTube Profile? A Simple Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[Updated] In 2024, How To Join Someone’s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-composing-prime-canon-temporal-vignettes/"><u>2024 Approved Composing Prime Canon Temporal Vignettes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ending-playback-error-224003-on-devices/"><u>Ending Playback Error 224003 on Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-warzone-20-7-crucial-fixes-for-a-seamless-launch-experience-on-your-pc/"><u>Mastering Warzone 2.0: 7 Crucial Fixes for a Seamless Launch Experience on Your PC</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>New 2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New 2024 Approved A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide-for-2024/"><u>New Becoming a Pro in TikTok Live Shopping Your Complete Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-12-sports-streaming-sites-free-and-paid/"><u>New In 2024, Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ASUS RT-AC8#Gaming Reality Check: Triple Band Speed and Performance Analyzed"
-date: 2024-10-03T01:31:08.219Z
-updated: 2024-10-05T23:26:34.691Z
+date: 2024-10-10T17:13:28.483Z
+updated: 2024-10-11T21:57:53.618Z
 categories:
   - BestProducts
 description: "This Article Describes ASUS RT-AC8#Gaming Reality Check: Triple Band Speed and Performance Analyzed"
@@ -41,13 +41,6 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/SgNIbLZ961-p9WD7at7-M5m8Tuk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_HeroSquare-b5f2405776244188aa59f67503531baf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jordan Provost
 
 [View On Amazon $371](https://www.amazon.com/Apple-iPad-11-inch-Wi-Fi-64GB/dp/B07K344J3N/?tag=lifewire-onsite-prod-20&ascsubtag=4590128%7Cn50b6c875748247379b153fe6dda1911210%7CB07K344J3N) [View On Walmart $768](https://www.walmart.com/ip/Apple-11-inch-iPad-Pro-2018-Wi-Fi-64GB-Space-Gray/863159777)
@@ -78,14 +71,14 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11-Inch](https://www.lifewire.com/thmb/jYGLTeSXEAGonvbdFrussmvvPDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_2-74153fdc1da44cbba893312f82da0547.jpg)
 
- Lifewire / Jordan Provost
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jordan Provost
 
 ## **Design and Features: Cutting edge**
 
@@ -98,6 +91,13 @@ Lifewire / Jordan Provost
 ![Ipad Pro 11-Inch](https://www.lifewire.com/thmb/TpucPEgB2OHgSplLwk2Q6sbI6Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_5-a6f20cf2b7b84caf8a6290fcb5e9fb5f.jpg)
 
  Lifewire / Jordan Provost
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Accessories: Useful for productivity**
 
@@ -119,20 +119,27 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/GV44W9kKlQd3SXT_XaWI-tjo6Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_6-2bcb5b2009154c92931411045a9b6ddc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jordan Provost
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display: Rich colors and smooth motion**
 
  Apple is well known for its gorgeous screens, and the iPad Pro absolutely delivers. The display is what Apple is calling ‘Liquid Retina’, an upgraded version of the technology that drives the screen on the iPhone XR. Wonderfully rich color reproduction, crisp text can be found across all of Apple’s proprietary apps and third-party optimized software. Reading articles and watching video content on streaming services is wonderful, and it even fares well amidst glare from sunlight. It’s still an LCD screen though, so OLED tablets will still have better-looking blacks and richer, more saturated colors. Fortunately for Apple, there aren’t many of those in the market.
 
  There’s also some nifty usability features that come packed with the iPad Pro. True Tone is a feature that helps match the display to the color temperature of your surroundings, which makes the screen easier on your eyes. The 120Hz Pro Motion technology alters the refresh rate of the screen depending on your usage, which results in extremely fluid motion, from scrolling, to playing games, or watching video. It’s difficult to find a poor viewing angle, though you still can’t watch 4K video on YouTube, which is a crying shame given the power of the screen, but more of a problem between Apple and Google rather than a knock to the device itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Powerhouse processor**
 
@@ -149,10 +156,10 @@ Lifewire / Jordan Provost
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/KXfYew06x6vujxu5asiFMPptK_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_1-a6ce9e62649048d7a20596066576c2c5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jordan Provost
@@ -173,6 +180,13 @@ Lifewire / Jordan Provost
 
  One of the major upgrades to the Pro is the stereo effect audio playback with four powerful speakers, two on either side of the device. The iPad Pro has truly stunning audio, and if you crank it up it could easily act as a party speaker. There is absolutely no need for anything external when watching video content. Amazingly, the fidelity of the audio never seems to suffer, even at full volume. Apple ditching the headphone jack poses an interesting problem in that you’re going to need a pair of Bluetooth headphones or buy an adapter to receive audio on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network: Reasonable connectivity**
 
  In terms of signal strength, we struggled to get the WiFi to break by walking outside and away from our router. In the garden and the garage ( a usual drop-out spot for other devices) it held true in very reasonable fashion.
@@ -181,21 +195,7 @@ Lifewire / Jordan Provost
 
 ![IPad- Pro 11 Inch](https://www.lifewire.com/thmb/D-1-WC_wIDqzRZLb8mDOgpjal6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_3-e425a67865fc461fb805e648294dadf8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jordan Provost
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Camera: A decent backup**
 
@@ -207,18 +207,24 @@ Lifewire / Jordan Provost
 
  Take a peek at some of the[best camera apps](https://www.lifewire.com/best-iphone-camera-apps-4176231) you can download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: All-day usage**
 
  This is an all-day device, and should last you roughly around 10 hours of regular use, as per our testing. We spent almost a full working day pushing it using Split View to draft articles, with some Procreate drawing and Netflix streaming in between, and the iPad Pro clocked out at around 9 hours. However, we found some apps like Google Docs drain the battery more than most, so it varies depending on your workflow. Much like the Apple Watch, if you’re not a power user this tablet could last you a number of days before needing a fresh charge.
 
 ![IPad Pro 11 Inch](https://www.lifewire.com/thmb/Q4zUu4bRCg_V0xhMi5Yh7Ns7znc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_4-bef539783bbd48ae98e1becea11ce4dc.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jordan Provost
 
@@ -236,13 +242,6 @@ Lifewire / Jordan Provost
 
  Luckily, the 11-inch iPad Pro is such a revolutionary upgrade on most tablets that you do truly get what you pay for here. The A12X Bionic puts it leagues ahead of the competition, making it the most powerful productivity machine for professional creatives on the market. There is nothing really competing at this price range beyond.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Competition: Hard to beat**
 
  Nothing can really compete as far as power is concerned when it comes to the iPad Pro, so you’re mostly looking at compromises with certain benefits. The Samsung Galaxy Tab S4 doesn’t suffer from the same locked off functionality of iOS 12 with its Android architecture and has a better AMOLED screen. It also comes packaged with a stylus, which mitigates some of the cost of the Apple Pencil if you find a stylus necessary. This device retails at $649.99, making it more affordable than the iPad. The Microsoft Surface Pro 6 is another option, and may be a better fit for replacing your laptop than the iPad, with its fully functional Windows 10 OS, but it’s still costly at $799\. You could always roll back to the early 2018 9.7-inch iPad if you want to save some money. This will set you back $329 and cover most of your bases, but you’ll miss out on updates like Face ID, the sleek new design, and accessories.
@@ -254,6 +253,13 @@ Lifewire / Jordan Provost
  **The 2018 iPad Pro is a stylish device of unparalleled power.**
 
  With utterly seamless navigation and playback, fantastic speakers and world-class accessories and performance, this is a beautifully designed piece of hardware. Unfortunately, whilst the power is there, it is held back by its own operating system, forcing you into busywork or compromising missteps. It cannot replace your laptop just yet, but it may well make it redundant based on your use case.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -289,20 +295,19 @@ Lifewire / Jordan Provost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-culinary-carousel-swirling-up-top-food-network-names-for-2024/"><u>[New] Culinary Carousel Swirling Up Top Food Network Names for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024s-leading-pick-of-extra-hard-disk-blu-ray-readers-and-writers/"><u>2024'S Leading Pick of Extra Hard Disk Blu-Ray Readers & Writers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/acemagic-unveils-star-wars-inspired-x-wing-miniature-gaming-computer-for-may-the-fourth-day/"><u>AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-high-end-graphics-selection/"><u>Economical High-End Graphics Selection</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/elevate-fathers-day-gifting-with-an-immersive-ibuypower-computer-experience/"><u>Elevate Father’s Day Gifting with an Immersive iBUYPOWER Computer Experience</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/exclusive-offer-chip-in-an-extra-250-for-your-ultimate-rtx-cuarto-pc/"><u>Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-csgo-lag-issues-instantly-simple-solutions/"><u>Fix Your CS:GO Lag Issues Instantly - Simple Solutions!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-do-i-make-my-video-perfectly-fit-instagram-for-2024/"><u>How Do I Make My Video Perfectly Fit Instagram for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-nostalgia-in-streaming-restoring-yt-videos-removed/"><u>In 2024, Nostalgia in Streaming Restoring YT Videos Removed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/may-the-fourth-be-with-you-unveiling-acemagics-mini-pc-in-iconic-x-wing-design/"><u>May the Fourth Be With You: Unveiling AceMagic's Mini PC in Iconic X-Wing Design</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mp4dvd-flick/"><u>MP4ファイルを正常に再生するためのDVD Flick使用時のトラブルシューティングガイド</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-tech-world-easily-with-toms-innovation-hub/"><u>Navigating Tech World Easily with Tom's Innovation Hub</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-toms-tech-landscape-comprehensive-reviews-and-comparisons/"><u>Navigating Tom's Tech Landscape: Comprehensive Reviews and Comparisons</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-macos-big-sur-minimum-requirements-for-2024/"><u>Understanding MacOS Big Sur Minimum Requirements for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-educational-websites-for-flexible-online-studies-for-2024/"><u>[New] Leading Educational Websites for Flexible Online Studies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-triggering-uninterrupted-youtube-streaming-on-facebook-feed/"><u>[Updated] 2024 Approved Triggering Uninterrupted YouTube Streaming on Facebook Feed</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-asrokz790ilightning-wifi-motherboard-review-where-size-doesnt-compromise-power/"><u>Expert Analysis on the ASROKZ790ILightning Wifi Motherboard Review - Where Size Doesn't Compromise Power</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>In 2024, Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>In 2024, The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p40plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P40+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-dominates-as-it-captures-the-leading-seven-positions-worldwide-in-smartphone-market-share-techinsights/"><u>IPhone Dominates as It Captures the Leading Seven Positions Worldwide in Smartphone Market Share | TechInsights</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-12-free-online-video-ai-upgrades-compatible-with-pc-and-mac-systems/"><u>Top 12 Free Online Video AI Upgrades: Compatible with PC & Mac Systems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
 </ul></div>
 

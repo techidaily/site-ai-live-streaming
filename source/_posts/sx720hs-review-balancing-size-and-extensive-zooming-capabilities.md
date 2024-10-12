@@ -1,7 +1,7 @@
 ---
 title: SX720HS Review - Balancing Size and Extensive Zooming Capabilities
-date: 2024-10-05T05:32:38.872Z
-updated: 2024-10-05T22:20:54.137Z
+date: 2024-10-10T22:00:15.466Z
+updated: 2024-10-11T22:17:07.999Z
 categories:
   - BestProducts
 description: This Article Describes SX720HS Review - Balancing Size and Extensive Zooming Capabilities
@@ -67,25 +67,18 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/U_vmwZDe5HbbungQ5L2hzf2LVto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-4-b0d1cca56ec04a61b83e20d1cecf2aea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Sleek and convenient**
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Hardware: Some odd decisions**
 
@@ -94,13 +87,6 @@ Lifewire / Emily Ramirez
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
 
  Lifewire / Emily Ramirez
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process/Installation: Easy install, irritating setup**
 
@@ -114,13 +100,6 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio: Excellent sound**
 
  Once the EQ effects are turned off, the Sound Blaster ZxR provides beautiful sound. While it wasn’t quite as clean or crisp as an enthusiast audiophile amplifier, such as the OPPO HA-1, it was solid for a system that costs a quarter of the HA-1’s price. On the HD-800s, the bass came across slightly muddy, but the ZxR provides solid quality for consumer-grade headphones like the Sennheiser GSP300 or the Sony MDR-7506\. As our our[headphone buying guide](https://www.lifewire.com/headphones-buying-guide-4172763) suggests, most headphones under $250 will not be sensitive enough to meaningfully distinguish between the ZxR and the HA-1.
@@ -128,6 +107,13 @@ Lifewire / Emily Ramirez
  Should you happen to own dynamic headphones, you should find their impedance curve. Dynamic headphones with a high impedance may be distorted by the ACM, thanks to the ACM’s high resistance. How your headphones will be affected depends on their impedance curve: for the HD800s, for example, there is a peak at 100Hz (this range captures electric bass and the lower octaves of guitars), so the upper bass range is boosted relative to the other frequencies in the audio. Increasing the volume on the ACM reduces its output resistance and in turn reduces the distortion, but it may be easier to plug equipment directly into the sound card and use the system volume instead.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -140,10 +126,10 @@ Lifewire / Emily Ramirez
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Unjustified expense**
@@ -170,10 +156,24 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -213,18 +213,22 @@ Lifewire / Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres/"><u>[New] 2024 Approved Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-engaging-audiences-with-creative-text-features/"><u>[New] In 2024, Engaging Audiences with Creative Text Features</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>[Updated] 2024 Approved Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-drone-photographers-stabilization-companion/"><u>[Updated] The Drone Photographer's Stabilization Companion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-8-live-selling-platforms-beginners-tool-tip/"><u>2024 Approved Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cambiar-formatos-de-fotos-eficientemente-convertir-dpx-en-jpg-gratis-usando-movavi/"><u>Cambiar Formatos De Fotos Eficientemente - Convertir DPX en JPG Gratis Usando Movavi</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-tv-streaming-9-sites-you-need-to-know/"><u>In 2024, Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-razr-40-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Razr 40 for Free? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>New 2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/simplified-steps-for-snapchat-lens-design-for-2024/"><u>Simplified Steps for Snapchat Lens Design for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-6-must-have-tools-for-successful-game-streaming/"><u>Updated 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-facebook-live-shopping-a-comprehensive-guide-for-2024/"><u>Updated Facebook Live Shopping A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-culinary-callings-30-unique-show-title-suggestions-for-2024/"><u>[New] Culinary Callings 30 Unique Show Title Suggestions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-guide-to-the-best-auto-tracking-cameras/"><u>[New] Guide to the Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-titles-superior-blu-ray-players-for-free-and-paid-users/"><u>[New] Ideal Titles Superior Blu-Ray Players for Free and Paid Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-hitting-the-sweet-spot-balancing-images-in-your-instagram-story/"><u>[New] In 2024, Hitting the Sweet Spot Balancing Images in Your Instagram Story</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-friends-sharing-seeking-complete-viewability-via-smschat-services-for-2024/"><u>[Updated] Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/becoming-a-onestream-pro-tips-and-tricks-from-the-pros/"><u>Becoming a OneStream Pro Tips and Tricks From the Pros</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-darkest-dungeon-2-from-continuously-crashing-on-your-pc/"><u>How to Prevent Darkest Dungeon 2 From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>New In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-transform-youtube-live-with-these-must-know-secrets/"><u>New Transform YouTube Live with These Must-Know Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-navigating-to-windows-11-phone-dialer/"><u>Tutorial: Navigating to Windows 11 Phone Dialer</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-hisense-50h8f-premium-picture-quality-in-an-economic-package/"><u>Unveiling the Hisense 50H8F: Premium Picture Quality in an Economic Package</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-live-chat-apps-to-try-with-shopify/"><u>Updated 2024 Approved Best Live Chat Apps To Try With Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 </ul></div>
 
