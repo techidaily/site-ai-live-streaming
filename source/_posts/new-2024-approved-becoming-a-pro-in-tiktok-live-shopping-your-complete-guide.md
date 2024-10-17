@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide
-date: 2024-10-01T19:48:06.171Z
-updated: 2024-10-05T22:33:26.794Z
+date: 2024-10-12T20:07:41.915Z
+updated: 2024-10-17T22:28:12.283Z
 tags: 
   - ai
   - live-streaming
@@ -35,6 +35,13 @@ Marketers can operate TikTok Live selling through live streaming and e-commerce.
 When shoppers interact with them, they can buy directly within the app by providing links or buttons. So, there is no need to go out of the platform and surf other websites. Moreover, they can make transactions through integrated payment gateways. Then, sellers ensure fulfillment and smooth delivery of the produce.
 
 ![operation of live shopping in tiktok](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why Is TikTok Live Shopping Beneficial in the Current Digital Industry?
 
@@ -206,22 +213,16 @@ Apart from going live simply, TikTok allows you to schedule live shopping events
 
 ![create event on tiktok app](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Afterward, write a “Description” of the event to define it within 200 characters. Lastly, tap on “Create,” and your event will go under review for approval. Once your **live shopping TikTok** event gets approved, you can see it on your profile.
 
 ![add description and create live event](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Tips That Can Make You the Next Big Seller on TikTok Live Shopping
 
@@ -259,13 +260,6 @@ After that, the tool's home screen opens with several customization options. Nex
 
 ![make virbo blank livestream room](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3\. Insert Text or Navigate to the AI Smart Script Function
 
 The next screen shows multiple features to let you create a live stream. For that, click on the “Text” option on the left side of the display. Type or paste your dubbing content in the text box. You can also choose the “AI Smart Script” option at the bottom left corner to instantly add your prompt and generate a script.
@@ -290,16 +284,16 @@ Once you have selected everything according to the requirements, you can start. 
 
 ![start livestream on virbo live](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 2\. Properly Plan Your Livestream
 
 It won’t be a good impression if you make mistakes in real-time interaction with viewers. Thus, make sure to prepare yourself before going to a live stream. To plan appropriately, collect the data and make an outline or presentation. You can livestream according to outlines and present your products.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3\. Gain Expertise in TikTok Features
 
@@ -367,13 +361,6 @@ Streaming live on Facebook provides capabilities to reach global audiences and s
 
 ![set service to facebook](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Step 5.** It opens the browser and shows the Facebook page through a unique URL. On that page, you can see two options, including “Go live” and “Create event.” Here, you must select “Go Live” to proceed further.
 
 ![proceed to go live across facebook](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-8.jpg)
@@ -389,13 +376,6 @@ Streaming live on Facebook provides capabilities to reach global audiences and s
 * **Step 8.** Afterward, click on the “Start Streaming” function in the “Controls” panel. Then, it immediately starts streaming and shows its parameters in the below bar. To terminate live streaming, hit “Stop Streaming” from the same menu.
 
 ![start streaming on obs](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How To Attract More Live Audiences When Streaming to Facebook With OBS Studio?
 
@@ -631,13 +611,6 @@ For Facebook live streaming, [Virbo Live](https://virbo.wondershare.com/virbo-li
 * **24/7 broadcasting:** The regular Facebook live stream can be interrupted but with Virbo Live, you get continuous 24/7 broadcasting without interruptions.
 * **Live shopping made it easier:** Virbo Live makes it easier for brands to showcase their products in the most user-friendly way possible. You can have the AI describe everything as your product gets bought by the audience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: FAQs about Facebook Live
 
 ##### 1\. How do you get to Facebook Live?
@@ -670,6 +643,13 @@ With its rising popularity, **Instagram** **live shopping** on Instagram helped 
 
 ![understanding more about instagram live shopping](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Instagram Live Shopping: Things Users Need To Know
 
 Businesses on Instagram used to utilize live broadcasts to sell products directly from the app. It allows them to interact with viewers and drive real-time engagement. Instagram live shopping allowed people to save videos so customers could shop after the broadcast. Using this feature helped companies humanize their brand by telling stories.
@@ -725,6 +705,13 @@ Now, hit the “Background” tab from the top toolbar option. Pick one backgrou
 
 ![set elements including background and stickers](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Step 4\. Generate AI Script and Insert Text
 
 After you're done with the basic adjustments, go to the text box on the left side of the screen. You can write a script for your live stream or use the AI-assorted feature here. On the same side, tap the “AI Smart Script” button at the bottom left side of the screen. When a small window opens, write the product name, features, and promotions offered. Pick a language or style and hit the “Generate” button for script generation.
@@ -756,6 +743,19 @@ You can also provide the audience with various sneak peeks of your product. This
 ### 4\. Provide Demonstrations and How-To Video Content
 
 Another important tip for live selling on Instagram is product demo video clips. In these videos, you can illustrate the product's function, usage, and benefits. Moreover, sellers can provide step-by-step guides via links that empower them to buy.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Collaborate and Promote Product Through Online Creators
 
@@ -865,6 +865,13 @@ Finally, set your stage by collaborating with various Instagram influencers and 
 ## Conclusion
 
 As mentioned before, **selling on** **Instagram Live** has been discontinued in 2023\. However, there are still live-streaming platforms available in the market. We looked at various tips to help you achieve the perfect seller live stream. Among the tips, we recommend you utilize [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html), an ideal place to start. You can take your brand to the next with Virbo Live’s live-streaming features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Boxing Streaming Websites You Can’t Afford To Miss
 
@@ -953,6 +960,13 @@ Plus, career-defining fights of boxers are available on this **best boxing strea
 If a boxing match between the two renowned fighters is about to happen, their fans use different mediums to create hype online. Being a big fan, you can create excitement about this upcoming match using the right streaming medium. With [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html), you can promote the boxing match through interactive live streams. It helps you carry out the post-match streams to discuss the outcome of your favorite match.
 
 In addition, Virbo Live offers an AI avatar feature to grasp the audience's attention. AI avatars mirror real-life nuances to give viewers authentic interaction during the stream. With AI script generation, you can generate the script to discuss the boxing match.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Top Features of Wondershare Virbo Live To Make Content Better
 
@@ -1102,13 +1116,6 @@ Start the process on Wondershare Virbo Live by clicking the "Create Stream Room 
 Once you find yourselves in the editing section, add a script you want to use in your live-stream video. While staying in the "Script lines" section, you can add a script in the form of text or audio. If you wish to add an audio script, go to the "Audio" tab and select "Upload local voice." This voice will then be used across the live stream video in Virbo Live.
 
 ![add audio script to virbo livestream](https://images.wondershare.com/virbo/article/2024/03/guide-to-live-selling-in-todays-work-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Step 3\. Set Avatar and Other Elements Before Starting Livestreaming
 
@@ -1391,13 +1398,6 @@ Amazon Live is an effective tool for starting a major sale or increasing the ove
 * You will still need a creative team with resources to represent your brand well
 * Amazon Live is still a fledging service and does not offer influencer marketing nor have its own place on Amazon’s website navigation yet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Step Guidance: Getting Started with Amazon Live
 
 To create a livestream on Amazon, you need to be a U.S. Professional Seller either registered as a U.S. Vendor or in the Amazon Brand Registry. Sellers who meet the requirements can create their livestreams through the [Amazon Live Creator](https://apps.apple.com/us/app/amazon-live-creator/id1265170914) mobile app.
@@ -1480,18 +1480,20 @@ Amazon Live lets sellers and influencers promote products through live streaming
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-best-live-chat-apps-to-try-with-shopify/"><u>2024 Approved Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>2024 Approved Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://win-blog.techidaily.com/3-eficientes-tecnicas-para-transferir-podcasts-entre-pc-y-smartphone/"><u>3 Eficientes Técnicas Para Transferir Podcasts Entre PC Y Smartphone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/beam-your-best-achieving-hd-quality-with-fb-live-for-2024/"><u>Beam Your Best Achieving HD Quality with FB Live for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/creating-impactful-twitter-campaigns-for-businesses-for-2024/"><u>Creating Impactful Twitter Campaigns for Businesses for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nokia-g22-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nokia G22 FRP Locks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nubia-z50-ultra-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nubia Z50 Ultra’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-education-the-role-of-virtual-reality/"><u>Immersive Education The Role of Virtual Reality</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-6-must-have-tools-for-successful-game-streaming/"><u>New In 2024, 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-viewing-experience-premium-quality-156-1080p-ips-monitor-never-seen-such-a-low-price-before-at-just-6599/"><u>Revolutionize Your Viewing Experience: Premium Quality 15.6 1080P IPS Monitor - Never Seen Such a Low Price Before at Just $65.99!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>Updated Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>Updated Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-acquiring-vivid-clipart-without-investment/"><u>[Updated] In 2024, Acquiring Vivid Clipart Without Investment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-redefines-audio-experience-with-pioneering-bluetooth-speaker-the-new-beats-pill/"><u>Apple Redefines Audio Experience with Pioneering Bluetooth Speaker, The New Beats Pill</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/horizon-to-heavens-photo-taking-on-mobile/"><u>Horizon to Heavens Photo-Taking on Mobile</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-m54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy M54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-12-sports-streaming-sites-free-and-paid/"><u>In 2024, Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-exploring-top-iphone-video-editors-cameo-and-filmorago-face-off/"><u>In 2024, Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>New How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-slow-message-delivery-here-are-pertinent-steps-to-resolve-your-iphones-timing-troubles-fixed-in-nine-ways/"><u>Struggling with Slow Message Delivery? Here Are Pertinent Steps to Resolve Your iPhone's Timing Troubles, Fixed in Nine Ways</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/g-photos-steadily-on-one-leg-for-2024/"><u>Taking Photos Steadily on One Leg for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated 2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>Updated Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>Updated How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-list-best-livestream-shopping-apps-of/"><u>Updated Top List Best Livestream Shopping Apps Of</u></a></li>
 </ul></div>
 

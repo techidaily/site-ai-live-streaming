@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System
-date: 2024-10-01T02:56:25.129Z
-updated: 2024-10-05T22:33:34.684Z
+date: 2024-10-11T20:47:15.915Z
+updated: 2024-10-17T22:58:06.393Z
 tags: 
   - ai
   - live-streaming
@@ -102,6 +102,13 @@ Bambuser stands out due to its ability to increase engagement with social video 
 
 ![bambuser livestream shopping](https://images.wondershare.com/virbo/article/2024/03/best-livestream-shopping-apps-to-use-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. The app allows customers to complete their purchases while staying at the platform.
@@ -155,19 +162,6 @@ The QVC App is a mobile **livestreaming shopping app** for a seamless smartphone
 1. You can make use of Voice Search features to make navigation even easier.
 2. With live television broadcasts streamed through the app, users can shop while watching.
 3. Timely notifications ensure that users never miss out on special promotions.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Showday Live & Shoppable Video
 
@@ -295,6 +289,19 @@ In addition to this, it offers a customizable Q&A repository to provide an insta
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide to Creating a Stream Room in Wondershare Virbo Live
 
 Like **live selling on YouTube** **,** Virbo Live provides a straightforward approach for its users. It lets you connect better with your audience to gain a boost for gathering revenue. Follow the below-mentioned steps to create your stream room to sell stuff through Wondershare Virbo Live:
@@ -398,13 +405,6 @@ Navigate through the main website of Virbo Live and tap “Create Stream Room No
 
 ![start live stream room in youtube](https://images.wondershare.com/virbo/article/2024/03/complete-guide-to-youtube-live-selling-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * Step 2\. Select and Personalize Your Preferred AI Avatar
@@ -413,13 +413,6 @@ As a new screen opens, select the “AI avatars” tab to access a dialogue box 
 
 ![add avatar and background to content](https://images.wondershare.com/virbo/article/2024/03/complete-guide-to-youtube-live-selling-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Step 3\. Input Text Script and Change Dubbing Options
 
 Next, navigate to the left side of the window to access the text box. Here, input your desired text or script in the required section. You can also opt for AI-generated scripts to enhance your presentation. To access AI-generated scripts, scroll down the page and locate the “AI Smart Script” button. Click on it, and the tool will generate a script tailored to your product presentation.
@@ -427,6 +420,13 @@ Next, navigate to the left side of the window to access the text box. Here, inpu
 Once you are done making your script, lead to the top of the window to access the “Voice Dubbing” option. Change the voice dubbing according to your region and audience preference.
 
 ![include script and dub](https://images.wondershare.com/virbo/article/2024/03/complete-guide-to-youtube-live-selling-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Step 4\. Start Livestreaming Your Products
 
@@ -448,25 +448,11 @@ If you’re new to the scene, we can help you start your Twitch streaming journe
 
 ![Live stream on Twitch](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Essential Preparations Before Beginning Your Twitch Streaming Journey
 
 Whether you're playing games, hosting events, or just chatting, streaming on Twitch is an exciting and rewarding way to engage with your audience in real-time. But to do well on Twitch, you need to prepare properly so your viewers can enjoy watching your content.
 
 To start streaming on Twitch, here's what you'll need:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Twitch Streaming Software
 
@@ -663,6 +649,19 @@ If your Twitch stream content involves showcasing your reactions or facial expre
 You can consider some popular webcam choices like the Logitech HD Pro C920, Logitech StreamCam, Logitech BRIO, Microsoft LifeCam HD-3000, and Razer Kiyo.
 
 ![Equipment for Twitch video streaming](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Understanding Twitch Streaming Rules
 
@@ -1056,6 +1055,13 @@ Yes, live commerce streaming is usually more economical than pre-recorded stream
 
 Live commerce provides a unique opportunity for brands to reach more audiences and increase their sales revenue. While it has revolutionized online shopping, creating content for live commerce can be expensive and time-consuming. That’s why [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers AI streamers to automate live commerce and allow brands to keep their viewers engaged at a lower cost. By leveraging artificial intelligence, you can enhance your viewers' live shopping experience while getting the best out of the experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Transform YouTube Live with These Must-Know Secrets
 
 **YouTube Live streams** have become popular over the years. From gaming, vlogging, and gambling to some other niches, creators are earning millions of dollars from all over the world. It has come to a point where people do not prefer **YouTube Live** more than Twitch, which is such an interesting thing because Twitch used to be at the forefront of all streaming.
@@ -1166,6 +1172,13 @@ However, if that still doesn’t fix the issue, you should try restarting your s
 
 ![Poor video and audio quality](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We all know many online streams have poor video and audio quality. It can be due to a bad internet connection, and if you are streaming from your cellular data, then it can be inconsistent at times, making your viewers angry with the poor video and audio quality.
 
 Choose a lower-resolution setting in your streaming software. Close unnecessary background applications consuming bandwidth. You can also consider investing in a better internet connection. For audio quality, try to invest in a nice microphone as audio quality can make a day and night difference.
@@ -1195,13 +1208,6 @@ YouTube Live is one of the best ways for creators to grow their brands. Whether 
 So, if you want to transform your YouTube streaming journey from zero to hero, here are some must-know secrets that you should know.
 
 ## Part 1: Must-Know Secrets to YouTube Live
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Select AI-powered streaming tools to ease the workload
 
@@ -1240,6 +1246,13 @@ Enter any text into the box and the AI avatar will generate the words of your ch
 ### 2\. Discuss hot topics your audience wants to talk about
 
 ![Hot Topic](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are a new creator who is looking to make his mark as a successful streamer, then you should capitalize on what already seems to be working. Most creators make this fatal mistake when they try to invent something new, earlier in their streaming career.
 
@@ -1313,6 +1326,13 @@ Choose a lower-resolution setting in your streaming software. Close unnecessary 
 
 ![Laggy stream](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Similar to poor video and audio, a laggy stream can occur due to a bad internet connection. Most streamers have a plethora of applications opened in the background that all take some level of internet.
 
 Consider Steam for example. Applications like Steam will take a big chunk of your internet whenever they are running in the background. If you are suffering from a laggy stream, try to minimize the background applications and close them if unneeded.
@@ -1385,13 +1405,6 @@ Streaming live on Facebook provides capabilities to reach global audiences and s
 
 ![use stream key on obs](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Step 8.** Afterward, click on the “Start Streaming” function in the “Controls” panel. Then, it immediately starts streaming and shows its parameters in the below bar. To terminate live streaming, hit “Stop Streaming” from the same menu.
 
 ![start streaming on obs](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-11.jpg)
@@ -1417,13 +1430,6 @@ Virbo Live would be a perfect solution for creating customized live-stream rooms
 Initially, visit the official site of Wondershare Virbo Live and navigate on the main interface. Move slightly down and click the “Create Stream Room Now” option. Afterward, it will take you to the main panel of the tool.
 
 ![set a new stream room](https://images.wondershare.com/virbo/article/2024/04/using-obs-studio-to-stream-facebook-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Step 2\. Start With Selecting the Livestream Room Template
 
@@ -1671,19 +1677,24 @@ As a social-selling network, Talk Shop Live allows users to interact with each o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-digital-sound-logging-system-inputs/"><u>[Updated] 2024 Approved Digital Sound Logging System Inputs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://solve-info.techidaily.com/converting-audio-files-understanding-the-distinct-features-of-m4a-and-m4b-a-comprehensive-guide/"><u>Converting Audio Files: Understanding the Distinct Features of M4A & M4B - A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/discovering-instagram-de-follows-quickly-for-2024/"><u>Discovering Instagram De-Follows Quickly for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a1-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A1 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-5-effective-ways-of-resizing-your-igtv-videos/"><u>[New] 5 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fast-and-easy-gif-transformation-ultimate-list-of-no-download-services/"><u>[New] Fast and Easy GIF Transformation Ultimate List of No-Download Services</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-restaurer-en-toute-securite-limage-du-systeme-sur-un-ordinateur-different/"><u>Comment Restaurer en Toute Sécurité L’image Du Système Sur Un Ordinateur Différent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-through-the-lens-sage-advice-for-improving-your-edits/"><u>In 2024, Through the Lens Sage Advice for Improving Your Edits</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-6-must-have-tools-for-successful-game-streaming-for-2024/"><u>New 6 Must-Have Tools for Successful Game Streaming for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-stream-your-favorite-games-online/"><u>New In 2024, How To Stream Your Favorite Games Online</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches/"><u>New Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-user-choice-top-free-streaming-sites-for-sports/"><u>New User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-the-full-potential-of-instagram-stories-for-2024/"><u>Unlock the Full Potential of Instagram Stories for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-the-full-potential-of-your-videos-on-youtube-discover-why-a-paid-membership-is-worth-it/"><u>Unlock the Full Potential of Your Videos on YouTube - Discover Why a Paid Membership Is Worth It!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-productivity-experience-flawless-ai-with-copilot-and-gpt-4-turbo-at-zero-cost/"><u>Unlocking Productivity: Experience Flawless AI with Copilot & GPT-4 Turbo at Zero Cost</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/proven-6-best-video-grabbers-for-your-mac-for-2024/"><u>Proven 6 Best Video Grabbers for Your Mac for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-rich-tapestry-of-farsi-history-and-its-learning-perks/"><u>The Rich Tapestry of Farsi History & Its Learning Perks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-review-of-lazlive-live-selling-platform-with-guide-for-2024/"><u>Updated Review of LazLive Live Selling Platform With Guide for 2024</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/updated-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/what-phone-is-compatible-with-gear-vr-2023-update-for-2024/"><u>What Phone Is Compatible with Gear VR? -2023 Update for 2024</u></a></li>
 </ul></div>
 

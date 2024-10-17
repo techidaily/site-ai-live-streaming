@@ -1,7 +1,7 @@
 ---
 title: "Star Citizen Stability Improved: No More Crashes on Windows"
-date: 2024-10-05T17:28:58.835Z
-updated: 2024-10-11T22:10:37.155Z
+date: 2024-10-11T18:37:46.311Z
+updated: 2024-10-17T17:28:31.056Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
@@ -69,16 +62,10 @@ Here is how to view your computer specifications:
  Make sure your computer meets the requirements, then move to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable your antivirus temporarily
@@ -98,13 +85,6 @@ If your game still crashes, move on and try the fix below.
 **1)**  If you’re running Steam now, right-click the **Steam icon** on the taskbar and select **Exit** .
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
@@ -144,6 +124,19 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -163,6 +156,13 @@ There are two ways you can get the right driver for your graphics card:
 
  To check if there is any update, go to the **[Total War: Three Kingdoms website](https://www.totalwar.com/blog/)**  and search for the latest patch. If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 6, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the power option
 
  The power plan on all computers is set to Balanced by default. Under this mode, your computer sometimes might slow down automatically to save energy, which could be the reason why your game crashes frequently.
@@ -172,13 +172,6 @@ There are two ways you can get the right driver for your graphics card:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -211,10 +204,10 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
@@ -226,10 +219,10 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-655.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch_Total War_ .
@@ -266,16 +259,16 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -284,6 +277,13 @@ If your game crashes again, try the fix below.
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -297,19 +297,6 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
@@ -319,6 +306,13 @@ If your game crashes again, try the fix below.
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should be able to run_Total War_ without crashing now. Enjoy your game! If you have any questions or suggestions, feel free to leave a comment below.
 
@@ -343,22 +337,22 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-bebop-2s-aviary-artistry-reviewed/"><u>[New] In 2024, Bebop 2’S Aviary Artistry Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-creative-potential-a-compreeved-guide-to-appending-text-in-photos-on-pc-and-mac/"><u>[Updated] Unlocking Creative Potential A Compreeved Guide to Appending Text in Photos on PC & Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-your-audio-pazera-free-extractor-insights/"><u>2024 Approved Revolutionize Your Audio Pazera Free Extractor Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-budget-conscious-laptop-tools-for-dvd-watchers/"><u>In 2024, Best Budget-Conscious Laptop Tools for DVD Watchers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-play-40c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Play 40C?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>In 2024, The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New 2024 Approved Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-in-china-major-changes-in-the-industry/"><u>New 2024 Approved Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-selling-a-comprehensive-starters-guide/"><u>New In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-future-of-windows-interface-winbubbles-8-innovations/"><u>The Future of Windows Interface: WinBubble's 8 Innovations</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-power-of-youtube-live-selling-unlock-your-sales-potential-for-2024/"><u>The Power of YouTube Live Selling Unlock Your Sales Potential for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated 2024 Approved Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>Updated In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Updated Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-your-deleted-content-8-tactics/"><u>Winning Back Your Deleted Content: 8 Tactics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crafting-perfect-slack-filmo-meeting-experiences/"><u>[Updated] 2024 Approved Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-8plus-places-for-gratis-hdr-environments-and-clips-for-2024/"><u>[Updated] Explore 8+ Places for Gratis HDR Environments & Clips for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-raising-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>[Updated] Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[Updated] The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-to-maximize-the-use-of-your-androids-built-in-measure-application/"><u>Expert Strategies to Maximize the Use of Your Android's Built-In Measure Application</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-13-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 13</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro/"><u>In 2024, From Capture to Edit Elevating Your Immersive Video Experience Using Premiere Pro</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-thumbnails-top-20-font-selection-tips/"><u>In 2024, YouTube Thumbnails Top 20 Font Selection Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>New In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Updated Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>Updated The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
 </ul></div>
 

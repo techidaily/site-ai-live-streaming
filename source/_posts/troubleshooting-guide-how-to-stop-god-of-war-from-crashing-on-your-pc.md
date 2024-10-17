@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-10-09T16:19:48.500Z
-updated: 2024-10-11T21:10:03.257Z
+date: 2024-10-12T16:57:50.289Z
+updated: 2024-10-17T16:21:43.965Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -53,6 +46,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
@@ -69,10 +69,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -111,10 +111,16 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -129,10 +135,10 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -161,19 +167,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-high-quality-audio-interpretation-via-google/"><u>[New] In 2024, Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[New] Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-is-aurora-hdr-setting-photography-trends-for-2024/"><u>[Updated] Is Aurora HDR Setting Photography Trends for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/compreeved-guide-youtube-to-mp3mpeg-transcoding-for-2024/"><u>Compreeved Guide YouTube to MP3/MPEG Transcoding for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-recover-missing-app-icons-on-your-iphone-top-tips-and-tricks/"><u>How to Recover Missing App Icons on Your iPhone - Top Tips and Tricks</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-mp4-do-gif-prekvapivou-vratkou-movavi-video-konverzer-bezplatny/"><u>Online MP4 Do GIF Překvapivou Vratkou: Movavi Video Konverzér Bezplatný</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-a38-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo A38</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-stream-your-favorite-games-online/"><u>Updated In 2024, How To Stream Your Favorite Games Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-does-my-vehicles-battery-keep-giving-out-a-closer-look-at-6-factors/"><u>Why Does My Vehicle's Battery Keep Giving Out? A Closer Look at 6 Factors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-visual-wonders-home-made-effects-demystified/"><u>[New] 2024 Approved Crafting Visual Wonders Home-Made Effects Demystified</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimal-audio-bots-guide-unleashing-peak-performance-in-discord/"><u>[New] Optimal Audio Bots Guide Unleashing Peak Performance in Discord</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-dynamic-speed-up-videos/"><u>2024 Approved Crafting Dynamic Speed-Up Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixelprankspro-humorhexagonhub/"><u>2024 Approved PixelPranksPro HumorHexagonHub</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/halo-bolts-bestselling-power-bank-and-jumper-box-analyzed-for-optimal-performance/"><u>Halo Bolt's Bestselling Power Bank and Jumper Box Analyzed for Optimal Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Without iTunes</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>New 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-list-best-livestream-shopping-apps-of-for-2024/"><u>New Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/power-up-your-life-exclusive-test-and-insight-on-the-efficient-dbpower-cuire-600a-peak-battery/"><u>Power Up Your Life: Exclusive Test and Insight on the Efficient DBPOWER Cuire 600A Peak Battery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synching-worlds-instagram-to-tiktok-essentials/"><u>Synching Worlds Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Updated Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports/"><u>Updated User Choice Top Free Streaming Sites for Sports</u></a></li>
 </ul></div>
 

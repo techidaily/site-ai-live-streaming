@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands
-date: 2024-10-09T21:16:52.637Z
-updated: 2024-10-11T18:48:31.611Z
+date: 2024-10-16T20:05:54.398Z
+updated: 2024-10-17T20:35:55.672Z
 tags: 
   - ai
   - live-streaming
@@ -127,18 +127,18 @@ One of the factors that have made live stream shopping popular is how much users
 
 As live stream shopping continues to attract more people, several top brands have stood out for their success in this area. Let’s have a look at some of the brands that have made remarkable progress in this area and the lessons we can learn from them:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Success Case with Live Online Shopping 1: Samsung Live Stream
 
 With the help [of Smartzer’s Interactive Video Platform](https://www.smartzer.com/shoppable-livestream-video), Samsung Panama delivered highly successful live video shopping for its customers. The shoppable livestream featured exclusive, event-based discount deals for the customers. During the livestream shopping experience, sales representatives from Samsung would demonstrate various products to hundreds of viewers. At the same time, customers would communicate with the host through a chatbot using their nicknames.
 
 ![samsung live shop](https://images.wondershare.com/virbo/article/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Achievement:** The Samsung livestream shopping created a personalized and bespoke shopping experience, replicating the benefits of in-person shopping. Product demonstrations by sales reps and exclusive deals captivated hundreds of viewers. In addition, the interactive chat that was fueled by personalized nicknames fostered an engaging and lovely atmosphere. This led to a significant boost in sales and customer satisfaction.
 
@@ -248,6 +248,13 @@ The first step is choosing where you want to live. Ask yourself where are you tr
 
 ![Live Video](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Let’s say that you want to go live on your personal Facebook profile. Then, you need to click on the Facebook app, and click on **What’s on your mind?** Select **Live Video** which will be an option available. Now, you will start to see that new features will appear and you will need to set details about your livestreams in the next step.
 
 ##### Step 3 Setting live stream details and going live
@@ -292,13 +299,6 @@ If you want to take your **Facebook streaming** to the next level, then you shou
 
 For Facebook live streaming, [Virbo Live](https://virbo.wondershare.com/virbo-live.html) is one of the most amazing tools that is transforming traditional boring live shopping into an AI-driven shopping experience. Let’s discover some of the features related to Facebook Live.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Features of Virbo Live
 
 ![Virbo Live Features](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-6.jpg)
@@ -324,6 +324,13 @@ Yes, **Facebook live streaming** is 100% free, meaning you don’t have to pay a
 ##### 4\. Is YouTube Live better than Facebook Live?
 
 Both YouTube Live and Facebook Live are perfect for streaming. However, if your goal is monetization and making money, then using YouTube Live would be better. However, if you want to interact with your audience and make your community grow, then Facebook Live is the best choice.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -395,24 +402,18 @@ Once everything is good to go, simply click on **Go Live** and you will be able 
 
 ![Virbo Live](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to take your **Facebook streaming** to the next level, then you should try [Virbo Live](https://virbo.wondershare.com/virbo-live.html). Virbo is an all-in-one AI platform that allows users to create high-quality content with 300+ voices and a plethora of powerful features.
 
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) aims to transform the live experience by adding AI into play and improving traditional Facebook live streaming. Using Virbo Live is simple. You need to create a live shopping room where you can create a room or simply select a template. Then, you can choose the AI models and background. You can also choose the text and the voice that you want to be played during the live stream. And lastly, you can interact with your audience in the most user-friendly way possible.
 
 For Facebook live streaming, [Virbo Live](https://virbo.wondershare.com/virbo-live.html) is one of the most amazing tools that is transforming traditional boring live shopping into an AI-driven shopping experience. Let’s discover some of the features related to Facebook Live.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Features of Virbo Live
 
@@ -453,13 +454,6 @@ After the COVID-19 pandemic, people started trusting online shopping. Therefore,
 Considering this scenario, major tech giants like Meta entered the market. They released a **Facebook live shopping** feature and pushed the boundaries of e-commerce. If you are new to this tech-based shopping or selling, this guide is for you. However, read it by the end to get comprehensive insights on Facebook live selling and shopping.
 
 ![right-ways-to-perform-facebook-live-shopping-1.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. A Brief Introduction to Facebook Live Shopping
 
@@ -528,13 +522,6 @@ Consider the first few minutes of the live event important. Show an energetic at
 ### 3\. Plan Things and Be Organized
 
 It is better to plan your points of discussion before the event. You should write the outline and transition lines to shift from one product to another. Besides, keep your surroundings organized to give viewers a good impression.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Energetically Communicate
 
@@ -604,6 +591,19 @@ According to [statistics](https://bloggingwizard.com/facebook-live-statistics/),
 
 ![right-ways-to-perform-facebook-live-shopping-2.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Facebook Live Shopping Notification
 
 To bring viewer traffic, Facebook sends notifications to customers. People get notified via Messenger or Facebook notifications about their favorite brand’s live selling. This way, merchants can attract the maximum number of customers.
@@ -626,6 +626,13 @@ After understanding these features, sellers can set up their shop. For this purp
 * **Step 2.** From the top bar of your Meta Business page, tap the “Live Shopping” option. There, toggle the “Enable Live Shopping” option and go to stream your first shopping session.
 
 ![right-ways-to-perform-facebook-live-shopping-3.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Upon creating an account and choosing a suitable product niche, it’s time to feature them. To learn how sellers feature products, review these steps and make your items visible to viewers:
 
@@ -663,6 +670,13 @@ Consider the first few minutes of the live event important. Show an energetic at
 ### 3\. Plan Things and Be Organized
 
 It is better to plan your points of discussion before the event. You should write the outline and transition lines to shift from one product to another. Besides, keep your surroundings organized to give viewers a good impression.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Energetically Communicate
 
@@ -818,13 +832,6 @@ After the game concludes, provide viewers with comprehensive post-game analysis 
 Make sure your NFL stream titles clearly state the sport or activity. Use tags like "Football" and add descriptors like "Sidecasting" or "Sports Talk" to give viewers an idea of what to expect.
 
 You can also personalize your NFL livestream to boost engagement. Add extensions such as alerts and overlays. Use templates from the platform or third-party tools to make your stream unique.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Engaging NFL Fan Viewers with AI Tools
 
@@ -1064,13 +1071,6 @@ Game streaming platforms enable the viewers to interact with streamers for an in
 
 ![dlive gaming streaming tool](https://images.wondershare.com/virbo/article/2024/04/stream-favorite-games-online-in-2024-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Gosu Gamer
 
 Are you fond of esports and want information about esports from around the world? Gosu Gamers is a unique website that can give news and ranking of esports gamers. It can let you watch gaming streams with a chat option. Plus, you can also get information about past and upcoming e-gaming matches.
@@ -1140,6 +1140,13 @@ MSNBC is amongst the top cable news networks especially on Facebook, edging even
 But being a paid service, it chases away a lot of the users. So, if you want to watch the MSNBC live stream free, we have got the perfect list of websites that will allow you to watch your favorite shows without spending credits or money.
 
 ## **Part 1:**  Best 5 Free MSNBC Live Streaming Sites
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. LiveNewsChat
 
@@ -1302,13 +1309,6 @@ There are advanced options too that are related to ad control, latency, and more
 
 ![LiveNewsMag](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [LiveNewsMag](https://www.livenewsmag.com/msnbc-news-live-stream/) has one of the prettiest website designs and it allows you to watch MSNBC Live for free. However, there’s a catch. You will need to experience ads since the website won’t even work even if you have an ad blocker installed and activated.
 
 However, you can join LiveNewsPro which will disable ads for your particular account on the platform. LiveNewsMag provides one of the fastest loading times and although you will be greeted with ads from time to time, you are still getting live news on MSNBC right in the LiveNewsMag platform.
@@ -1379,24 +1379,16 @@ These platforms are fast and efficient, and most of them don’t even display ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>[New] From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-strategies-to-enhance-gopros-electric-efficiency/"><u>[Updated] In 2024, Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-creating-content-from-home-macbook-cam-guide/"><u>2024 Approved Creating Content From Home MacBook Cam Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/captivate-viewers-strategies-for-viral-video-success/"><u>Captivate Viewers Strategies for Viral Video Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-increased-output-how-chatgpt-can-revolutionize-your-daily-job-routine/"><u>Experience Increased Output: How ChatGPT Can Revolutionize Your Daily Job Routine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-a-broken-hyperx-cloud-alpha-headset-microphone/"><u>Expert Advice on Repairing a Broken HyperX Cloud Alpha Headset Microphone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-continuous-collapses-in-tower-of-fantasy-gameplay-on-pc/"><u>Fixing the Continuous Collapses in Tower of Fantasy Gameplay on PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-10-free-football-streaming-sites-to-bookmark/"><u>New 10 Free Football Streaming Sites To Bookmark</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New In 2024, Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-streaming-services-worth-a-try/"><u>New Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-9-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-note-30i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Note 30i Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify/"><u>Updated Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated In 2024, Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion-for-2024/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-basics-to-advanced-using-macs-preview-like-a-pro/"><u>[Updated] In 2024, From Basics to Advanced Using Mac's Preview Like a Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-parrot-ar-drone-elite-edition-expert-evaluation/"><u>2024 Approved Parrot AR Drone Elite Edition – Expert Evaluation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/al-dividends-the-creators-guide-to-monetization/"><u>Digital Dividends The Creator's Guide to Monetization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-save-photo-from-video-in-windows-10-photos-app/"><u>How to Save Photo From Video in Windows 10 Photos App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens/"><u>In 2024, Live TV on Your Desktop Windows PC Masterclass in Capturing Screens</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-list-best-livestream-shopping-apps-of/"><u>In 2024, Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-list-top-free-photo-stockpile-locales-for-2024/"><u>Master List Top Free Photo Stockpile Locales for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>New A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-your-selling-strategy-with-lazlive-live-selling-for-2024/"><u>New Your Selling Strategy With LazLive Live Selling for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pacific-drive-not-launching-how-to-fix/"><u>Pacific Drive Not Launching: How to Fix?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated In 2024, The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
 </ul></div>
 

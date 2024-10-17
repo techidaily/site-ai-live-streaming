@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-10-04T23:04:31.487Z
-updated: 2024-10-11T22:28:21.881Z
+date: 2024-10-10T18:51:17.791Z
+updated: 2024-10-17T19:39:54.358Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -37,22 +37,15 @@ Lifewire / Todd Braylor
 
 3.8
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -77,10 +70,10 @@ Lifewire / Todd Braylor
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design:** **A bit cheap**
@@ -106,10 +99,10 @@ Lifewire / Todd Braylor
  It reliably delivers on its promise of long-distance sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
@@ -119,6 +112,19 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: You get what you pay for**
 
@@ -167,20 +173,19 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-start-guide-to-setup-and-use-obs-on-apple-systems/"><u>[New] In 2024, Quick Start Guide to Setup and Use OBS on Apple Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-visual-vault-saving-windows-imagery/"><u>[New] Visual Vault Saving Windows Imagery</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-optimize-your-watch-time-on-instagram-videos/"><u>[Updated] In 2024, Optimize Your Watch Time on Instagram Videos</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-picks-the-most-popular-ebook-readers/"><u>Explore Our Picks: The Most Popular eBook Readers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-instream-ads-how-to-setup-and-evaluate-facebook-instream-ad/"><u>Facebook Instream Ads | How to Setup and Evaluate Facebook Instream Ad</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording/"><u>In 2024, Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/innovating-content-the-marketers-choice-of-top-10-ig-editing-tools/"><u>Innovating Content The Marketer's Choice of Top 10 IG Editing Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/interconnecting-your-music-collection-across-services/"><u>Interconnecting Your Music Collection Across Services</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New In 2024, Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-streaming-services-worth-a-try/"><u>New Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated In 2024, Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Updated Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion-for-2024/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>[New] In 2024, Smooth Operations Screen Recording Basics for Lenovo Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] 2024 Approved How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/10-free-football-streaming-sites-to-bookmark-for-2024/"><u>10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-kinemaster-tutorial-seamless-integration-of-green-screen-techniques/"><u>2024 Approved Kinemaster Tutorial Seamless Integration of Green Screen Techniques</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-secrets-for-tiktok-live-studio-success/"><u>2024 Approved Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-your-following-with-these-top-insta-apps/"><u>Boost Your Following with These Top Insta Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-functionality-of-a-broken-dell-usb-connection/"><u>Expert Tips to Restore Functionality of a Broken Dell USB Connection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-printer-back-online-after-driver-has-stopped-working-in-a-32-bit-system/"><u>How to Get Your Printer Back Online After 'Driver Has Stopped Working' In a 32-Bit System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-gt-5-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme GT 5 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>In 2024, The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-currently-not-worth-your-money-insights/"><u>Top 4 Apple Devices Currently Not Worth Your Money: Insights</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated 2024 Approved Free TV Streaming 9 Sites You Need To Know</u></a></li>
 </ul></div>
 
