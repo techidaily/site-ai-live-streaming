@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-10-22T16:05:09.167Z
-updated: 2024-10-23T16:42:34.783Z
+date: 2024-10-24T22:26:18.429Z
+updated: 2024-10-28T18:28:31.941Z
 tags:
   - win11
   - win10
@@ -47,14 +47,20 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-If it’s not working, move to next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not working, move to next fix.
 
 ### Fix 2: Disable overclocking
 
@@ -98,24 +104,31 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -127,13 +140,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -161,18 +167,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-accidental-tiktok-refresh-recover-your-content/"><u>[Updated] In 2024, Accidental TikTok Refresh - Recover Your Content?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-and-prevent-scavengers-from-crashing-on-pc-tips-and-solutions/"><u>Fix and Prevent Scavengers From Crashing on PC – Tips & Solutions</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch/"><u>How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-increasing-the-usefulness-of-gopros-battery/"><u>In 2024, Tips for Increasing the Usefulness of GoPro's Battery</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-itel-p55-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Itel P55? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-360-video-landscape-key-dos-and-donts-9-for-2024/"><u>Navigating the 360 Video Landscape Key Do's and Don'ts (9) for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches/"><u>New Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>New Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-se-2022-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE (2022) without Passcode or Face ID</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-direct-methods-reverse-film-frames-on-vlc-platform-for-2024/"><u>[New] Direct Methods Reverse Film Frames on VLC Platform for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-viewership-with-advanced-youtube-video-tracker-tools/"><u>[New] Enhance Viewership with Advanced YouTube Video Tracker Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-key-components-to-successful-ad-textual-content-creation-for-2024/"><u>[New] Key Components to Successful Ad Textual Content Creation for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erfect-pixels-selecting-best-cameras-for-yt/"><u>[New] Perfect Pixels Selecting Best Cameras For YT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-windows-movie-maker-downloading/"><u>[New] Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-colorful-compositions-in-a-click-photoshops-guide/"><u>In 2024, Colorful Compositions in a Click Photoshop's Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-to-saving-switch-gameplay-on-video/"><u>In 2024, Secrets to Saving Switch Gameplay on Video</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>New In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>New In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>New The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g34-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G34 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1080p720p/"><u>プロフェッショナルガイド：1080P動画をスムーズに720Pに圧縮し、品質を保ちます</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Home Network with Netgear Nighthawk Xam Wi-Fi Mesh System: An Authoritative Review"
-date: 2024-10-19T17:22:17.788Z
-updated: 2024-10-23T16:34:44.420Z
+date: 2024-10-25T06:03:47.437Z
+updated: 2024-10-29T12:33:09.676Z
 categories:
   - BestProducts
 description: "This Article Describes Maximize Your Home Network with Netgear Nighthawk Xam Wi-Fi Mesh System: An Authoritative Review"
@@ -69,13 +69,6 @@ Lifewire / Erika Rawes
 
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Batman’s router**
 
  The Netgear Nighthawk RAX120 has a futuristic design—angular, with clean lines. It looks like a cross between a spaceship and the Batmobile. It’s matte black and rectangular, but instead of the multiple antennas you’d typically see protruding from the top of a Nighthawk router, it has two wing-like extensions that come from each side.
@@ -85,26 +78,32 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/fw0FJuD9bAOkQEHuAZ9OFq5toXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_05-2a03227466354aad82fe55b884b76ac6-4d18f476974a44b081aafc943a8e56b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Quick and easy**
 
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
 
@@ -117,10 +116,16 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -138,10 +143,10 @@ Lifewire / Erika Rawes
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
@@ -167,6 +172,13 @@ Lifewire / Erika Rawes
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -216,18 +228,17 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-screen-recording-on-mac-best-apps-of-choice-for-2024/"><u>[New] Streamlined Screen Recording on Mac Best Apps of Choice for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-seamless-tweet-to-snap-transition-guide/"><u>[New] The Seamless Tweet-to-Snap Transition Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>[Updated] 2024 Approved Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-anonymous-fb-story-watcher-app/"><u>[Updated] Anonymous FB Story Watcher App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>[Updated] Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-vega-driver-update-made-effortless-for-gamers-start-here/"><u>AMD Vega Driver Update Made Effortless for Gamers – Start Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eye-catching-coverage-laptop-wallpapers-online-for-2024/"><u>Eye-Catching Coverage Laptop Wallpapers Online for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-verifying-your-youtube-profile/"><u>In 2024, The Essential Guide to Verifying Your YouTube Profile</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-9-free-tv-streaming-services-or-sites-to-use-for-2024/"><u>Top 9 Free TV Streaming Services or Sites To Use for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsticking-stuck-playback-a-guide-to-fixing-pebble-speakers/"><u>Unsticking Stuck Playback: A Guide to Fixing Pebble Speakers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dispelling-dark-pixels-youtube-solution-guide/"><u>[New] 2024 Approved Dispelling Dark Pixels YouTube Solution Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-engaging-essentials-leading-ig-filters/"><u>[New] In 2024, Engaging Essentials Leading IG Filters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-premium-image-on-zoom-via-strategic-filters/"><u>[Updated] Securing Premium Image on Zoom via Strategic Filters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-increasing-fb-likes-with-top-apps-for-2024/"><u>[Updated] The Ultimate Guide to Increasing FB Likes with Top Apps for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boosted-audio-visual-experience-choose-av1-on-youtube/"><u>In 2024, Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/instantaneous-innovation-cure-legends-errors/"><u>Instantaneous Innovation: Cure Legends Errors</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>New 2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-access-all-matches-free-world-cup-live-streaming-options/"><u>New In 2024, Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches/"><u>Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analysis-of-sony-bdp-s6700/"><u>Updated Analysis of Sony BDP-S6700</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )
-date: 2024-10-16T17:20:35.213Z
-updated: 2024-10-23T17:34:39.763Z
+date: 2024-10-25T16:41:26.667Z
+updated: 2024-10-28T21:59:51.952Z
 tags:
   - win11
   - win10
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify integrity of game files
@@ -52,24 +58,18 @@ Here’s how to verify file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The[latest B4B hotfix](https://www.back4blood.com/en-us/news/october-11-2021-hotfix) is available now. During the verification process, your game files will be updated as well.
 
 Once done, restart your game and see if it crashes again.
 
  If Steam can’t find any faulty game files, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -91,6 +91,13 @@ Once done, restart your game and see if it crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Check for conflicting programs
 
  Some software, especially**hardware tuning utilities** such as MSI Afterburner and Razer Synapse 3, could undermine the stability of your system and thus crash 3D programs. To avoid these interferences, you can do a clean boot and see how it goes.
@@ -102,18 +109,24 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -121,13 +134,6 @@ Once done, restart your game and see if it crashes again.
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Make sure Windows is up to date
 
@@ -139,39 +145,40 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’re sure Windows is up to date, restart your PC and test the gameplay in Back 4 Blood.
 
  If your system is already the latest, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Move game files to your Steam drive
 
@@ -180,13 +187,6 @@ Here’s how you can check for updates manually:
  You can right-click your Steam client to get the location. To find out where Back 4 Blood is installed, right-click Back 4 Blood in your Steam Library to open properties and browse local files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-browse-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
@@ -222,16 +222,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-apk-masterclass-enjoy-funimate-on-android/"><u>[New] 2024 Approved APK Masterclass Enjoy Funimate on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-cutzone-pro-review-unveiled/"><u>2024 Approved In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-error-troubleshooting-network-initialization-failures/"><u>Dragon Ball FighterZ Error: Troubleshooting Network Initialization Failures</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>In 2024, The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>New How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated 2024 Approved How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>Updated Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-behind-every-like-unseen-factors-that-influence-viewer-reactions/"><u>[New] In 2024, Behind Every Like Unseen Factors That Influence Viewer Reactions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-stream-perfecting-tweets-with-correct-video-formats/"><u>2024 Approved Stream-Perfecting Tweets with Correct Video Formats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-the-beast-of-processing-power-top-fixes-for-baldurs-gate-3-cpu-problems/"><u>Battling the Beast of Processing Power: Top Fixes for Baldur's Gate 3 CPU Problems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands-for-2024/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6sipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6s/iPad Without Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/into-the-code-labyrinastr-facebooks-message-extraction-guide/"><u>Into the Code Labyrinastr - Facebook's Message Extraction Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-12-sports-streaming-sites-freeandpaid/"><u>New Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>New In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-precision-the-leading-video-control-software-for-2024/"><u>Speedy Precision The Leading Video Control Software for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-troubleshooting-eliminating-lag-in-new-world-adventures/"><u>Step-by-Step Troubleshooting: Eliminating Lag in 'New World' Adventures</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-secrets-of-shopee-livestream-selling-system-for-2024/"><u>Unveiling the Secrets of Shopee Livestream Selling System for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-old-printer-to-compatible-with-new-os-sets/"><u>Update Old Printer to Compatible with New OS Sets</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-as-a-gateway-for-instagrams-2fa-messages/"><u>WhatsApp as a Gateway for Instagram's 2FA Messages</u></a></li>
 </ul></div>
 

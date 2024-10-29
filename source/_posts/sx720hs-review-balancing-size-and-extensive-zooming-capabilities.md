@@ -1,7 +1,7 @@
 ---
 title: SX720HS Review - Balancing Size and Extensive Zooming Capabilities
-date: 2024-10-22T17:36:37.331Z
-updated: 2024-10-23T16:39:51.083Z
+date: 2024-10-26T17:35:29.514Z
+updated: 2024-10-29T05:17:25.835Z
 categories:
   - BestProducts
 description: This Article Describes SX720HS Review - Balancing Size and Extensive Zooming Capabilities
@@ -39,6 +39,13 @@ Lifewire / Emily Ramirez
 
 2.8
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Creative Sound Blaster ZxR
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/RtDoRTpSwyumJugu8w_fUM9Z3Kc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
@@ -67,13 +74,6 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/U_vmwZDe5HbbungQ5L2hzf2LVto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-4-b0d1cca56ec04a61b83e20d1cecf2aea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
 
 ## **Design: Sleek and convenient**
@@ -81,10 +81,10 @@ Lifewire / Emily Ramirez
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Hardware: Some odd decisions**
@@ -92,6 +92,13 @@ Lifewire / Emily Ramirez
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -105,20 +112,13 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/6uorHzKoJdW1FBv0B5ZfeoE8XzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-3-17de2156e4294b5c85f151bd0cd97aa4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Audio: Excellent sound**
@@ -131,6 +131,13 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Lots of options with mixed utility**
 
  For the tinkerers out there, Sound Blaster provides a myriad of audio adjustments through their Z-Series software package. Here, you can EQ any frequency between 20 and 20,000 Hz or activate “Crystallization,” “Scout Mode,” and “Theater Mode.” Crystallization adds punch to the audio’s treble, making voices stand out against the background. Theater Mode is similar to Crystallization, but it tries to_only_ boost voices instead of the entire treble range. We found it great for watching videos. Meanwhile, Scout Mode is squarely aimed at gamers. It theoretically makes enemy noises like footsteps louder.
@@ -142,13 +149,6 @@ Lifewire / Emily Ramirez
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -213,22 +213,18 @@ Lifewire / Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-top-screener-solution-for-flawless-youtube-content-creation/"><u>[New] 2024 Approved Top Screener Solution For Flawless YouTube Content Creation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamlined-techniques-download-vimeo-videos-efficiently/"><u>[New] In 2024, Streamlined Techniques Download Vimeo Videos Efficiently</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/miles-and-snickers-7-hilarious-video-concepts-for-content-creators-for-2024/"><u>[New] Smiles & Snickers 7 Hilarious Video Concepts for Content Creators for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-shorts-earning-blueprint-for-2024/"><u>[New] Youtube Shorts Earning Blueprint for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-freeandpaid-for-2024/"><u>Best 12 Sports Streaming Sites (Free&Paid) for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-overcoming-the-halo-infinite-cant-reach-our-data-centers-error-problem/"><u>Effective Fixes for Overcoming the ‘Halo Infinite Can’t Reach Our Data Centers’ Error Problem</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-your-favorite-games-online-for-2024/"><u>How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-sourcing-background-beats-for-boxings/"><u>In 2024, Best Practices Sourcing Background Beats for Boxings</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone X</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-selling-a-comprehensive-starters-guide/"><u>Live Selling A Comprehensive Starters Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>New In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cket-traffic-secrets-to-attract-more-viewers-online/"><u>Skyrocket Traffic Secrets to Attract More Viewers Online</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-tips-for-seamless-photo-importing-between-your-iphone-and-windows-11-pc/"><u>Troubleshooting Tips for Seamless Photo Importing Between Your iPhone and Windows 11 PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>Updated The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-entry-level-gaming-edit-suite-reviews/"><u>[New] In 2024, Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/evolutionizing-channel-presence-the-secret-of-higher-subscriber-numbers-for-2024/"><u>[New] Revolutionizing Channel Presence The Secret of Higher Subscriber Numbers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-android-3d-player-showcase/"><u>[New] Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-hall-fame-celebrating-top-10-action-adventure-favorites/"><u>2024 Approved Game Hall Fame Celebrating Top 10 Action-Adventure Favorites</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-printerscanner-drivers-for-windows-quick-and-easy-download/"><u>Free Canon Printer/Scanner Drivers for Windows: Quick and Easy Download</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-c67-4g-by-drfone-android/"><u>How to Bypass FRP from Realme C67 4G?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>New In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Updated Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
 </ul></div>
 

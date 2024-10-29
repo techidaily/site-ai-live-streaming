@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Stream on Twitch The Ultimate Guide
-date: 2024-10-20T16:48:07.273Z
-updated: 2024-10-23T17:53:04.761Z
+date: 2024-10-27T20:18:21.534Z
+updated: 2024-10-29T11:32:57.550Z
 tags: 
   - ai
   - live-streaming
@@ -90,13 +90,6 @@ Once you've gathered all the necessary equipment, you can proceed with the follo
 
 ![How to live stream on Twitch](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to stream Twitch live on a smartphone
 
 Starting Twitch streaming from your smartphone is a bit different, as the app primarily allows broadcasting from your device's camera. Here's how to live stream on Twitch from your smartphone:
@@ -132,13 +125,6 @@ Twitch stream labs offer unique features like chat rooms and special emojis, fos
 1. **Consistency and persistence**
 
 This is often the toughest part. On Twitch, consistency is crucial. Successful streamers usually maintain regular schedules to make sure their audience knows when to expect new content. If you are new, continuous live streaming can be an effective strategy to engage with your audience consistently and increase your channel's visibility.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Best AI-Powered Tool for You To Set Up a 24/7 Live Stream on Twitch
 
@@ -320,13 +306,6 @@ Within the Virbo Live interface, you can either compose the script for your live
 
 ![Write your content script for Twitch Live](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Pro Tip:** You can use Virbo's AI Script Writer for inspiration. Click on "AI Smart Script" and provide topic details, language preferences, and stylistic choices. Click "Generate" to create a script. Then, you can refine it as needed.
 
 **Step 3:** Customize your AI avatar and background.
@@ -342,6 +321,19 @@ Once your AI avatar and background are set, click "Start Livestream" to commence
 ![Start the live stream](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-10.jpg)
 
 Once everything is ready, click "Start Streaming" in OBS Studio, and your stream will broadcast on Twitch.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -370,6 +362,13 @@ Facebook live shopping is a free tool to interact directly with sellers during a
 According to [statistics](https://bloggingwizard.com/facebook-live-statistics/), 82% of consumers prefer livestream content from brands. Besides, 80% of the brands prefer Facebook to market their product through live videos. Still, the e-commerce market continues to develop and address loopholes in live selling with care. Anyhow, look into the perks of **Facebook live selling** features discussed ahead:
 
 ![right-ways-to-perform-facebook-live-shopping-2.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Facebook Live Shopping Notification
 
@@ -602,13 +601,6 @@ From the editing screen of Virbo Live, press the “AI avatars” option from th
 Move to the left and enter the words you want the AI Avatar to speak under the “Script lines” section. Alternatively, you can choose the "AI Smart Script" button from the bottom left corner. You can describe your product, set a Style, and adjust other parameters to get an AI script there.
 
 ![right-ways-to-perform-facebook-live-shopping-8.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Step 4\. Pick a Dubbing Voice for Avatar To Live Stream
 
@@ -1014,6 +1006,13 @@ As artificial intelligence continues to touch every aspect of life, brands can l
 
 ![virbo live](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 01 Leveraging Virbo AI streaming for sales and shopping
 
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers you access to multi-lingual AI-driven avatars or Vtubers that will sell your products and interact with your viewers in real time. The AI-powered avatars can provide more information about your products and answer questions from your viewers. By automating the streaming process, you can transform your viewers' experience while boosting your revenue.
@@ -1098,6 +1097,13 @@ Choose the products you want to add to your livestream. These are the products t
 
 ![products](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4 Set Up Your Amazon Livestream
 
 With the product added, you are ready to set up your live stream. Take some time in the practice mode to familiarize yourself with the platform, and prepare your talking points. Also, come up with responses to possible customer questions and any other important information. Although Amazon Live is free, you can also consider using Amazon advertising to reach a wider audience.
@@ -1151,13 +1157,6 @@ Global sports lovers face many restrictions when watching any region-specific ma
 Therefore, finding the **best MLB streaming sites** is the only hope for viewers worldwide. To make their research easy, this article presents some **free MLB streaming sites** for fans.
 
 ![watch mlb matches on best streams](https://images.wondershare.com/virbo/article/2024/04/watch-free-mlb-streaming-from-best-options-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Why is MLB Restricted in Different Regions for Users?
 
@@ -1297,18 +1296,18 @@ Watching MLB matches is always fun for viewers, but it becomes hectic when facin
 
 After going through all these points, you have a clear idea about each platform. You can easily choose the **best streaming platform for gaming** and sports matches.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Part. Make Personalized Live Stream Videos Using Wondershare Virbo Live
 
 Streaming live content has become a productive technique for different sectors. Streamers use various streaming tools to create all types of content. So, whether you want to livestream for marketing or display casual content, you need the right tool to engage the audience. For this purpose, [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) is the best live-streaming tool for sports or other such streams.
 
 This tool provides a wide range of AI-powered features to level up your live-streaming game. You can translate text into multiple languages and use different accents for global reach. In addition, it is compatible with seamless cloud-based service. Plus, you can see automatic responses to engage more of the audience in real time.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Top-Rated Functions of Wondershare Virbo Live
 
@@ -1362,6 +1361,13 @@ Many of these services offer free trials, so you can explore before you commit. 
 
 ![streaming service on phone watching](https://images.wondershare.com/virbo/article/2024/03/best-streaming-service-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. The 10 Best Streaming Video Services
 
 With diverse platforms catering to every taste and budget, choosing the right one can feel overwhelming. But worry not, fellow explorer! This part will unveil the best **web streaming services** offering unique strengths and features. Get ready to unlock a world of curated content and personalized recommendations, from Hollywood blockbusters to cult classics, binge-worthy shows, and live sports.
@@ -1446,6 +1452,13 @@ Yearning for high-quality, award-winning content? HBO Max is your haven. Dive in
 
 ![hbo max interface](https://images.wondershare.com/virbo/article/2024/03/best-streaming-service-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Apple TV+
 
 Apple device user and craving original content? Apple TV+ offers exclusive shows like Ted Lasso and Severance alongside select movies and documentaries. Enjoy a seamless viewing experience on your Apple devices and discover captivating stories from Apple Studios.
@@ -1475,6 +1488,13 @@ Imagine having a virtual host interacting with viewers, answering questions, and
 * **Diverse AI avatars.**Forget the green screen! Virbo Live offers a staggering 150+ AI Avatars to choose from. They can seamlessly step in as your virtual co-hosts, presenters, or even play the role of a captivating YouTuber. Customize them based on age, style, and ethnicity to create a persona that resonates with your audience.
 * **Ready-made content library**. Virbo Live equips you with 180+ video templates to jumpstart your live streams. These professionally designed templates cover various themes and styles, saving you precious time and effort. Plus, royalty-free music is included to add the perfect soundtrack to your content.
 * **Engaging AI voices.**Virbo Live boasts an impressive 120 AI Voices, offering a variety of tones and accents to bring your content to life.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Getting Started With Virbo Live
 
@@ -1558,13 +1578,6 @@ Are you looking for a repository of diverse content? Netflix boasts an expansive
 
 ![netflix interface](https://images.wondershare.com/virbo/article/2024/03/best-streaming-service-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Prime Video
 
 Already an Amazon Prime member? Unlock even more entertainment with Prime Video. Enjoy movies, TV shows, critically acclaimed originals like The Boys and The Marvelous Mrs. Maisel, and access to select content for free. It’s the perfect add-on for Prime users who want to expand their horizons without breaking the bank.
@@ -1631,13 +1644,6 @@ Imagine having a virtual host interacting with viewers, answering questions, and
 * **Ready-made content library**. Virbo Live equips you with 180+ video templates to jumpstart your live streams. These professionally designed templates cover various themes and styles, saving you precious time and effort. Plus, royalty-free music is included to add the perfect soundtrack to your content.
 * **Engaging AI voices.**Virbo Live boasts an impressive 120 AI Voices, offering a variety of tones and accents to bring your content to life.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Getting Started With Virbo Live
 
 Adding Virbo Live to your existing streaming setup is simple. Virbo Live’s intuitive interface guides you through creating your virtual host and customizing your content. Here’s a step-by-step guide:
@@ -1676,24 +1682,17 @@ With Wondershare Virbo, you can unlock this potential and keep your audience eng
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-passion-a-selection-of-10-invigorating-films/"><u>[New] Ignite Passion A Selection of 10 Invigorating Films</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-making-an-impact-integrating-individual-thumbnails-in-videos/"><u>2024 Approved Making an Impact Integrating Individual Thumbnails in Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-parents-primer-on-generative-technology/"><u>A Parent’s Primer on Generative Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breakdown-of-cloud-storage-pricing-expert-analysis-and-top-deals-for-2024/"><u>Breakdown of Cloud Storage Pricing Expert Analysis & Top Deals for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-on-twitch-the-ultimate-guide/"><u>How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-professional-grade-motion-blur-using-photoshop-tools/"><u>In 2024, Achieving Professional-Grade Motion Blur Using Photoshop Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-getting-rid-of-stickers-on-videos/"><u>In 2024, Expert Advice Getting Rid of Stickers on Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-superior-web-destinations-alarm-ringtone-downloads-guide/"><u>In 2024, Superior Web Destinations Alarm Ringtone Downloads Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>In 2024, Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips-for-2024/"><u>Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-facebook-live-shopping-a-comprehensive-guide/"><u>New Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>New In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New In 2024, Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>New Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cast-your-youtube-selection-playlists-for-2024/"><u>Quickcast Your Youtube Selection, Playlists for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-ultimate-list-of-live-chat-apps-for-shopify/"><u>The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-error-fixing-mastery-top-tips-and-tricks-for-smooth-editing/"><u>Updated In 2024, FCPX Error-Fixing Mastery Top Tips and Tricks for Smooth Editing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adaptive-technology-start-with-your-8-customized-models-now/"><u>Adaptive Technology: Start with Your 8 Customized Models Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/ejecting-facebooks-watchfulness-through-off-fb-settings/"><u>Ejecting Facebook's Watchfulness Through Off-FB Settings</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/expert-tutorial-on-transferring-data-from-one-msata-ssd-to-another-while-preserving-secure-boot-settings/"><u>Expert Tutorial on Transferring Data From One mSATA SSD to Another While Preserving Secure Boot Settings</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722957432894-get-the-newest-brother-mfc-7360n-driver-update-smooth-setup-on-windows-1087/"><u>Get the Newest Brother MFC-7360N Driver Update – Smooth Setup on Windows 10/8/7!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-critical-review-of-lg-bp350-display-user-reviews-collate/"><u>In 2024, Critical Review of LG BP350 Display - User Reviews Collate</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immortalize-memories-prime-online-tools-for-photo-framing/"><u>In 2024, Immortalize Memories Prime Online Tools for Photo Framing</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>New 2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>New 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782984-9781594775963-tao-of-no-stress/"><u>Tao of No Stress | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches/"><u>Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x-for-2024/"><u>Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
 </ul></div>
 
