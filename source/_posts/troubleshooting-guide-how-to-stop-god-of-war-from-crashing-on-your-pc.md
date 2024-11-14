@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-11-06T05:49:06.717Z
-updated: 2024-11-13T01:07:15.904Z
+date: 2024-11-11T22:48:46.336Z
+updated: 2024-11-13T16:56:15.698Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -53,6 +46,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
@@ -67,13 +67,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -104,6 +97,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -111,10 +111,10 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -129,10 +129,10 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -161,18 +161,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-diving-deep-reviewing-your-old-tweets/"><u>[New] 2024 Approved Diving Deep Reviewing Your Old Tweets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-basics-of-visual-storytelling/"><u>[Updated] 2024 Approved Basics of Visual Storytelling</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>[Updated] Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-transform-youtube-live-with-these-must-know-secrets/"><u>2024 Approved Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/all-inclusive-rundown-whats-behind-the-google-podcast-app-in-2024/"><u>All-Inclusive Rundown What's Behind the Google Podcast App, In 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-mp3-combining-software-top-picks-for-windows-macos-linux-android-and-ios-users/"><u>Best MP3 Combining Software: Top Picks for Windows, MacOS, Linux, Android & iOS Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bright-ideas-illuminating-security-with-the-blink-outdoor/"><u>Bright Ideas: Illuminating Security with The Blink Outdoor</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-with-toms-hardware-expertise-unlocking-pc-potential/"><u>Navigating the Digital World with Tom's Hardware Expertise - Unlocking PC Potential</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/premier-hashtags-monitoring-on-facebook-twitter-and-instagram-for-2024/"><u>Premier Hashtags Monitoring on Facebook, Twitter & Instagram for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pixel-power-the-top-10-cameras-for-clear-images/"><u>[New] Pixel Power The Top 10 Cameras for Clear Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-enhancing-productivity-with-efficient-nvidia-capture/"><u>[Updated] In 2024, Enhancing Productivity with Efficient NVIDIA Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-social-medias-shadowy-side-spotting-fake-likes/"><u>[Updated] Navigating Social Media's Shadowy Side Spotting Fake Likes</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-note-30i-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Note 30i PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone X | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-v30t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme V30T</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-selling-a-comprehensive-starters-guide/"><u>In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>New In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-secrets-for-tiktok-live-studio-success/"><u>Updated 2024 Approved Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>Updated In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
 </ul></div>
 
