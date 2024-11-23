@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2024-11-09T16:01:20.159Z
-updated: 2024-11-13T18:27:28.838Z
+date: 2024-11-22T20:42:21.675Z
+updated: 2024-11-23T18:16:18.284Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -52,6 +60,10 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  At the upper end of this power envelope, you could probably run an RTX 4080\. You'd probably need an adapter as there are two 8-pin connectors, but no 16-pin. The top, which has some air holes, easily pops off to allow you to install your card.
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -76,32 +88,22 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>[New] Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[Updated] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-scrutinizing-vlc-for-video-capturing/"><u>[Updated] Scrutinizing VLC for Video Capturing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/fostering-creativity-the-most-innovative-6-nft-services-for-2024/"><u>Fostering Creativity The Most Innovative 6 NFT Services for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-file-by-stellar-guide/"><u>Get Rid of corrupt Excel File</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>In 2024, The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-10-free-football-streaming-sites-to-bookmark-for-2024/"><u>New 10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>New Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>New Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-corrupted-video-files-on-phones/"><u>Reviving Corrupted Video Files on Phones</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-6-must-have-tools-for-successful-game-streaming/"><u>Updated In 2024, 6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>[New] 2024 Approved Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>2024 Approved Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximizing-video-capacity-in-64128gb-drives/"><u>2024 Approved Maximizing Video Capacity in 64/128GB Drives</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728489121241-windows-server-2019/"><u>關於解決Windows Server 2019檔案同步效率下降的三個方法</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-to-using-obs-studio-to-stream-to-facebook-for-2024/"><u>A Guide to Using OBS Studio To Stream to Facebook for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chart-a-new-course-for-artistic-innovation-using-microsoft-copilot/"><u>Chart a New Course for Artistic Innovation Using Microsoft Copilot</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-updating-and-installing-latest-epson-print-driver-software-on-windows-10/"><u>Easy Steps: Updating and Installing Latest Epson Print Driver Software on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/game-changing-gadget-unveiled-in-depth-look-at-the-ultimate-handheld-device-nintendo-switch/"><u>Game-Changing Gadget Unveiled - In Depth Look at the Ultimate Handheld Device, Nintendo Switch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interrogating-the-webs-blockade-on-gptbot-usage-policies/"><u>Interrogating the Web's Blockade on GPTBot Usage Policies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New In 2024, Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-screen-glitches-stabilizing-display/"><u>Resolving Windows Screen Glitches: Stabilizing Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-troubleshooting-guide-for-shader-problems-in-star-wars-battlefront-ii/"><u>Speedy Troubleshooting Guide for Shader Problems in Star Wars Battlefront II</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Updated In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated In 2024, Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

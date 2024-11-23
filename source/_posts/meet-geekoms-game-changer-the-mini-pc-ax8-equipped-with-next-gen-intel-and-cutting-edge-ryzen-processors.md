@@ -1,7 +1,7 @@
 ---
 title: "Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors"
-date: 2024-11-10T00:59:37.865Z
-updated: 2024-11-13T16:59:29.390Z
+date: 2024-11-19T16:44:34.204Z
+updated: 2024-11-23T21:45:26.183Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,10 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,9 +56,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -77,24 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-audio-smoothness/"><u>2024 Approved Expert Strategies for Audio Smoothness</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-closer-look-detailed-test-on-lg-ud88-w-oled-screen-for-2024/"><u>A Closer Look Detailed Test on LG UD88-W OLED Screen for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-methods-for-windows-fish-voice-alteration/"><u>Easy Methods for Windows Fish Voice Alteration</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo A59 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-arabic-made-simple-explore-the-benefits-on-mondly-online/"><u>Mastering Arabic Made Simple: Explore the Benefits on Mondly Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>New 2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further/"><u>New Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/siri-enhancement-on-the-horizon-apples-ai-boost-planned-details-uncovered/"><u>Siri Enhancement on the Horizon: Apple's AI Boost Planned , Details Uncovered</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95856049-9781591433002-the-cygnus-key/"><u>The Cygnus Key | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-picture-perfect-how-to-accurately-date-your-photos/"><u>[New] 2024 Approved Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-advanced-mac-skills-perfecting-srt-file-management-for-2024/"><u>[Updated] Advanced Mac Skills Perfecting SRT File Management for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-create-podcast-rss-feeds/"><u>[Updated] How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024s-leading-pick-of-extra-hard-disk-blu-ray-readers-and-writers/"><u>2024'S Leading Pick of Extra Hard Disk Blu-Ray Readers & Writers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/windowssynology-nas/"><u>如何将Windows上的数据夹列表目录与Synology NAS同步——分享最有效的双项技术</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/asus-rt-ac8gaming-reality-check-triple-band-speed-and-performance-analyzed/"><u>ASUS RT-AC8#Gaming Reality Check: Triple Band Speed and Performance Analyzed</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/decoding-digital-devices-tips-and-reviews-from-toms-tech-analysis/"><u>Decoding Digital Devices - Tips and Reviews From Tom’s Tech Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tial-8-mirrorless-cams-for-professional-videographers-for-2024/"><u>Essential 8 Mirrorless Cams for Professional Videographers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-ultimate-electric-bike-revolution-with-the-affordable-lectric-xp-lite-800-for-unmatched-performance-e-bike-innovation-review/"><u>Experience the Ultimate Electric Bike Revolution with the Affordable Lectric XP Lite – $800 for Unmatched Performance! (E-Bike Innovation Review)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blending-iphone-videos-a-simple-guide/"><u>In 2024, Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-live-views-a-guide-to-leveraging-ios-16s-features/"><u>Mastering Live Views: A Guide to Leveraging iOS 16'S Features</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/may-the-fourth-be-with-you-unveiling-acemagics-mini-pc-in-iconic-x-wing-design/"><u>May the Fourth Be With You: Unveiling AceMagic's Mini PC in Iconic X-Wing Design</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/navigating-tech-world-easily-with-toms-innovation-hub/"><u>Navigating Tech World Easily with Tom's Innovation Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-enabling-everlasting-file-removal-in-windows-11s-trash/"><u>The Ultimate Guide to Enabling Everlasting File Removal in Windows 11'S Trash</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-gadgets-and-hardware-with-tom-a-comprehensive-guide/"><u>Unveiling Gadgets and Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-technology-review/"><u>Unveiling the Latest in Computing: Insights From Tom's Technology Review</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-guidance/"><u>Unveiling the Latest in PC Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-11m-ssd/"><u>Windows 11でM.지정 SSDを無事に完全フォーマットするガイド</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

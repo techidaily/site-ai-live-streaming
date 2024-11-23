@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-11-11T21:01:58.184Z
-updated: 2024-11-13T18:14:05.604Z
+date: 2024-11-16T21:01:37.686Z
+updated: 2024-11-23T18:55:11.290Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -36,6 +40,10 @@ Lifewire / Todd Braylor
 [View On Amazon $280](https://www.amazon.com/dp/B019HF60EI/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7CB019HF60EI) [View On Walmart $140](https://www.walmart.com/ip/Escort-Passport-S55-High-Performance-Pro-Radar-and-Laser-Detector-w-DSP/49140972)
 
 3.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Escort Passport S55
 
@@ -62,13 +70,6 @@ Lifewire / Todd Braylor
 
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -79,18 +80,15 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
 
  Lifewire / Todd Braylor
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Range: Impressive detection**
 
@@ -99,10 +97,7 @@ Lifewire / Todd Braylor
  It reliably delivers on its promise of long-distance sensitivity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
@@ -132,10 +127,7 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -167,20 +159,18 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>[New] 2024 Approved Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-echoes-of-yesteryear-a-digital-compilation-of-ringtones-for-2024/"><u>[New] Echoes of Yesteryear A Digital Compilation of Ringtones for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/deal-free-resources-to-start-a-youtube-channel-for-2024/"><u>[New] Ideal Free Resources to Start a YouTube Channel for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-echoes-of-exploration-in-role-playing-history/"><u>2024 Approved Echoes of Exploration in Role-Playing History</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expansive-movement-assessment-2023/"><u>In 2024, Expansive Movement Assessment 2023</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>New 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>New 2024 Approved The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-leading-into-the-live-selling-world-for-2024/"><u>New Live Chat With WooCommerce Leading Into the Live Selling World for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/photonframe-xd-review-captivating-photos-at-a-costly-rate/"><u>PhotonFrame XD Review: Captivating Photos at a Costly Rate</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solutions-de-clonage-sans-defi-transfert-facile-de-partition-sur-ssd-le-meilleur-soft/"><u>Solutions De Clonage Sans Défi : Transfert Facile De Partition Sur SSD - Le Meilleur Soft!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-how-to-live-stream-on-facebook/"><u>Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-ensure-audible-vids-on-tweet-platform-for-2024/"><u>[New] Ensure Audible Vids on Tweet Platform for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-methods-for-saving-vimeo-footage/"><u>[Updated] Quick Methods for Saving Vimeo Footage</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-c51-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-emulators-for-superior-steam-deck-gaming-experience/"><u>Essential Emulators for Superior Steam Deck Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-11-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-s18-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to S18 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New In 2024, Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782634-9781620551226-the-spiritual-foundations-of-aikido/"><u>The Spiritual Foundations of Aikido | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Updated In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-powerdirector-competitors-best-android-and-ios-video-editors-for-2024/"><u>Updated PowerDirector Competitors Best Android and iOS Video Editors for 2024</u></a></li>
 </ul></div>
 

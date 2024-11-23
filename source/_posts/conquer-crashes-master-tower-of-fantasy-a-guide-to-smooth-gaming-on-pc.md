@@ -1,7 +1,7 @@
 ---
 title: "Conquer Crashes, Master 'Tower of Fantasy': A Guide to Smooth Gaming on PC"
-date: 2024-11-10T19:13:51.433Z
-updated: 2024-11-13T16:21:27.378Z
+date: 2024-11-19T16:24:14.432Z
+updated: 2024-11-23T18:56:50.464Z
 tags:
   - win11
   - win10
@@ -34,10 +34,7 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Restart your computer
@@ -51,13 +48,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -74,6 +64,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
@@ -110,13 +104,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5 – Verify integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. This could cause issues such as crashes during gameplay.
@@ -130,22 +117,12 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -160,6 +137,10 @@ If your game still crashes after this, try the fix below.
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 – Reinstall the game
 
@@ -181,13 +162,6 @@ If your game still crashes after this, try the fix below.
 
 If the crashing issue still exists, there’s still 1 fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility.
@@ -196,6 +170,10 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
@@ -203,6 +181,10 @@ If the crashing issue still exists, there’s still 1 fix to try.
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 9 – Run as administrator
 
@@ -215,15 +197,16 @@ To run your game as administrator, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -250,24 +233,18 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-guide-reconnect-missing-print-devices-windows-xp-7-10/"><u>[Network Guide] Reconnect Missing Print Devices Windows-XP-7-10</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-discovering-the-hottest-templates-for-social-media-vfx/"><u>[New] In 2024, Discovering the Hottest Templates for Social Media VFX</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-audio-potential-pazeras-free-tool-review/"><u>[New] Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-pace-setter-pc-titles/"><u>[Updated] Elite Pace-Setter PC Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-and-share-the-art-of-using-zooms-snaps/"><u>Capture & Share The Art of Using Zoom's Snaps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>In 2024, Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-drones-in-media-production/"><u>Mastering Drones in Media Production</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>New Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>New In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>New The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/optimizing-your-library-choosing-the-ideal-videoaudio-format-for-plex-playback-efficiency/"><u>Optimizing Your Library: Choosing the Ideal Video/Audio Format for Plex Playback Efficiency</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719576296887-transform-your-talking-ability-now-at-half-the-usual-rate/"><u>Transform Your Talking Ability - Now at Half the Usual Rate!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>Updated RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>Updated User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[Updated] 2024 Approved Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-overcoming-absence-of-color-in-game-recordings/"><u>[Updated] 2024 Approved Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-process-extracting-youtube-media-directly/"><u>[Updated] In 2024, Easy Process Extracting YouTube Media Directly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-introduction-to-plot-and-character-dynamics-for-2024/"><u>[Updated] Introduction to Plot and Character Dynamics for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-selling-a-comprehensive-starters-guide/"><u>2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>2024 Approved The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-moto-g-5g-2023-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Moto G 5G (2023) Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-exploring-the-best-text-to-speech-online-tools-to-use/"><u>In 2024, Exploring The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>In 2024, How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-learn-the-best-6-alternative-streaming-platforms/"><u>In 2024, Learn The Best 6 Alternative Streaming Platforms</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-streaming-services-worth-a-try/"><u>In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mastering-the-art-of-increasing-shadow-levels-in-videos-a-step-by-step-guide/"><u>Mastering the Art of Increasing Shadow Levels in Videos - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>Updated A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
 </ul></div>
 

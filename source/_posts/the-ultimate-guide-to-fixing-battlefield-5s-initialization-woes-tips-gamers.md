@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-11-11T22:02:53.115Z
-updated: 2024-11-13T20:21:58.745Z
+date: 2024-11-21T21:48:14.522Z
+updated: 2024-11-23T22:16:47.569Z
 tags:
   - win11
   - win10
@@ -27,9 +27,17 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ignore the specs listed here. This computer is not used for gaming.
 
@@ -41,6 +49,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
@@ -48,6 +60,10 @@ In case you don’t know how, here’s the guidance:
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
 
@@ -101,13 +117,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -155,16 +164,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
@@ -172,6 +172,10 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -188,10 +192,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
@@ -220,16 +221,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
@@ -273,22 +271,12 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -320,23 +308,9 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -347,6 +321,10 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -374,15 +352,20 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-rhythmic-reconnaissance-video-music-matchmaking/"><u>[New] 2024 Approved Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-free-video-credits-pro-the-best-suggestions-1-6/"><u>[New] In 2024, Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>2024 Approved Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y77t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y77t Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo S17e</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-5-free-streaming-options-for-watching-mlb-matches/"><u>In 2024, Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-apowersoft-free-edition-making-an-informed-decision-on-your-video-editing-tool/"><u>In-Depth Analysis of Apowersoft Free Edition: Making an Informed Decision on Your Video Editing Tool</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>Updated The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/youtube-live-selling-boost-your-sales-with-these-tips/"><u>YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices-for-2024/"><u>[New] Precision at Your Fingertips A Guide to Screen Recording on Apple Devices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-blueprint-for-flawless-srt-construction/"><u>[New] The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-concealed-countenance-guide-fast-and-effective-methods/"><u>2024 Approved Concealed Countenance Guide Fast and Effective Methods</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades/"><u>2024 Approved Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>2024 Approved HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-ata-disk-copy-programs-for-sandisk-solid-state-drives-on-pc-systems/"><u>Leading ATA Disk Copy Programs for SanDisk Solid-State Drives on PC Systems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-facebook-live-shopping-a-comprehensive-guide/"><u>New 2024 Approved Facebook Live Shopping A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-livestream-streaming-strategies/"><u>The Ultimate List of Livestream Streaming Strategies</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-file-deletion-via-command-line-in-windows-11/"><u>The Ultimate Tutorial for File Deletion via Command Line in Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-12-sports-streaming-sites-freeandpaid/"><u>Updated 2024 Approved Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>Updated 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )
-date: 2024-11-12T16:11:51.094Z
-updated: 2024-11-13T18:16:01.070Z
+date: 2024-11-20T17:33:43.321Z
+updated: 2024-11-23T22:30:12.922Z
 tags:
   - win11
   - win10
@@ -64,18 +64,23 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After updating your drivers, restart your PC and check if Back 4 Blood crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check for conflicting programs
@@ -87,30 +92,18 @@ Once done, restart your game and see if it crashes again.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
@@ -118,22 +111,13 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Make sure Windows is up to date
 
@@ -145,13 +129,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -160,18 +137,15 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’re sure Windows is up to date, restart your PC and test the gameplay in Back 4 Blood.
 
  If your system is already the latest, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Move game files to your Steam drive
 
@@ -186,10 +160,7 @@ Here’s how you can check for updates manually:
  If this method doesn’t work for you, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change in-game graphics settings
@@ -222,22 +193,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-hidden-dangers-of-high-follower-bloat-avoidance-tactics/"><u>[New] In 2024, The Hidden Dangers of High-Follower Bloat Avoidance Tactics</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-top-10-love-focused-discord-communities/"><u>[New] Top 10 Love-Focused Discord Communities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-7-key-tools-to-convert-youtube-videos-easily-for-2024/"><u>[Updated] 7 Key Tools to Convert YouTube Videos Easily for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beyond-imagination-cutting-edge-vr-tech/"><u>[Updated] Beyond Imagination Cutting-Edge VR Tech</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1-troubleshooting-guide-fixing-itunes-sync-issues-when-connection-fails/"><u>1. Troubleshooting Guide: Fixing iTunes Sync Issues When Connection Fails</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/efront-bastion-100plus-epic-game-battles/"><u>Battlefront Bastion 100+ Epic Game Battles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools-for-2024/"><u>Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>In 2024, Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-live-chat-apps-to-try-with-shopify/"><u>New In 2024, Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-streaming-services-worth-a-try-for-2024/"><u>New Top 10 Streaming Services Worth a Try for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a24-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A24</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Updated 2024 Approved Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>Updated 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-user-choice-top-free-streaming-sites-for-sports/"><u>Updated 2024 Approved User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>Updated Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revamp-voice-output-with-ease-for-ps5ps4-gamers/"><u>[New] 2024 Approved Revamp Voice Output with Ease for PS5/PS4 Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-the-art-of-editing-movie-maker-on-w11-in-detail-for-2024/"><u>[New] Mastering the Art of Editing Movie Maker on W11 in Detail for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comprehensive-list-of-budget-friendly-online-editors/"><u>Comprehensive List of Budget-Friendly Online Editors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-proven-fixes-for-disabled-icloud-services-on-your-apple-devices/"><u>Four Proven Fixes for Disabled iCloud Services on Your Apple Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>New 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>New 2024 Approved Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-access-all-matches-free-world-cup-live-streaming-options/"><u>New Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>New Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a05s-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05s Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-solution-for-true-thinkpad-fans/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-in-1 Solution for True ThinkPad Fans</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-10-streaming-services-worth-a-try/"><u>Updated 2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-s-top-10-streaming-video-services-free-ones-available/"><u>Updated S Top 10 Streaming Video Services Free Ones Available</u></a></li>
 </ul></div>
 

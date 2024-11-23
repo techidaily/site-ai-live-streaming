@@ -1,7 +1,7 @@
 ---
 title: "Resolving Discord's Camera Dilemma: A Step-by-Step Guide"
-date: 2024-11-06T16:23:59.659Z
-updated: 2024-11-13T16:49:07.853Z
+date: 2024-11-17T16:03:32.845Z
+updated: 2024-11-23T22:07:15.583Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -47,6 +40,10 @@ Here’s how you can download and install Windows updates:
  1) In the Search box, type in **check for updates** . Then click **Check for updates**  from the results.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
@@ -68,23 +65,9 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
@@ -93,6 +76,10 @@ Here’s how you can download and install Windows updates:
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -112,6 +99,10 @@ Here’s how you can download and install Windows updates:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -135,6 +126,10 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -145,23 +140,9 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
@@ -170,10 +151,7 @@ To verify the integrity of game files, take these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
@@ -184,20 +162,21 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now play Outriders to see if you can get better gaming performance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
 
@@ -209,16 +188,13 @@ Now play Outriders to see if you can get better gaming performance.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -241,22 +217,20 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>[New] 2024 Approved PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/uilding-your-brand-making-money-with-vids-for-2024/"><u>[New] Building Your Brand Making Money with Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>[New] The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-recovering-lost-live-footage-strategies-for-uninterrupted-streams/"><u>[Updated] Recovering Lost Live Footage Strategies for Uninterrupted Streams</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maximizing-your-content-instagrams-video-time-restrictions/"><u>2024 Approved Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-video-editing-techniques-for-viral-tiktok-creations/"><u>2024 Approved Transformative Video Editing Techniques for Viral TikTok Creations</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-windows-11-system-restore-save-your-files-and-bounce-back/"><u>Effortless Windows 11 System Restore: Save Your Files and Bounce Back</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>New The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>New Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-nord-n30-se-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 SE Phone Now with These Tips</u></a></li>
-<li><a href="https://solve-info.techidaily.com/step-by-step-tutorial-on-converting-your-apple-lossless-tracks-alac-to-the-superior-flac-codec/"><u>Step-by-Step Tutorial on Converting Your Apple Lossless Tracks (ALAC) to the Superior FLAC Codec</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>Updated In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-examining-the-best-is-picku-leading-photo-enhancement-for-android-users/"><u>[New] Examining the Best Is PickU Leading Photo Enhancement for Android Users?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile/"><u>[New] In 2024, Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fix-facebook-media-failure-on-devices/"><u>[New] In 2024, Fix Facebook Media Failure on Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-best-video-rank-trackers-for-youtube-for-2024/"><u>[Updated] Unveiling Best Video Rank Trackers for YouTube for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-directors-toolkit-powerdirector-24/"><u>Advanced Directors' Toolkit PowerDirector '24</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/igtvs-top-10-talents-to-follow-today-for-2024/"><u>IGTV's Top 10 Talents to Follow Today for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlocking-insta-success-when-to-share-your-content/"><u>In 2024, Unlocking Insta Success When to Share Your Content</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>New 2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further/"><u>New Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-top-6-alternatives-to-twitch-for-your-streaming-needs-for-2024/"><u>New The Top 6 Alternatives to Twitch for Your Streaming Needs for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>Updated 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-10-secure-operations-expert-guide-to-in-depth-firewall-settings-and-network-safeguards/"><u>Windows 10 Secure Operations: Expert Guide to In-Depth Firewall Settings & Network Safeguards</u></a></li>
 </ul></div>
 

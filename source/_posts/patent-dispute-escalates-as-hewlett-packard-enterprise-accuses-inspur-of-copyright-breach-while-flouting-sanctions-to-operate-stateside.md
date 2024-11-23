@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2024-11-08T20:19:17.041Z
-updated: 2024-11-14T01:15:15.139Z
+date: 2024-11-19T19:38:43.175Z
+updated: 2024-11-23T17:47:48.540Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,25 +64,24 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-quick-insights-5-easy-techniques-for-effective-audio-capture-on-windows-11-for-2024/"><u>[New] Quick Insights 5 Easy Techniques for Effective Audio Capture on Windows 11 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>[New] Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-essential-ad-copy-frameworks-on-facebook/"><u>[Updated] 2024 Approved Mastering Essential Ad Copy Frameworks on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-assessing-the-value-proposition-of-itop-recorder-for-2024/"><u>[Updated] Assessing the Value Proposition of ITop Recorder for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>[Updated] Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-android-and-ios-the-best-sound-distortion-tools/"><u>2024 Approved Android & iOS The Best Sound Distortion Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/combining-forces-amazon-clinic-merges-with-one-medical-for-enhanced-virtual-care-at-49-per-visit-tech-news-on-zdnet/"><u>Combining Forces: Amazon Clinic Merges with One Medical for Enhanced Virtual Care at $49 per Visit | Tech News on ZDNET</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/o-universo-dos-gifs-explicado-dicas-de-transformacao-efetiva-em-imagens-animadas/"><u>O Universo Dos GIFs Explicado: Dicas De Transformação Efetiva Em Imagens Animadas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/timeless-tales-for-the-whole-clan-family-movie-guide-for-2024/"><u>Timeless Tales for the Whole Clan Family Movie Guide for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-photo-perfection-in-a-pinch-with-top-apps/"><u>[New] In 2024, Photo Perfection in a Pinch with Top Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-11-must-know-hues-for-professional-grading/"><u>[Updated] 2024 Approved 11 Must-Know Hues for Professional Grading</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-smb-video-marketing-success-factors/"><u>[Updated] SMB Video Marketing Success Factors</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-shopping-in-china-major-changes-in-the-industry/"><u>2024 Approved Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-amd-radeon-graphics-driver-software-compatible-with-windows-10/"><u>Download AMD Radeon Graphics Driver Software Compatible with Windows 10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/h264-avi/"><u>H264への変換 - AVIファイルを品質維持してどうやって変更するか</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-v2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic V2 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-cinematography-tips-three-way-borders-for-2024/"><u>Insta Cinematography Tips Three-Way Borders for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761816-9781604077513-intuitive-self-healing/"><u>Intuitive Self-Healing | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-fixing-androids-wireless-sign-in-problems/"><u>Mastering the Art of Fixing Android's Wireless Sign-In Problems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-review-of-lazlive-live-selling-platform-with-guide/"><u>New Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-translation-services-of-2024-best-subtitle-editors-reviewed/"><u>Top 10 Translation Services of 2024: Best Subtitle Editors Reviewed</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Updated In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

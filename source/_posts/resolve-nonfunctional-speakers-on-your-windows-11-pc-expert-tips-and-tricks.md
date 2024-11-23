@@ -1,7 +1,7 @@
 ---
 title: "Resolve Nonfunctional Speakers on Your Windows 11 PC: Expert Tips & Tricks"
-date: 2024-11-11T19:11:37.257Z
-updated: 2024-11-13T23:06:11.164Z
+date: 2024-11-17T22:06:20.073Z
+updated: 2024-11-23T18:42:56.645Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  If**the sound is not working** on your HP laptop (either HP pavilion or HP Envy laptop), don’t worry. This is a common issue. The good news is, you can**fix sound not working** **on HP laptop** quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix HP Laptop Sound Not Working
 
  Here are the solutions that have helped people resolve the sound problem. You don’t need to try them all; just work your way down until your sound works.
@@ -28,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Troubleshoot the hardware issue**
 
@@ -51,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  If the sound gets working again, it should be a problem of the headphone jack on your laptop, so you can**clean the jacks with a cotton swab or soft brush** ; Or it can be a problem of your headphone, **replace with another headphone cord or try another new headphone** to have the sound working through your headphone.
 
  If the sound is still not working, here’s the next thing to try…
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Check the audio settings in your Windows**
 
@@ -76,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
@@ -96,25 +90,23 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
@@ -128,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
@@ -164,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
@@ -178,10 +156,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -200,9 +175,17 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
@@ -230,13 +213,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  These are the fix**easy solutions to fix the sound not working on HP laptop** . If you have any questions, feel free to comment below and we will see what more we can do to help.
@@ -259,19 +235,22 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-6-networks-fostering-profitable-partnerships/"><u>[New] 2024 Approved Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-essential-fb-video-ad-techniques-the-20-best-tactics-for-2024/"><u>[Updated] Essential FB Video Ad Techniques The 20 Best Tactics for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-videos-with-dynamic-camera-movements-camtasa-guide/"><u>[Updated] In 2024, Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfected-pics-made-easy-the-full-review-of-facetunes-updates/"><u>In 2024, Perfected Pics Made Easy The Full Review of Facetune's Updates</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y200-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y200 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-30-on-innovative-customizable-govee-neon-lights-this-labor-day-exclusive-review-by-zdnet/"><u>Limited-Time Offer: Save 30% on Innovative Customizable Govee Neon Lights This Labor Day - Exclusive Review by ZDNet!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New 2024 Approved Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-tv-streaming-9-sites-you-need-to-know/"><u>New In 2024, Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>New Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-top-12-best-meme-makers-online-for-free-for-2024/"><u>New Top 12 Best Meme Makers Online for FREE for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-missing-ocidll-file-a-comprehensive-guide/"><u>Solving 'Missing oci.dll' File: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sony-s3700-update-a-new-chapter-in-playback/"><u>[New] Sony S3700 Update A New Chapter in Playback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamlining-short-form-content-leading-edits-for-iosandroid-for-2024/"><u>[New] Streamlining Short-Form Content Leading Edits for iOS/Android for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-voice-enhancement-programs-for-virtual-stars/"><u>[Updated] Leading Voice Enhancement Programs for Virtual Stars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectral-imagery-phantasmal-camera-analysis/"><u>[Updated] Spectral Imagery Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/6-must-have-tools-for-successful-game-streaming/"><u>6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/access-all-matches-free-world-cup-live-streaming-options/"><u>Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-practice-of-tagging-an-in-depth-explanation/"><u>Deciphering the Practice of Tagging - An In-Depth Explanation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-drones-entry-plus-and-4k-visionaries-for-2024/"><u>DJI Drones Entry, Plus, and 4K Visionaries for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>In 2024, The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/learn-the-best-6-alternative-streaming-platforms/"><u>Learn The Best 6 Alternative Streaming Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-based-guide-efficiently-converting-and-compressing-mkv-files-into-3gp-format/"><u>Mac-Based Guide: Efficiently Converting and Compressing MKV Files Into 3GP Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-the-latest-intel-iris-graphics-540-drivers-step-by-step-tutorial/"><u>Quick Download: The Latest Intel Iris Graphics 540 Drivers – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Updated 2024 Approved Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated 2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/valorant-performance-optimization-eliminate-stutters-and-increase-frame-rates/"><u>Valorant Performance Optimization: Eliminate Stutters & Increase Frame Rates</u></a></li>
 </ul></div>
 
