@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-11-17T21:35:55.668Z
-updated: 2024-11-23T17:41:11.183Z
+date: 2024-11-29T23:24:07.018Z
+updated: 2024-12-01T23:30:28.358Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,22 +74,17 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-splitcam-review-is-it-the-best-video-recorder/"><u>[New] In 2024, SplitCam Review Is It The Best Video Recorder?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-for-capturing-your-skype-conversations-for-2024/"><u>[Updated] Essential Tips for Capturing Your Skype Conversations for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-freedom-through-jokes-ranking-the-most-hilarious-social-media-prisons/"><u>[Updated] Freedom Through Jokes Ranking the Most Hilarious Social Media Prisons</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-proven-techniques-securely-archive-your-instagram-story-for-2024/"><u>[Updated] Proven Techniques Securely Archive Your Instagram Story for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v29e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V29e</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strategizing-for-successful-youtube-ad-sponsorships-with-famebit-for-2024/"><u>Strategizing for Successful YouTube Ad Sponsorships with FameBit for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>Updated 2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-transform-youtube-live-with-these-must-know-secrets/"><u>Updated 2024 Approved Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-freeandpaid/"><u>Updated Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>Updated The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads-in-2024/"><u>Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-video-creation-with-youtube-and-more/"><u>[New] 2024 Approved Step-by-Step Video Creation with YouTube and More</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-adding-richness-youtube-videos-in-slideshows/"><u>[New] In 2024, Adding Richness YouTube Videos in Slideshows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-80s-cinema-a-guide-to-must-watch-retro-flicks-of-the-decade/"><u>Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266155863-get-your-high-quality-iphone-eraser-now/"><u>Get Your High-Quality iPhone Eraser Now!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-green-screen-magic-video-production-tips/"><u>In 2024, Unlocking Green Screen Magic Video Production Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977477058-master-mbox-2-driver-management-free-downloads-and-effortless-update-processes-for-windows-users/"><u>Master MBox 2 Driver Management: Free Downloads & Effortless Update Processes for Windows Users</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
 
