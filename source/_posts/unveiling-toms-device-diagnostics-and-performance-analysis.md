@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2024-11-30T01:15:35.197Z
-updated: 2024-12-02T00:32:13.013Z
+date: 2024-12-05T17:08:38.088Z
+updated: 2024-12-09T17:57:54.564Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,22 +88,24 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-alter-twitter-video-headline-image/"><u>[New] 2024 Approved Alter Twitter Video Headline Image</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fable-formulators-fellowship-top-7-titans/"><u>[New] Fable Formulators Fellowship – Top 7 Titans</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ising-above-internet-naysayers-and-detractors-for-2024/"><u>[New] Rising Above Internet Naysayers and Detractors for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-all-you-need-to-know-about-bandicam-updated-for-2024/"><u>[Updated] All You Need to Know About Bandicam (Updated ) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-10-best-vr-videos-on-youtube-to-have-immersive-experience/"><u>2024 Approved 10 Best VR Videos on YouTube to Have Immersive Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-safety-of-buying-gifts-on-tiktok-stores-a-surprisingly-pleasant-transaction-revealed-zdnet-insights/"><u>Exploring the Safety of Buying Gifts on TikTok Stores - A Surprisingly Pleasant Transaction Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/karakter-oldukuyla-mxf-formatinizi-windows-mac-panela-sokarak-mp4-yonelimine-donusturmeme-guven-kalabilirsiniz/"><u>Karakter Oldukuyla MXF Formatınızı Windows / Mac Panela Sokarak MP4 Yönelimine Dönüştürmeme Güven Kalabilirsiniz!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>New 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/no-cost-visual-aids-free-templates-and-slide-show-resources-for-2024/"><u>No-Cost Visual Aids Free Templates & Slide Show Resources for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smart-shoppers-checklist-what-to-inspect-in-a-pre-owned-ipad/"><u>Smart Shopper's Checklist: What To Inspect In A Pre-Owned iPad</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>Updated In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-curating-personalized-instagram-stories-overlays/"><u>[New] Curating Personalized Instagram Stories Overlays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-your-zoom-experience-with-top-three-strategies/"><u>[New] Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>[Updated] A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-repair-your-bose-speaker-and-enhance-sound-quality/"><u>Effective Techniques to Repair Your Bose Speaker and Enhance Sound Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104877619-fix-built-in-wifi-and-bluetooth-on-my-laptop-refuse-to-shut-down-in-windows/"><u>Fix: Built-In Wifi and Bluetooth on My Laptop Refuse to Shut Down in Windows!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-complete-guide-to-premiere-pro-full-scene-preview/"><u>In 2024, A Complete Guide to Premiere Pro Full Scene Preview</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-your-home-cinema-game-with-these-essential-tips/"><u>In 2024, Step Up Your Home Cinema Game with These Essential Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>In 2024, The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>New Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-9-free-tv-streaming-services-or-sites-to-use/"><u>Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-9-free-tv-streaming-services-or-sites-to-use-for-2024/"><u>Top 9 Free TV Streaming Services or Sites To Use for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-your-nvidia-geforce-rtx-nvidiartx-2070-super-drivers-on-windows-1011-step-by-step-guide/"><u>Updating Your NVIDIA GeForce RTX Nvidia_Rtx 2070 Super Drivers on Windows 10/11 - Step-by-Step Guide</u></a></li>
 </ul></div>
 

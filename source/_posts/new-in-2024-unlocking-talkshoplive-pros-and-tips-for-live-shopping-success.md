@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success
-date: 2024-11-30T01:09:04.969Z
-updated: 2024-12-02T00:37:58.260Z
+date: 2024-12-07T17:02:45.806Z
+updated: 2024-12-09T17:51:37.510Z
 tags: 
   - ai
   - live-streaming
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 ## Unlocking TalkShopLive: Pros and Tips for Live Shopping Success
 
 With the launch of its Studio App for brands and creators, **TalkShopLive** empowered sellers to live stream their shows in HD. The broadcast-quality app is lauded for its multiple capabilities, including a built-in broadcast studio and HD-quality streaming. In this article, we introduce Talk Shop Live as a live shopping platform and provide a brief guide on how to start your livestream on the platform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is TalkShopLive?
 
@@ -177,10 +181,6 @@ AI streamers are avatars that replicate human streamers, keeping your viewers en
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers a host of AI streamers that you can use in your TalkShopLive shows to keep your viewers engaged. By automating live shopping events, Virbo Live promises to save you the costs and time often incurred when hiring a human streamer. You get access to AI-driven avatars or Vtubers that will interact with your audience, provide information about your products, and answer customer questions. This way, you can boost your revenue during live shopping events and address more customer needs.
 
 ![virbo live](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 02 Why choose Virbo Live Shop
 
@@ -238,10 +238,6 @@ Live videos are becoming crucial for promoting and selling stuff in today's onli
 We will explain how Shopee's live videos work to help you create content that will interest people. Keep reading to learn how to be a **Shopee live seller** to sell things better with this platform and other live-streaming tools.
 
 ![understanding shopee live selling](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. A Review on Shopee Livestream: Learning the Basics
 
@@ -568,6 +564,10 @@ High-quality content videos will always attract the attention of viewers. The **
 
 With this tool, you can edit and customize gaming streaming content. It supports streaming channels, including Facebook and YouTube, to stream your gaming content. Virbo Live has a microphone integration feature for live commentary during streaming. You do not need to download this tool as it has a cloud-based service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features Highlighting Details About Wondershare Virbo Live
 
 1. You can translate streaming content in the required language for global reach through AI translation. There are a variety of options you can go across for translating the added content.
@@ -681,6 +681,10 @@ L'Oreal launched a live consultation service within its app. The live commerce f
 
 ![l’oreal](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Achievement:** The live consultations increased app usage by 50% and grew sales of recommended products by 35%. The e-commerce live-streaming event saw users appreciate the personalized advice they got and a seamless purchasing experience.
 
 **Lessons Drawn:** Live commerce can be more than entertainment by offering valuable services like consultations. By engaging in personalized experiences, brands can increase customer satisfaction and loyalty, contributing to conversions and repeat purchases.
@@ -763,7 +767,7 @@ Live commerce provides a unique opportunity for brands to reach more audiences a
  The world of e-commerce has gone through a tremendous transformation in the recent past, with terms like **live commerce**, live streaming, live shopping, and live chat becoming a norm. S**treaming commerce** has become popular and brands are looking for the best live tools to push their products in the market. Businesses that have taken advantage of **live streaming e commerce** report higher conversion rates and increased sales. In this article, we explore the concept of live streaming as successfully applied by different companies and how artificial intelligence is going to further transform this area of business.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Background Information of Live Commerce
@@ -818,6 +822,10 @@ Sephora leveraged streaming commerce to host makeup tutorials, product demonstra
 Nike partnered with professional athletes and trainers to host live workout sessions on their app. The live commerce event allowed viewers to participate in the workouts at home, purchase featured Nike apparel and equipment, and interact with other users.
 
 ![nike](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Achievement:** The live workouts event increased app downloads by 40% and sale of features products by 25%. Viewers could actively share their workout experiences during the live stream commerce, creating positive brand buzz and advocating for Nike products.
 
@@ -1059,7 +1067,7 @@ To solve this issue, live streaming services can let you watch your favorite spo
 ![options for sports streaming online](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Watch Free Sports Streaming on Your Favorite 10+ Sites
@@ -1082,10 +1090,6 @@ This platform offers live streaming of volleyball, winter sports, cricket, and o
 
 ![stream2watch sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. FirstRowSports
 
 FirstRowSports is one of the best **websites to stream sports for free** on the internet. You will never miss a local or international game with this sports streaming site. It can help you watch your favorite sports livestream without dodgy downloads. People can watch live streams of boxing, rugby, tennis, and Motosport matches on this website.
@@ -1101,10 +1105,6 @@ Some sports fans might follow more than one sport and want to watch their live m
 It gives information about video quality and the number of ads on each stream to let you choose the best one. Additionally, WatchSports provides recent sports news and updates to sports lovers.
 
 ![watchsports sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Sportsurge
 
@@ -1190,6 +1190,10 @@ After selecting the desired template, navigate to the left of a new open window.
 
 ![add microphone as communication source](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Step 4: Customize Your Promotional Video With Different Elements
 
 Next, select the “Background” and “AI Avatar” options to customize promotional videos. Also, you can use the “Sticker” option to make the streaming experience interesting. Select any added element on your canvas to change its layer or perform other functions.
@@ -1213,10 +1217,6 @@ Today, there are lots of **live-streaming sites** for different needs and likes.
 Read this article to explore the best live-streaming websites based on their functionalities. This insight will help you choose the best one that fits your preferences and requirements.
 
 ![top-live-streaming-platforms-with-types-1.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Recognizing the Different Types of Live Streaming Platforms
 
@@ -1251,10 +1251,6 @@ Let’s understand what live shopping is before discussing the **best live-strea
 If you are a TikTok enthusiast, you can shop here without leaving the app. It is built right into the platform to let brands connect with people in a fun way. Sellers can sell things and talk to their customers in one place.
 
 ![top-live-streaming-platforms-with-types-2.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Facebook Live
 
@@ -1323,6 +1319,10 @@ The emerging online stream sites have changed how we listen to music and podcast
 People all over the world love Spotify because it is friendly and gives suggestions that suit their tastes. It has lots of songs, albums, playlists, and podcasts to choose from. You can find new music, make your playlists, and listen offline.
 
 ![top-live-streaming-platforms-with-types-9.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. YouTube
 
@@ -1372,10 +1372,6 @@ Read this article to explore the best live-streaming websites based on their fun
 
 ![top-live-streaming-platforms-with-types-1.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Recognizing the Different Types of Live Streaming Platforms
 
 As live streaming is getting popular, people now watch videos online for entertainment. In addition to fun, the **top live-streaming platforms** are used in many different areas like entertainment and education. Let us recognize these types and what makes them separate to understand them better:
@@ -1403,10 +1399,6 @@ If you're a sports fan, these top live-streaming sites are fit for you. They sho
 ## Part 2\. The Best Live Shopping Live Streaming Platform in 2024
 
 Let’s understand what live shopping is before discussing the **best live-streaming websites** **.** Live shopping combines fun and entertainment with online shopping. You can see products showcased in real time and chat with the hosts. This section will discuss the top live shopping sites and see what makes them stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. TikTok Shop
 
@@ -1503,6 +1495,10 @@ Tubi is the largest free **live-streaming video website** for TV shows and movie
 Popcorn Flix offers free live TV streams and over 1500 full-length movies for viewing on all your devices. It features a variety of genres like spotlight films, comedies, and horror movies. The video quality is decent at 720p HD, which is suitable for watching TV shows.
 
 ![top-live-streaming-platforms-with-types-12.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6\. The Best Live Sports Streaming Platform in 2024
 
@@ -1883,6 +1879,10 @@ Another tip to consider is choosing the right time and date for the maximum view
 
 Customers can read the product details and see how it looks, so what difference will they get from a live sale? Considering this perspective, sellers should bring something unique to the shopping stream. For this purpose, they can explain the product's benefits and use cases. Furthermore, they should keep their tone friendly and humorous for the targeted audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To summarize, **livestream sale** **s** is an emerging concept to boost revenue and sales. As shown in this article, it is fruitful for retailers and significantly contributes to generating sales. Like China's ever-changing live selling industry, Wondershare Virbo Live is also an emerging tool. It is emerging to change virtual selling dynamics by providing seamless live-stream videos.
@@ -2010,17 +2010,16 @@ To summarize, **livestream sale** **s** is an emerging concept to boost revenue 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/treamline-your-surf-tips-for-multiple-youtube-views/"><u>[New] Streamline Your Surf Tips for Multiple Youtube Views</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-reels-add-sound-for-impactful-storytelling/"><u>[Updated] 2024 Approved Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>[Updated] Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/11-innovative-metaverse-projects-for-insightful-analysis/"><u>11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-to-skype-meeting-recording/"><u>Comprehensive Guide to Skype Meeting Recording</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266222415-enhance-your-iphones-lifespan-shop-now-for-top-notch-stellar-erasers/"><u>Enhance Your iPhone's Lifespan - Shop Now for Top-Notch Stellar Erasers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>In 2024, Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New 2024 Approved Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/professional-production-pro-the-alluring-tascam-cd-200bt-unveiled-and-reviews/"><u>Professional Production Pro: The Alluring Tascam CD-200BT Unveiled and Reviews</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-power-of-youtube-live-selling-unlock-your-sales-potential-for-2024/"><u>The Power of YouTube Live Selling Unlock Your Sales Potential for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>Updated In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>[Updated] Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/cambia-i-tuoi-file-video-nsv-in-mpeg-senza-costi-tramite-il-servizio-online-di-movavi/"><u>Cambia I Tuoi File Video NSV in MPEG Senza Costi Tramite Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-metaverse-mirth-humorous-digital-world-memes/"><u>In 2024, Mastering Metaverse Mirth Humorous Digital World Memes</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-cutting-edge-content-from-googloud-for-2024/"><u>Premium Picks Cutting-Edge Content From GooGloud for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017007890-troubleshooting-no-sound-problems-in-windows-media-player-solved/"><u>Troubleshooting No Sound Problems in Windows Media Player: Solved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-utilizing-pushd-and-popd-in-your-linux-terminal/"><u>Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
 </ul></div>
 

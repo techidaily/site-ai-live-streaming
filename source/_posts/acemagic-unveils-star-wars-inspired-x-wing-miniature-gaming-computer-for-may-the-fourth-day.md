@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-11-29T23:24:07.018Z
-updated: 2024-12-01T23:30:28.358Z
+date: 2024-12-05T17:17:00.673Z
+updated: 2024-12-09T17:44:44.002Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,17 +74,20 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-video-creation-with-youtube-and-more/"><u>[New] 2024 Approved Step-by-Step Video Creation with YouTube and More</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-adding-richness-youtube-videos-in-slideshows/"><u>[New] In 2024, Adding Richness YouTube Videos in Slideshows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-80s-cinema-a-guide-to-must-watch-retro-flicks-of-the-decade/"><u>Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266155863-get-your-high-quality-iphone-eraser-now/"><u>Get Your High-Quality iPhone Eraser Now!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-green-screen-magic-video-production-tips/"><u>In 2024, Unlocking Green Screen Magic Video Production Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977477058-master-mbox-2-driver-management-free-downloads-and-effortless-update-processes-for-windows-users/"><u>Master MBox 2 Driver Management: Free Downloads & Effortless Update Processes for Windows Users</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] 2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-wirecast-vs-obs-the-ultimate-guide-to-live-streamers/"><u>[New] In 2024, Wirecast Vs. OBS The Ultimate Guide to Live Streamers</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-complete-overview-claude-3-unwrapped/"><u>A Complete Overview: Claude 3 Unwrapped</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-civi-3-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Civi 3 Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>New Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy S24 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultrawide-vs-uhd-4k-monitor-showdown-top-picks-for-2024/"><u>UltraWide VS UHD 4K Monitor Showdown Top Picks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-phenomenon-of-meme-cryptocurrncies-a-comprehensive-guide/"><u>Understanding the Phenomenon of Meme Cryptocurrncies: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
 
