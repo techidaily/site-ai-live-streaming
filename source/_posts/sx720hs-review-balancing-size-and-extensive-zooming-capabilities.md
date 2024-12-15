@@ -1,7 +1,7 @@
 ---
 title: SX720HS Review - Balancing Size and Extensive Zooming Capabilities
-date: 2024-12-07T16:06:44.935Z
-updated: 2024-12-09T17:59:55.234Z
+date: 2024-12-09T19:57:07.883Z
+updated: 2024-12-15T19:58:12.733Z
 categories:
   - BestProducts
 description: This Article Describes SX720HS Review - Balancing Size and Extensive Zooming Capabilities
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/0EPVgMSJ1IAA29TkCpI7Z2tdWpw=/400x300/fi
 ## Creative Sound Blaster ZxR
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/87Y0vp91-Opdxctf3M6BGQ6r1d8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Ramirez
 
@@ -38,10 +42,6 @@ Lifewire / Emily Ramirez
 [View On Amazon](https://www.amazon.com/dp/B009ISU33E?tag=lifewire-onsite-prod-20&ascsubtag=4769837%7Cnf4d47b24328e45aa9d01315a6a6b3e1211%7CB009ISU33E)
 
 2.8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Creative Sound Blaster ZxR
 
@@ -71,6 +71,10 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/U_vmwZDe5HbbungQ5L2hzf2LVto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-4-b0d1cca56ec04a61b83e20d1cecf2aea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Ramirez
 
 ## **Design: Sleek and convenient**
@@ -96,7 +100,7 @@ Lifewire / Emily Ramirez
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/6uorHzKoJdW1FBv0B5ZfeoE8XzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-3-17de2156e4294b5c85f151bd0cd97aa4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
@@ -112,7 +116,7 @@ Lifewire / Emily Ramirez
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Lots of options with mixed utility**
@@ -124,16 +128,12 @@ Lifewire / Emily Ramirez
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -161,7 +161,7 @@ Lifewire / Emily Ramirez
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -202,17 +202,22 @@ Lifewire / Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-lightning-fast-windows-data-analysis-guide/"><u>[New] 2024 Approved Lightning-Fast Windows Data Analysis Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-browsing-bygone-tales-in-the-facebook-universe-with-devices-for-2024/"><u>[New] Browsing Bygone Tales in the Facebook Universe with Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-fb-video-promos-access-free-video-toolkit/"><u>[New] In 2024, Mastering FB Video Promos Access Free Video Toolkit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>2024 Approved A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>2024 Approved Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/breakdown-of-cloud-storage-pricing-expert-analysis-and-top-deals-for-2024/"><u>Breakdown of Cloud Storage Pricing Expert Analysis & Top Deals for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-user-experience-via-cookiebot-personalization-techniques/"><u>Enhanced User Experience via Cookiebot Personalization Techniques</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-synaptic-smbus-driver-problems-in-windows-11-a-step-by-step-guide/"><u>Resolving Synaptic SMBus Driver Problems in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-stream-your-favorite-games-online/"><u>Updated In 2024, How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>2024 Approved Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-mirror-reflecting-true-selfie-essence/"><u>2024 Approved Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-creativity-writing-your-own-poetry-anthology-with-chatgpt/"><u>AI-Powered Creativity: Writing Your Own Poetry Anthology with ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-met-not-satisfied-tagging-on-win11/"><u>Bypass Met Not Satisfied Tagging on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immersive-home-theater-choosing-the-best-3d-players-for-2024/"><u>Immersive Home Theater Choosing the Best 3D Players for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-5-free-streaming-options-for-watching-mlb-matches/"><u>In 2024, Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-your-safety-on-the-road-a-detailed-review-of-the-escort-max-360-radar-detector-complete-with-gps-and-more/"><u>Maximize Your Safety on the Road: A Detailed Review of the Escort Max 360 Radar Detector - Complete With GPS and More!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>New The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>New Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-muted-computer-effortless-ways-to-troubleshoot-and-repair-audio-problems/"><u>No More Muted Computer: Effortless Ways to Troubleshoot & Repair Audio Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplified-hdr-an-in-depth-examination/"><u>Simplified HDR An In-Depth Examination</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-evasion-of-social-engineering-tricks/"><u>The Ultimate Guide to Evasion of Social Engineering Tricks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>Updated The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/youtube-live-selling-boost-your-sales-with-these-tips/"><u>YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
 </ul></div>
 

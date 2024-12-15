@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-12-05T17:17:00.673Z
-updated: 2024-12-09T17:44:44.002Z
+date: 2024-12-11T16:08:54.191Z
+updated: 2024-12-15T18:11:18.852Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,20 +74,18 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] 2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-wirecast-vs-obs-the-ultimate-guide-to-live-streamers/"><u>[New] In 2024, Wirecast Vs. OBS The Ultimate Guide to Live Streamers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-complete-overview-claude-3-unwrapped/"><u>A Complete Overview: Claude 3 Unwrapped</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-civi-3-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Civi 3 Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>New Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s24-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy S24 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultrawide-vs-uhd-4k-monitor-showdown-top-picks-for-2024/"><u>UltraWide VS UHD 4K Monitor Showdown Top Picks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-phenomenon-of-meme-cryptocurrncies-a-comprehensive-guide/"><u>Understanding the Phenomenon of Meme Cryptocurrncies: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[New] 2024 Approved Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-choice-10-free-youtube-subtitle-extractors/"><u>[New] In 2024, Essential Choice 10 FREE YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-youtube-income-lessons-from-sourav-joshi/"><u>[Updated] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-facebook-live-shopping-a-comprehensive-guide/"><u>2024 Approved Facebook Live Shopping A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/50plus-text-wonders-in-video-editing/"><u>50+ Text Wonders in Video Editing</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/aggiorna-il-tuo-ps3-con-un-nuovo-disco-rigido-esterno-per-ps4-hd-o-ssd-piu-grande/"><u>Aggiorna Il Tuo PS3 Con Un Nuovo Disco Rigido Esterno per PS4 - HD O SSD Più Grande</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104437171-cant-run-rtx-gaming-fix-the-issue-now-done/"><u>Can't Run RTX Gaming? Fix the Issue Now, Done</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-streaming-services-worth-a-try/"><u>In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-issues-leveraging-the-power-of-apples-in-house-support-software/"><u>Navigating iPhone Issues: Leveraging the Power of Apple’s In-House Support Software</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>New Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>Updated A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
 </ul></div>
 

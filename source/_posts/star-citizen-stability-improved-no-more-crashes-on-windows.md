@@ -1,7 +1,7 @@
 ---
 title: "Star Citizen Stability Improved: No More Crashes on Windows"
-date: 2024-12-04T16:34:32.785Z
-updated: 2024-12-09T16:35:54.404Z
+date: 2024-12-09T20:17:11.959Z
+updated: 2024-12-15T20:14:27.973Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ There is nothing more frustrating than buying a video game and not being able to
 
  This problem may occur for various reasons, most of which are hard to detect because of the number of unique hardware and software settings players have. The information below is a general guide to help rule out common issues. You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix** _Total War_ **crash?**
 
 1. **[Meet the minimum system requirements](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,6 +30,10 @@ There is nothing more frustrating than buying a video game and not being able to
 7. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Configure your in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -59,15 +59,15 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  Make sure your computer meets the requirements, then move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable your antivirus temporarily
 
@@ -87,6 +87,10 @@ If your game still crashes, move on and try the fix below.
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -98,6 +102,10 @@ If your game still crashes, move on and try the fix below.
 **4)**  Restart_Total War_ from Steam.
 
  Now, check if this fixed the crashing issue. If your problem still exists, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -125,11 +133,19 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -154,21 +170,17 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -178,17 +190,9 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and_Total War_ .
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Verify the integrity of your game files
 
@@ -200,21 +204,17 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-655.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch_Total War_ .
 
@@ -250,10 +250,6 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -262,13 +258,13 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -281,6 +277,10 @@ If your game crashes again, try the fix below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -315,24 +315,21 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-20-best-free-platforms-for-youtube-channel-beginners/"><u>[New] 2024 Approved 20 Best Free Platforms for YouTube Channel Beginners</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unpacking-virtual-reality-its-upside-and-downside/"><u>[New] 2024 Approved Unpacking Virtual Reality Its Upside & Downside</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-healing-holograms-arvr-in-healthcare/"><u>[New] Healing Holograms AR/VR in Healthcare</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-eclipsed-youtube-short-video-for-2024/"><u>[Updated] Fixed Eclipsed YouTube Short Video for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[Updated] In 2024, Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-record-holders-the-epitome-of-reddit-engagement-10-threads/"><u>[Updated] Record Holders The Epitome of Reddit Engagement (10 Threads)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/6-must-have-tools-for-successful-game-streaming-for-2024/"><u>6 Must-Have Tools for Successful Game Streaming for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-boost-your-site-with-smart-analytics/"><u>Cookiebot-Enhanced: Boost Your Site with Smart Analytics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-storm-5g-lock-screen-password-by-drfone-android/"><u>How To Change Lava Storm 5G Lock Screen Password?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-a18-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo A18 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>New In 2024, Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolve-absence-of-noise-on-pc-without-hassle/"><u>Quick Fix Guide: Resolve Absence of Noise on PC Without Hassle</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated 2024 Approved How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>Updated Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Updated Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-the-way-in-affordable-video-conferencing-technology/"><u>[New] In 2024, Leading the Way in Affordable Video Conferencing Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-step-by-step-saving-tweet-vids-on-androids-for-2024/"><u>[New] Step-By-Step Saving Tweet Vids on Androids for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-expert-screenshots-for-discord-enthusiasts-for-2024/"><u>[Updated] Expert Screenshots for Discord Enthusiasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boutonniere-bookmarks-casino-critique/"><u>[Updated] In 2024, BOUTONNIERE BOOKMARKS Casino Critique</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-extracting-images-from-movies-using-windows-10-photos-app/"><u>[Updated] In 2024, Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-hp-printer-drivers-compatible-with-windows-11/"><u>Download & Update HP Printer Drivers: Compatible with Windows 11</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-can-you-repair-graphics-card-issues-in-windows-solutions-from-yl-computing/"><u>How Can You Repair Graphics Card Issues in Windows - Solutions From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone SE (2020)?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New 2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-on-starting-private-live-streams-on-youtube/"><u>New A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-on-twitch-the-ultimate-guide/"><u>New How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/safeguarding-personal-information-in-the-cloud-discover-how-apple-manages-ai-data-security/"><u>Safeguarding Personal Information in the Cloud: Discover How Apple Manages AI Data Security</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>Updated In 2024, A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-searching-for-free-sports-streaming-sites-look-no-further/"><u>Updated Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
 </ul></div>
 

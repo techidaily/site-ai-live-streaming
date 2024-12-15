@@ -1,7 +1,7 @@
 ---
 title: "Resolve Nonfunctional Speakers on Your Windows 11 PC: Expert Tips & Tricks"
-date: 2024-12-04T16:31:12.969Z
-updated: 2024-12-09T17:10:45.800Z
+date: 2024-12-12T17:26:12.793Z
+updated: 2024-12-15T16:24:07.795Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Troubleshoot the hardware issue**
 
  The hardware problem can cause the sound not working issue, so you can follow the instructions below to troubleshoot and identify your sound problem.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  If the sound gets working again, it should be a problem of the headphone jack on your laptop, so you can**clean the jacks with a cotton swab or soft brush** ; Or it can be a problem of your headphone, **replace with another headphone cord or try another new headphone** to have the sound working through your headphone.
 
  If the sound is still not working, here’s the next thing to try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Check the audio settings in your Windows**
 
@@ -63,17 +71,21 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -85,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
@@ -98,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
@@ -117,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
@@ -128,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 4) Try the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
@@ -156,7 +160,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -174,10 +178,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
@@ -210,7 +210,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -235,24 +235,18 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>[New] The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-best-practices-in-valheim-agriculture/"><u>[Updated] 2024 Approved In-Depth Analysis of Best Practices in Valheim Agriculture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-the-leading-tunefab-screen-recorders/"><u>[Updated] Comparing the Leading Tunefab Screen Recorders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-editing-your-tiktok-number/"><u>2024 Approved Master the Art of Editing Your TikTok Number</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-iphone-image-clarity-and-focus/"><u>Enhancing iPhone Image Clarity and Focus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-interactive-features-of-the-9-inch-lenovo-nook-tablet/"><u>Experience the Interactive Features of the 9-Inch Lenovo Nook Tablet</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-list-of-virtual-journeys-by-channel/"><u>In 2024, The Ultimate List of Virtual Journeys, By Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New In 2024, A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry/"><u>New Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pace-your-panorama-learning-time-lapses-on-samsung-phones-for-2024/"><u>Pace Your Panorama Learning Time-Lapses on Samsung Phones for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quiet-windows-11-ceasing-background-tasks/"><u>Quiet Windows 11: Ceasing Background Tasks</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-facebook-live-shopping-a-comprehensive-guide/"><u>Updated In 2024, Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/reaking-the-norm-eye-catching-talents-amongst-female-youtube-stars-for-2024/"><u>[New] Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhance-clear-speech-on-skype-calls/"><u>[New] Enhance Clear Speech on Skype Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlock-the-potential-of-photography-with-adobe-motion-blur/"><u>[Updated] 2024 Approved Unlock the Potential of Photography with Adobe Motion Blur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>[Updated] Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-perfecting-audio-rates-in-youtube-playback-for-2024/"><u>[Updated] Perfecting Audio Rates in YouTube Playback for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-the-market-of-dronescopic-stabilizers/"><u>2024 Approved Navigating the Market of Dronescopic Stabilizers</u></a></li>
+<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>In 2024, Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New 2024 Approved Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New 2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-chat-apps-to-try-with-shopify/"><u>New Best Live Chat Apps To Try With Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated How to Stream on Twitch The Ultimate Guide</u></a></li>
 </ul></div>
 

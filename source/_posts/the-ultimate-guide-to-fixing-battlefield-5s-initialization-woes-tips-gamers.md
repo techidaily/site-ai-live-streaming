@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-12-08T16:57:28.286Z
-updated: 2024-12-09T16:15:16.769Z
+date: 2024-12-13T17:34:20.985Z
+updated: 2024-12-15T16:25:51.142Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
@@ -50,7 +54,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
@@ -123,15 +127,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -147,17 +151,21 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -171,10 +179,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update Windows operating system
 
  This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
@@ -182,6 +186,10 @@ In case you don’t know how, here’s the guidance:
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Settings** window. Then click **Updates & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
@@ -209,19 +217,23 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -230,10 +242,6 @@ In case you don’t know how, here’s the guidance:
  1) Right-click an empty area on your desktop to open the context menu. Then select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
@@ -246,10 +254,6 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -278,6 +282,10 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
  If, after running sfc you still experience the crashing issue, try running dism.exe as described below.
@@ -290,10 +298,6 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -303,10 +307,6 @@ dism.exe /online /cleanup-image /restorehealth
  After that, hit **Enter** on your keyboard. Then the DISM tool will begin to scan for any problems and try to fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
@@ -323,7 +323,7 @@ dism.exe /online /cleanup-image /restorehealth
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
@@ -352,18 +352,21 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ow-to-make-money-with-a-beauty-channel-for-2024/"><u>[New] How to Make Money with a Beauty Channel for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>[Updated] Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-windows-document-reviewing-techniques/"><u>2024 Approved Swift Windows Document Reviewing Techniques</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-s23plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy S23+ Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-e13-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto E13 Pattern Lock Screen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unparalleled-vr-game-setups-top-8-edition/"><u>In 2024, Unparalleled VR Game Setups Top 8 Edition</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>New 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>New 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>New How To Start a Private Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping-for-2024/"><u>Perfect Guide To Excel in TikTok Live Shopping for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/strategy-sketches-plotting-the-market-map/"><u>Strategy Sketches Plotting the Market Map</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated 2024 Approved Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-comment-management-turn-it-on-or-off/"><u>[New] 2024 Approved YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-achieving-professional-level-audio-crossfades-in-audacity/"><u>[New] Achieving Professional-Level Audio Crossfades in Audacity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-insiders-guide-to-using-siri-on-tiktok-applications/"><u>[New] In 2024, The Insider's Guide to Using Siri on TikTok Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leading-360-action-footage-options/"><u>[New] Leading 360° Action Footage Options</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-essentials-everyone-needs-to-know-about-youtube-tv-services/"><u>[Updated] In 2024, The Essentials Everyone Needs to Know About YouTube TV Services</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/free-tv-streaming-9-sites-you-need-to-know-for-2024/"><u>Free TV Streaming 9 Sites You Need To Know for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Huawei Nova Y71 FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-find-x6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Find X6 to iPod | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-selling-a-comprehensive-starters-guide/"><u>In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>New In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-reviewing-the-live-streaming-shopping-industry-in-china-for-2024/"><u>New Reviewing the Live Streaming Shopping Industry in China for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-basics-a-novices-roadmap-to-configuring-a-windows-pc-with-essential-tips/"><u>Unlocking the Basics: A Novice's Roadmap to Configuring a Windows PC with Essential Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-secrets-for-tiktok-live-studio-success/"><u>Updated 2024 Approved Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>Updated In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/windows-best-calling-solutions-7-1-ranked/"><u>Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
 </ul></div>
 

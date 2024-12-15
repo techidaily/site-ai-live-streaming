@@ -1,7 +1,7 @@
 ---
 title: "Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors"
-date: 2024-12-07T16:07:19.127Z
-updated: 2024-12-09T16:30:15.476Z
+date: 2024-12-10T20:52:01.958Z
+updated: 2024-12-15T18:30:39.609Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,14 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-the-power-of-wins11-new-gaming-titles/"><u>[New] Harness the Power of Wins11 New Gaming Titles</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-android-screen-capture-made-easy-free/"><u>[New] In 2024, Android Screen Capture Made Easy, Free</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[New] Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-guide-to-screen-capturing-in-minecraft/"><u>[Updated] Complete Guide to Screen Capturing in Minecraft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>[Updated] Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
-<li><a href="https://discover-best.techidaily.com/get-vlc-media-player-for-free-on-windows-11-easy-setup-guide/"><u>Get VLC Media Player for Free on Windows 11: Easy Setup Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-anonymous-surveillance-methods-hiding-private-data-effectively-for-2024/"><u>[New] Anonymous Surveillance Methods Hiding Private Data Effectively for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-to-smart-picture-editing-using-pixlr-for-2024/"><u>[New] The Ultimate Guide to Smart Picture Editing Using Pixlr for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-ultimate-30-list-of-free-vectr-and-illustration-sites-online/"><u>[Updated] In 2024, Discover the Ultimate 30 List of Free Vectr and Illustration Sites Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>2024 Approved The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-pouvez-vous-transferer-un-systeme-de-demarrage-sur-une-cle-usb-dun-ordinateur-sous-windows-11-10-ou-plus-anciennes-versions/"><u>Comment Pouvez-Vous Transférer Un Système De Démarrage Sur Une Clé USB D'un Ordinateur Sous Windows 11, 10 Ou Plus Anciennes Versions ?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-ultimate-list-of-live-chat-apps-for-shopify-for-2024/"><u>New The Ultimate List of Live Chat Apps for Shopify for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-access-all-matches-free-world-cup-live-streaming-options-for-2024/"><u>Updated Access All Matches Free World Cup Live Streaming Options for 2024</u></a></li>
 </ul></div>
 
