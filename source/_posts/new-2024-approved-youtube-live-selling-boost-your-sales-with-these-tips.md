@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved YouTube Live Selling Boost Your Sales With These Tips
-date: 2024-12-09T17:41:42.129Z
-updated: 2024-12-15T16:12:34.876Z
+date: 2024-12-17T17:56:56.793Z
+updated: 2024-12-24T16:09:26.345Z
 tags: 
   - ai
   - live-streaming
@@ -259,6 +259,10 @@ NTWK blends entertainment, pop culture, and commerce. The live stream selling pl
 * Does not embed on other platforms
 * Does not provide customer activity data
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Amazon Live
 
 The live shopping platform is found within Amazon, allowing US Amazon vendors, US Professional Sellers, and Amazon influencers with storefronts to promote and sell their products during livestream shopping events. Store owners can create shoppable live streams where they educate and interact with shoppers in real-time. They can also partner with influencers to promote their products.
@@ -348,6 +352,10 @@ Channelize.io is an end-to-end solution that enables ecommerce brands to add liv
 
 ![channelize.io](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Integrations**: Shopify, Magento, WooCommerce, Wix, PrestaShop, and Shoplazza
 
 **Pricing**: Free plan + demo available, with pricing starting from $49/month
@@ -362,10 +370,6 @@ Channelize.io is an end-to-end solution that enables ecommerce brands to add liv
 
 * Multi-streaming is only available in top plans
 * Additional add-ons can be expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. ShopShops
 
@@ -445,6 +449,10 @@ To use live selling platforms effectively, interact with your viewers, demonstra
 
 Yes, you can use the [Virbo Live AI avatars](https://virbo.wondershare.com/virbo-live.html) commercially by taking a paid subscription. All in-built assets on Virbo Live are copyrighted by Wondershare ad all subscription users can use these resources commercially. However, commercial use is not supported for free users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Live shopping platforms are a great choice when you want to engage with your viewers in real-time and boost your sales. Although it can feel overwhelming when looking for the right live shopping platform, your goals and target audience should be our major consideration. Once you have established the platform that works well for your brand, we recommend using [Virbo Live](https://virbo.wondershare.com/virbo-live.html) to create content for your live event. With the AI streamer, you can automate your live events, ensuring your audience is catered for at all times.
@@ -498,6 +506,10 @@ NTWK blends entertainment, pop culture, and commerce. The live stream selling pl
 * Does not embed on other platforms
 * Does not provide customer activity data
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Amazon Live
 
 The live shopping platform is found within Amazon, allowing US Amazon vendors, US Professional Sellers, and Amazon influencers with storefronts to promote and sell their products during livestream shopping events. Store owners can create shoppable live streams where they educate and interact with shoppers in real-time. They can also partner with influencers to promote their products.
@@ -524,10 +536,6 @@ The live shopping platform is found within Amazon, allowing US Amazon vendors, U
 This live shopping feature within Facebook combines live video streaming with ecommerce. Businesses can sell their products using live video broadcasts on Facebook. With Facebook having a huge user base, the live shopping platform is ideal for businesses of all shapes and sizes. Local businesses and craftsmen can use the platform to reach a broader audience while fashion and beauty industry businesses can leverage the platform to demonstrate makeup techniques or provide styling tips.
 
 ![facebook](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Integrations**: Integrates with other META platforms
 
@@ -704,6 +712,10 @@ Moreover, the blackout policy varies according to different factors. They includ
 
 Due to having limitations, fans are forced to find **MLB streaming sites** to watch matches. By doing so, they can utilize live stream channels to bypass region-locked restrictions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Find the Best Free MLB Streaming Sites for Watching Your Favorite Matches
 
 Millions of worldwide MLB fans love to watch every match. Meanwhile, the irritating regional restrictions frustrate them. So, they have to find the **best streaming platform for gaming**. To help out their ventures, we have enlisted here the five best free MLB streaming sites.
@@ -767,10 +779,6 @@ Watching MLB matches with Sportsurge doubles the fun for sports lovers. This pla
 1. Sportsurge provides an easy way to check upcoming MLB matches.
 2. This platform has a user-centric interface to facilitate users with intuitive live streaming options.
 3. No region-based restrictions exist, so you want to watch sports from anywhere.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Comparison of the Best MLB Streaming Sites \[Made Easy\]
 
@@ -877,10 +885,6 @@ Then, you can drag objects or text given on the template to change their positio
 Next, click on the “Script Lines” tab at the top left corner. Choose the “Audio” option on the same screen. After that, hit the “Upload Local Voice” button to upload your local voice audio. Then, select the language and accent. Considering your selections, it generates AI-dubbed audio within a few seconds.
 
 ![upload voice as script](https://images.wondershare.com/virbo/article/2024/04/watch-free-mlb-streaming-from-best-options-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Step 5\. Start Your Personalized Live Stream
 
@@ -1130,10 +1134,6 @@ According to [statistics](https://bloggingwizard.com/facebook-live-statistics/),
 
 ![right-ways-to-perform-facebook-live-shopping-2.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Facebook Live Shopping Notification
 
 To bring viewer traffic, Facebook sends notifications to customers. People get notified via Messenger or Facebook notifications about their favorite brand’s live selling. This way, merchants can attract the maximum number of customers.
@@ -1166,10 +1166,6 @@ Upon creating an account and choosing a suitable product niche, it’s time to f
 * **Step 2.** This opens up a new window where you have to provide all the details involving the product. Add the product and their respective details, and review the result in the playlist. After you've created the playlist, select where you wish to go live on Facebook, i.e., desktop or mobile app. On selecting the right option, click the "Go Live" button to conclude the process.
 
 ![right-ways-to-perform-facebook-live-shopping-5.jpg](https://images.wondershare.com/virbo/article/2024/03/right-ways-to-perform-facebook-live-shopping-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Products Are Suitable for Facebook Live?
 
@@ -1334,6 +1330,10 @@ Make your audience as much involved in the event as you can. For this, it is sug
 
 You should not let your **Facebook live online selling** sessions be wasted. Save it in your timeline for people to watch anytime and get information about items. It will also attract new audiences who couldn't join the live session.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Sell Better With Simplicity: Wondershare Virbo Live
 
 Live selling on Facebook seems easy, but you need effective tools to attract the most customers. In this regard, people still don’t have enough knowledge to plan and execute live streaming. Therefore, using [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) is the ultimate solution to perform the entire process in one place. It is an AI tool that offers multilingual AI-driven avatars for seamless shopping broadcasting.
@@ -1475,6 +1475,10 @@ After that, the tool's home screen opens with several customization options. Nex
 
 ![make virbo blank livestream room](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3\. Insert Text or Navigate to the AI Smart Script Function
 
 The next screen shows multiple features to let you create a live stream. For that, click on the “Text” option on the left side of the display. Type or paste your dubbing content in the text box. You can also choose the “AI Smart Script” option at the bottom left corner to instantly add your prompt and generate a script.
@@ -1538,6 +1542,10 @@ Marketers can operate TikTok Live selling through live streaming and e-commerce.
 When shoppers interact with them, they can buy directly within the app by providing links or buttons. So, there is no need to go out of the platform and surf other websites. Moreover, they can make transactions through integrated payment gateways. Then, sellers ensure fulfillment and smooth delivery of the produce.
 
 ![operation of live shopping in tiktok](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Is TikTok Live Shopping Beneficial in the Current Digital Industry?
 
@@ -1685,10 +1693,6 @@ Shopify Inbox benefits sellers by allowing them to chat with customers while sho
 It is one of the **best live chat apps for Shopify** to provide real-time support to customers. With the help of the Chatra live chat feature, you can ensure 24/7 customer support. This is an easy-to-use app that can increase sales of your online store. Other than that, it offers a free plan for small business owners and beginners to cater to various users.
 
 ![chatra live chat and chatbot app](https://images.wondershare.com/virbo/article/2024/04/best-live-chat-apps-to-try-with-shopify-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -1950,6 +1954,10 @@ Enter a script or upload your audio for the AI Avatar to seamlessly interact wit
 
 ![generate script](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 4 Start Live Streaming
 
 Click Start Live Streaming and connect your AI avatar to your live commerce platform using the OBS OBS software.
@@ -2175,6 +2183,10 @@ Audience engagement on live streams can increase through running giveaway campai
 
 ![enhancing-knowledge-about-lazlive-live-selling-4.jpg](https://images.wondershare.com/virbo/article/2024/03/enhancing-knowledge-about-lazlive-live-selling-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Promote Live Sale Before and After
 
 It is essential to create hype around your selling events. You can share video ad teasers on social media platforms and email your target leads to promote your stream. **Lazada's live selling** platform provides a sharing option to help you promote your live sale. Also, you can encourage your audience to share live videos while streaming.
@@ -2186,10 +2198,6 @@ It is essential to create hype around your selling events. You can share video a
 Influencers can engage their followers and empower them to buy products. These influencers might help you increase the efficiency of the live-selling Lazada events. You should collaborate with influencers who have loyal followers to boost your brand image.
 
 ![enhancing-knowledge-about-lazlive-live-selling-6.jpg](https://images.wondershare.com/virbo/article/2024/03/enhancing-knowledge-about-lazlive-live-selling-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Select a Sophisticated Livestreaming Tool
 
@@ -2210,10 +2218,6 @@ These AI avatars or VTubers can perfectly mimic natural movements to engage the 
 1. It offers a customizable Q&A repository to set an automatic response to audience questions. It instantly helps users interact with their audience by answering their most frequently asked questions.
 2. This tool allows microphone integration to drive AI streamers to speak in real-time. Not only does this promote live audience interaction, but it is also a great way to keep actual identity behind the curtains.
 3. Wondershare Virbo Live is compatible with many platforms like YouTube and TikTok. It also supports live streaming on LazLive, Shopee, and similar platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps To Create Stream Room Using Wondershare Virbo Live
 
@@ -2295,10 +2299,6 @@ LazLive can be a good option for startups and small businesses looking for a che
 ## Part 2\. How To Create the Perfect Livestream Selling Environment in LazLive?
 
 You can make your brand attractive and likable with live stream selling. It is a two-way communication that enhances the loyalty of customers. With some tips, you can make the selling environment more attractive in LazLive. Follow the below tips to create a perfect livestream selling environment:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Plan Your Content
 
@@ -2402,14 +2402,14 @@ Platforms like **LazLive** will allow you to do live streaming with its easy-to-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-instant-expertise-changing-photos-to-captivating-youtube-thumbnails/"><u>[New] In 2024, Instant Expertise Changing Photos to Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[New] In 2024, Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quintessential-stop-motion-gems-for-cinephiles/"><u>[New] Quintessential Stop-Motion Gems for Cinephiles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sleeksky-saver-the-frugal-file-nest/"><u>[New] SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-your-video-call-process-with-obs-and-skype-for-2024/"><u>[New] Streamlining Your Video Call Process with OBS & Skype for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/free-tv-streaming-9-sites-you-need-to-know/"><u>Free TV Streaming 9 Sites You Need To Know</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/reviewing-the-live-streaming-shopping-industry-in-china/"><u>Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>Updated How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook/"><u>Updated Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturewin-the-hassle-free-screen-recorder/"><u>[Updated] CaptureWin The Hassle-Free Screen Recorder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-zero-to-hero-in-youtubing-equipment-essentials/"><u>[Updated] From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-reactivating-your-android-device-a-step-by-step-guide/"><u>1. Reactivating Your Android Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/beam-your-best-achieving-hd-quality-with-fb-live-for-2024/"><u>Beam Your Best Achieving HD Quality with FB Live for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands-for-2024/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210251713-9781071592113-transtorno-bipolar-ii-de-um-diagnostico-triste-a-uma-vida-feliz/"><u>Transtorno Bipolar II - De um Diagnóstico Triste a uma Vida Feliz | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
 </ul></div>
 

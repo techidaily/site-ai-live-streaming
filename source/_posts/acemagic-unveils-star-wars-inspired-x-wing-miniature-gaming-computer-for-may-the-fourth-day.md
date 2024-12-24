@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-12-11T16:08:54.191Z
-updated: 2024-12-15T18:11:18.852Z
+date: 2024-12-23T17:00:06.894Z
+updated: 2024-12-24T16:27:23.032Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,18 +74,18 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[New] 2024 Approved Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-choice-10-free-youtube-subtitle-extractors/"><u>[New] In 2024, Essential Choice 10 FREE YouTube Subtitle Extractors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-youtube-income-lessons-from-sourav-joshi/"><u>[Updated] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-facebook-live-shopping-a-comprehensive-guide/"><u>2024 Approved Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/50plus-text-wonders-in-video-editing/"><u>50+ Text Wonders in Video Editing</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/aggiorna-il-tuo-ps3-con-un-nuovo-disco-rigido-esterno-per-ps4-hd-o-ssd-piu-grande/"><u>Aggiorna Il Tuo PS3 Con Un Nuovo Disco Rigido Esterno per PS4 - HD O SSD Più Grande</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104437171-cant-run-rtx-gaming-fix-the-issue-now-done/"><u>Can't Run RTX Gaming? Fix the Issue Now, Done</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/garmins-ultimate-sports-timepiece-enduro-is-set-to-outshine-apple-in-the-ultra-endurance-race-zdnet/"><u>Garmin's Ultimate Sports Timepiece: Enduro 지니어 Is Set to Outshine Apple in the Ultra-Endurance Race | ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-streaming-services-worth-a-try/"><u>In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-issues-leveraging-the-power-of-apples-in-house-support-software/"><u>Navigating iPhone Issues: Leveraging the Power of Apple’s In-House Support Software</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>New Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>Updated A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-social-impact-with-these-hashtags/"><u>[New] Elevate Your Social Impact with These Hashtags</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-cash-flow-with-these-5-instagram-hacks/"><u>[Updated] In 2024, Boost Cash Flow with These 5 Instagram Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-sound-system-advances-announced/"><u>[Updated] In 2024, Sound System Advances Announced</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-vg248qe-windows-driver-installation-and-updates-made-easy/"><u>Asus VG248QE Windows Driver Installation & Updates Made Easy</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-new-era-microsofts-wi-fi-7-experiments-with-windows-11-systems/"><u>Exploring the New Era: Microsoft's Wi-Fi 7 Experiments with Windows 11 Systems</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-secrets-for-tiktok-live-studio-success/"><u>In 2024, Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-list-best-livestream-shopping-apps-of/"><u>New 2024 Approved Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-shields-chatgpt-from-intelligence-loss/"><u>OpenAI Shields ChatGPT From Intelligence Loss</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Updated 2024 Approved Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated 2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
 

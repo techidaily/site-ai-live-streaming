@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2024-12-11T18:19:31.667Z
-updated: 2024-12-15T16:17:09.980Z
+date: 2024-12-19T17:36:45.975Z
+updated: 2024-12-24T16:55:43.489Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,22 +64,24 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-xstudio-mastery-reviewed-full-technical-study-for-2024/"><u>[New] XStudio Mastery Reviewed Full Technical Study for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-diving-deep-into-discords-textual-customization-features/"><u>[Updated] 2024 Approved Diving Deep Into Discord's Textual Customization Features</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-360-degree-retail-exploration-tech-for-2024/"><u>[Updated] 360-Degree Retail Exploration Tech for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>[Updated] The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-venturers-guide-discovering-top-adventure-titles/"><u>[Updated] Virtual Venturers' Guide Discovering Top Adventure Titles</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-sms-habits-to-prevent-overspending-on-your-plan/"><u>Effective SMS Habits to Prevent Overspending on Your Plan</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New 2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>New Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>New Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-functional-wastebin-icon-in-windows-11/"><u>Reinstating Functional Wastebin Icon in Windows 11</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/webcamskills-beginnersrecordingtutorial/"><u>WebcamSkills Beginner'sRecordingTutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-adding-a-cinematic-touch-ken-burns-in-camtasa-9/"><u>[New] In 2024, Adding a Cinematic Touch Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-frolicsome-user-enrollment-process/"><u>[New] In 2024, Frolicsome User Enrollment Process</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>2024 Approved The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-wacom-intuos-3-drivers-on-windows-os-ensure-optimal-performance/"><u>Effortless Installation of Wacom Intuos 3 Drivers on Windows OS - Ensure Optimal Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-s23plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel S23+ Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>New 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-live-chat-apps-to-try-with-shopify/"><u>New 2024 Approved Best Live Chat Apps To Try With Shopify</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-your-selling-strategy-with-lazlive-live-selling/"><u>New Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-brightness-adjustment-issues-a-step-by-step-guide/"><u>Overcoming Windows 11 Brightness Adjustment Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-in-depth-camera-comparison-reveals-unexpected-champion-tech-analysis-by-zdnet/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: In-Depth Camera Comparison Reveals Unexpected Champion | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic 6</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-showdown-obs-vs-twitch-studio-for-2024/"><u>Streaming Showdown OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209891104-9781984880437-the-power-wish/"><u>The Power Wish | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-options-top-live-streaming-platforms-according-to-types/"><u>Updated 2024 Approved Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
 </ul></div>
 
