@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2024-12-28T03:35:10.288Z
-updated: 2024-12-31T21:08:06.041Z
+date: 2024-12-30T21:41:47.653Z
+updated: 2025-01-01T23:48:06.229Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,16 +64,19 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-top-ten-clandestine-corrections-for-artists/"><u>[New] Top Ten Clandestine Corrections for Artists</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximizing-visibility-how-to-upload-videos-to-instagram-desktop/"><u>[Updated] Maximizing Visibility How to Upload Videos to Instagram Desktop</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-perfect-stitching-of-gopro-videos-into-complete-360-imagery-for-2024/"><u>[Updated] Perfect Stitching of GoPro Videos Into Complete 360 Imagery for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-professional-editing-strategies-for-youtube-videos-after-upload/"><u>[Updated] Professional Editing Strategies for YouTube Videos After Upload</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>In 2024, Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-v30t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme V30T Through Google Earth?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>New 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>New How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>New How To Start a Private Live Stream on YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ideal-high-res-displays-the-best-5-for-ps5/"><u>[New] In 2024, Ideal High-Res Displays The Best 5 For PS5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-urgent-top-ten-todays-rapid-video-views/"><u>[Updated] Urgent Top Ten Today's Rapid Video Views</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fundamentals-of-uncomplicated-hdr-techniques/"><u>2024 Approved The Fundamentals of Uncomplicated HDR Techniques</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube/"><u>A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exceptional-book-video-examples/"><u>Exceptional Book Video Examples</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-seagate-external-hdd-unrecognized-by-windows-10-solutions-inside/"><u>Fix: Seagate External HDD Unrecognized by Windows 10 – Solutions Inside</u></a></li>
+<li><a href="https://win-forum.techidaily.com/leading-channels-of-social-media-connection-facebook-twitter-instagram-and-youtube/"><u>Leading Channels of Social Media Connection: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New 2024 Approved Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ne-replay-select-playlist-extractors-reviewed-for-2024/"><u>Offline Replay Select Playlist Extractors Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-allure-comprehensive-beauty-how-tos-on-youtube-for-2024/"><u>Unveiling Allure Comprehensive Beauty How-Tos on Youtube for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>Updated 2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
 </ul></div>
 

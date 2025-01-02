@@ -1,7 +1,7 @@
 ---
 title: "Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors"
-date: 2024-12-24T18:45:59.098Z
-updated: 2025-01-01T00:08:19.254Z
+date: 2024-12-28T02:13:46.197Z
+updated: 2025-01-02T00:31:12.213Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>[New] 2024 Approved Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-video-snippet-creator/"><u>[New] 2024 Approved Video Snippet Creator</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-fix-iphone-camera-not-focusing-problem/"><u>[Updated] How to Fix iPhone Camera Not Focusing Problem</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-graphics-card-updates-for-seamless-performance-on-various-windows-platforms/"><u>AMD Graphics Card Updates for Seamless Performance on Various Windows Platforms</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/chinas-mnd-hosts-3rd-security-summit-in-beijing-aug-28-a-milestone-for-sino-african-defense-collaboration-insights-from-yl-computing/"><u>China's MND Hosts 3Rd Security Summit in Beijing, Aug 28: A Milestone for Sino-African Defense Collaboration - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-apples-new-arrival-with-its-predecessor-iphone-16-vs-iphone-15-a-buyers-guide/"><u>Comparing Apple's New Arrival with Its Predecessor: IPhone 16 Vs. IPhone 15 – A Buyer's Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/elevating-digital-strategies-why-quality-content-is-paramount-using-massmail-tools/"><u>Elevating Digital Strategies: Why Quality Content Is Paramount Using Massmail Tools</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>New Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-transform-youtube-live-with-these-must-know-secrets/"><u>New Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y27s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y27s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-creating-striking-channel-imagery-best-practices-for-success/"><u>[New] 2024 Approved Creating Striking Channel Imagery Best Practices for Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-splitcam-analysis-where-does-it-rank-among-recorders-for-2024/"><u>[New] SplitCam Analysis Where Does It Rank Among Recorders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-professionally-recorded-audio-via-audacity-for-2024/"><u>[Updated] Crafting Professionally Recorded Audio via Audacity for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>[Updated] Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-art-and-craft-of-documentary-writing/"><u>2024 Approved The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-10-streaming-services-worth-a-try/"><u>2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-hidden-gems-of-m3-macbook-air/"><u>Discovering the Hidden Gems of M3 MacBook Air</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-broadcom-80211n-adapter-issues-on-windows/"><u>Overcoming Broadcom 802.11N Adapter Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rewind-to-file-explorer-classics-in-w11/"><u>Rewind to File Explorer Classics in W11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/s-top-10-streaming-video-services-free-ones-available/"><u>S Top 10 Streaming Video Services Free Ones Available</u></a></li>
 </ul></div>
 
