@@ -1,7 +1,7 @@
 ---
 title: Hewlett-Packard Enterprise Files Suit Against Inspur for Intellectual Property Rights Violation, Despite Ongoing Operations in the US Post-Sanctions Claims
-date: 2024-12-20T17:22:17.305Z
-updated: 2024-12-24T16:10:41.568Z
+date: 2024-12-29T21:31:40.307Z
+updated: 2024-12-31T16:07:16.436Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
  The Zero Series is available today at[Maingear's website](https://maingear.com/zero/) , with the cheapest configuration starting at $1,399, which is equipped with the RTX 4060, Core i5-14400F, 16GB of DDR5-5200MHz, and a 1TB PCIe 4.0 SSD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,22 +56,20 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-powerpoint-presentations-merging-text-with-tuneable-tracks/"><u>[New] 2024 Approved PowerPoint Presentations Merging Text with Tuneable Tracks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>[New] In 2024, Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamers-selection-most-popular-livestream-software-and-devices/"><u>[New] Streamer's Selection Most Popular Livestream Software and Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>2024 Approved A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-shopping-in-china-major-changes-in-the-industry/"><u>2024 Approved Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-windows-files-reviewed-in-a-flash/"><u>2024 Approved Windows Files Reviewed in a Flash</u></a></li>
-<li><a href="https://article-files.techidaily.com/advanced-transitions-techniques-for-audios-for-2024/"><u>Advanced Transitions Techniques for Audios for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-guide-to-xbox-screen-recording-techniques-for-2024/"><u>Essential Guide to Xbox Screen Recording Techniques for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-f04-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy F04 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-review-of-lazlive-live-selling-platform-with-guide/"><u>New Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-strategies-for-superior-video-upgrades-using-vlc-player-comprehensive-guide/"><u>Step-by-Step Strategies for Superior Video Upgrades Using VLC Player (Comprehensive Guide)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>Updated 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Updated In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>[Updated] In 2024, Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-blaze-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Blaze 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-installation-guide-for-windows-7-users/"><u>AMD Radeon Driver Installation Guide for Windows 7 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-concept-to-reality-polarr-photo-editor-simplified/"><u>From Concept to Reality Polarr Photo Editor Simplified</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-find-n3-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo Find N3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lenovo-legion-5-review-affordable-high-performance-gaming-notebook/"><u>Lenovo Legion 5 Review: Affordable High-Performance Gaming Notebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>New 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>New Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping-for-2024/"><u>Perfect Guide To Excel in TikTok Live Shopping for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated 2024 Approved Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated In 2024, Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
 </ul></div>
 

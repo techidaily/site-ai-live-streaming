@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-12-23T17:00:06.894Z
-updated: 2024-12-24T16:27:23.032Z
+date: 2024-12-29T17:08:21.522Z
+updated: 2025-01-01T00:47:24.702Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,18 +74,24 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-social-impact-with-these-hashtags/"><u>[New] Elevate Your Social Impact with These Hashtags</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-cash-flow-with-these-5-instagram-hacks/"><u>[Updated] In 2024, Boost Cash Flow with These 5 Instagram Hacks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-sound-system-advances-announced/"><u>[Updated] In 2024, Sound System Advances Announced</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-vg248qe-windows-driver-installation-and-updates-made-easy/"><u>Asus VG248QE Windows Driver Installation & Updates Made Easy</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-new-era-microsofts-wi-fi-7-experiments-with-windows-11-systems/"><u>Exploring the New Era: Microsoft's Wi-Fi 7 Experiments with Windows 11 Systems</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-secrets-for-tiktok-live-studio-success/"><u>In 2024, Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-list-best-livestream-shopping-apps-of/"><u>New 2024 Approved Top List Best Livestream Shopping Apps Of</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-shields-chatgpt-from-intelligence-loss/"><u>OpenAI Shields ChatGPT From Intelligence Loss</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Updated 2024 Approved Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated 2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-initiate-direct-camera-streaming-with-vlc/"><u>[New] 2024 Approved Initiate Direct Camera Streaming with VLC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>[New] 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-reparer-une-image-video-deformee-extraite-a-partir-dun-dvd-avec-handbrake-sur-windows-10/"><u>Comment Réparer Une Image Vidéo Déformée Extraite À Partir D'un DVD Avec HandBrake Sur Windows 10?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-ai-output-sizes-have-a-predefined-character-limit/"><u>Do AI Output Sizes Have a Predefined Character Limit?</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-12-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus 12? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-and-update-drivers-for-optimal-performance-on-your-acer-computer-running-windows/"><u>How to Fix and Update Drivers for Optimal Performance on Your Acer Computer Running Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 5 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-hot-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Hot 30 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New 2024 Approved Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New 2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New 2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-chat-apps-to-try-with-shopify/"><u>New Best Live Chat Apps To Try With Shopify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-how-to-use-chromecast-with-your-firestick/"><u>Seamless Streaming: How to Use Chromecast with Your Firestick</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-a-crash-in-phoenix-point-game/"><u>Troubleshooting Guide: Resolving a Crash in Phoenix Point Game</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>Updated In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
 </ul></div>
 
