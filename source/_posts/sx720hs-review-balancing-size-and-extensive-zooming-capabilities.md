@@ -1,7 +1,7 @@
 ---
 title: SX720HS Review - Balancing Size and Extensive Zooming Capabilities
-date: 2024-12-29T18:28:05.474Z
-updated: 2025-01-02T02:08:52.731Z
+date: 2025-01-05T16:34:24.521Z
+updated: 2025-01-09T16:11:22.193Z
 categories:
   - BestProducts
 description: This Article Describes SX720HS Review - Balancing Size and Extensive Zooming Capabilities
@@ -12,10 +12,6 @@ thumbnail: https://www.lifewire.com/thmb/0EPVgMSJ1IAA29TkCpI7Z2tdWpw=/400x300/fi
 ## Creative Sound Blaster ZXR Review - A Comprehensive Look at the Top 2013 Gaming Audio Card
 
 2.8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Creative Sound Blaster ZxR
 
@@ -42,6 +38,10 @@ Lifewire / Emily Ramirez
 [View On Amazon](https://www.amazon.com/dp/B009ISU33E?tag=lifewire-onsite-prod-20&ascsubtag=4769837%7Cnf4d47b24328e45aa9d01315a6a6b3e1211%7CB009ISU33E)
 
 2.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creative Sound Blaster ZxR
 
@@ -77,17 +77,21 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Hardware: Some odd decisions**
 
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process/Installation: Easy install, irritating setup**
 
@@ -100,14 +104,10 @@ Lifewire / Emily Ramirez
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/6uorHzKoJdW1FBv0B5ZfeoE8XzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-3-17de2156e4294b5c85f151bd0cd97aa4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio: Excellent sound**
 
@@ -119,10 +119,6 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Software: Lots of options with mixed utility**
 
  For the tinkerers out there, Sound Blaster provides a myriad of audio adjustments through their Z-Series software package. Here, you can EQ any frequency between 20 and 20,000 Hz or activate “Crystallization,” “Scout Mode,” and “Theater Mode.” Crystallization adds punch to the audio’s treble, making voices stand out against the background. Theater Mode is similar to Crystallization, but it tries to_only_ boost voices instead of the entire treble range. We found it great for watching videos. Meanwhile, Scout Mode is squarely aimed at gamers. It theoretically makes enemy noises like footsteps louder.
@@ -131,9 +127,17 @@ Lifewire / Emily Ramirez
 
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -154,10 +158,6 @@ Lifewire / Emily Ramirez
 **A good card that’s showing its age.**
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -202,22 +202,15 @@ Lifewire / Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-most-intriguing-movies-on-youtube-streams/"><u>[New] 2024 Approved The Most Intriguing Movies on YouTube Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ky-high-engagement-optimizing-for-virality-and-visibility/"><u>[New] Sky High Engagement Optimizing for Virality and Visibility</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-premium-9-clandestine-content-getters/"><u>[Updated] In 2024, Premium 9 Clandestine Content Getters</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/disksavenge-unlocking-secrets-of-raid-arrays/"><u>Disksavenge: Unlocking Secrets of RAID Arrays</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-the-leading-free-dvd-players-of-2023-for-pc-and-mac-compatible-systems/"><u>Download the Leading Free DVD Players of 2023 for PC and MAC Compatible Systems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/screen-to-speakers-secrets-to-successful-video-sharing-for-2024/"><u>From Screen To Speakers Secrets to Successful Video Sharing for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>In 2024, Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>In 2024, The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-secrets-for-tiktok-live-studio-success/"><u>New Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asy-fix-for-a-desired-list-directionality/"><u>The Easy Fix for a Desired List Directionality</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-s-top-10-streaming-video-services-free-ones-available-for-2024/"><u>Updated S Top 10 Streaming Video Services Free Ones Available for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>[Updated] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambie-facilmente-su-video-mp4-al-formato-swf-sin-costo-alguno-usando-el-convertidor-de-archivos-streamy-online/"><u>Cambie Fácilmente Su Video MP4 Al Formato SWF Sin Costo Alguno Usando El Convertidor De Archivos Streamy Online</u></a></li>
+<li><a href="https://win-help.techidaily.com/effizientes-transfer-verfahren-wechsel-sie-ihre-systemdateien-von-einem-ssd-auf-einen-neuen-laufwerkplatz/"><u>Effizientes Transfer-Verfahren: Wechsel Sie Ihre Systemdateien Von Einem SSD Auf Einen Neuen Laufwerkplatz</u></a></li>
+<li><a href="https://article-tips.techidaily.com/excellence-in-virtual-venue-experience/"><u>Excellence in Virtual Venue Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-for-2024/"><u>New Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-access-all-matches-free-world-cup-live-streaming-options/"><u>Updated Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/user-choice-top-free-streaming-sites-for-sports/"><u>User Choice Top Free Streaming Sites for Sports</u></a></li>
 </ul></div>
 

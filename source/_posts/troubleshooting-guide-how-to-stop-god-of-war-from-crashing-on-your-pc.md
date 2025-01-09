@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2024-12-28T03:12:01.940Z
-updated: 2025-01-02T01:48:38.497Z
+date: 2025-01-04T17:23:37.810Z
+updated: 2025-01-09T17:16:58.233Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -51,14 +47,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -72,6 +64,10 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -106,14 +102,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -126,6 +122,10 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -153,22 +153,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-skyrocket-views-with-these-proven-youtube-optimization-strategies/"><u>[Updated] Skyrocket Views with These Proven YouTube Optimization Strategies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-striking-a-balance-in-youtube-thumbnail-sizing/"><u>[Updated] Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-notch-assistance-highest-rated-iphone-ringtone-makers/"><u>[Updated] Top-Notch Assistance Highest Rated iPhone Ringtone Makers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-refined-conference-aesthetics-the-process-to-blur-backgrounds/"><u>2024 Approved Refined Conference Aesthetics The Process to Blur Backgrounds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-yielding-income-a-streamers-guide-to-earning/"><u>In 2024, Yielding Income A Streamer's Guide to Earning</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-future-a-look-at-top-long-range-routers-of-2024/"><u>Navigating the Future: A Look at Top Long-Range Routers of 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/struggle-to-triumph-mastering-9-worlds-toughest-dialects/"><u>Struggle to Triumph: Mastering 9 World's Toughest Dialects</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-best-free-divx-video-cutting-software/"><u>The Best Free Divx Video Cutting Software</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-beginners-tool-tip/"><u>Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube/"><u>Updated A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated In 2024, Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-learn-the-best-6-alternative-streaming-platforms/"><u>Updated Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-rapid-accessibility-of-instagram-videos-and-stories-for-2024/"><u>[New] Rapid Accessibility of Instagram Videos and Stories for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-effortless-twitpic-integration-a-video-guide/"><u>[Updated] 2024 Approved Effortless Twitpic Integration A Video Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-zoom-mastery-embracing-intricate-screen-images/"><u>[Updated] 2024 Approved Zoom Mastery Embracing Intricate Screen Images</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-banish-the-black-screen-glitch-from-your-star-wars-battlefront-2-gameplay-experience/"><u>How to Banish the Black Screen Glitch From Your Star Wars Battlefront 2 Gameplay Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-x50-gt-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X50 GT Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/layering-youtube-vibes-on-video-canvases/"><u>Layering YouTube Vibes on Video Canvases</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>New Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/skyrocket-your-site-visits-using-innovative-cookiebot-solutions/"><u>Skyrocket Your Site Visits Using Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-to-gamers-screen-recordings-with-win10/"><u>The Ultimate Guide to Gamers' Screen Recordings with Win10</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-wrf-format-transformer-how-to-change-your-webex-audiovideo-files-into-various-types/"><u>Top WRF Format Transformer: How to Change Your WebEx Audio/Video Files Into Various Types</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated 2024 Approved Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-monetization-techno-gamerz-youtube-income-2024/"><u>YouTube Monetization Techno Gamerz YouTube Income 2024</u></a></li>
 </ul></div>
 

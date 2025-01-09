@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2024-12-26T23:46:42.011Z
-updated: 2025-01-01T19:19:42.997Z
+date: 2025-01-06T17:21:49.664Z
+updated: 2025-01-09T17:35:18.543Z
 tags:
   - win11
   - win10
@@ -27,23 +27,19 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ignore the specs listed here. This computer is not used for gaming.
 
  3) Go to the **Display** tab so you can view the information about your **graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
@@ -52,6 +48,10 @@ In case you don’t know how, here’s the guidance:
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
@@ -109,6 +109,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -128,7 +132,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -143,6 +147,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Roll back your graphics card driver**
 
  If updating drivers didn’t resolve your problem, then maybe you should roll it back to a previous version that appears more stable. Here’s how:
@@ -155,23 +163,19 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -217,15 +221,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -240,10 +244,6 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -266,13 +266,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -281,10 +281,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -308,13 +304,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -325,6 +321,10 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -352,24 +352,24 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values/"><u>[New] In 2024, Shogun's Call A List of Top 10 Games Reflecting Tsushi Values</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-integrate-mobile-and-oculus-quest-2-headset/"><u>Comprehensive Steps to Integrate Mobile and Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/identifying-hardware-malfunctions-in-your-windows-system-a-comprehensive-guide-yl-tech-solutions/"><u>Identifying Hardware Malfunctions in Your Windows System: A Comprehensive Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-access-all-matches-free-world-cup-live-streaming-options/"><u>In 2024, Access All Matches Free World Cup Live Streaming Options</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a15-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A15 4G to iPad | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>In 2024, Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-facebook-live-shopping-a-comprehensive-guide/"><u>New Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>New In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New In 2024, Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nokia-130-music-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nokia 130 Music? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/seamless-streaming-and-web-browsing-on-the-go-with-the-cost-effective-lenovo-tab-m10-hd-2020-model-unveiled/"><u>Seamless Streaming and Web Browsing on the Go with the Cost-Effective Lenovo Tab M10 HD - 2020 Model Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>Updated 2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Updated In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elite-gamers-guide-5-crucial-webcams-to-master-for-2024/"><u>[New] Elite Gamers' Guide 5 Crucial Webcams to Master for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-harmonize-your-online-identity-iphoneandroid-music-integration/"><u>[New] In 2024, Harmonize Your Online Identity IPhone/Android Music Integration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-perfecting-your-valorant-thumbnails-a-comprehensive-tutorial/"><u>[New] In 2024, Perfecting Your Valorant Thumbnails A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/champion-smartphones-top-picks-for-excellent-video-quality-for-2024/"><u>Champion Smartphones Top Picks for Excellent Video Quality for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-between-amazon-fire-tablets-and-ipads-a-comprehensive-guide/"><u>Choosing Between Amazon Fire Tablets and iPads: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clash-of-the-cutting-edge-gemini-vs-plush-chatgptplusplus/"><u>Clash of the Cutting Edge: Gemini Vs. Plush ChatGPT++</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 Pro FRP Bypass</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/mastering-facebook-live-your-complete-guide-to-successful-streaming-for-2024/"><u>Mastering Facebook Live Your Complete Guide to Successful Streaming for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/revealing-hidden-aspects-in-minecraft/"><u>Revealing Hidden Aspects in Minecraft</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-20-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 20 Pro Device</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-user-choice-top-free-streaming-sites-for-sports/"><u>Updated 2024 Approved User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-selling-a-comprehensive-starters-guide-for-2024/"><u>Updated Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>Updated Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
 </ul></div>
 

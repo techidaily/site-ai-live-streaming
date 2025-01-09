@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2024-12-27T22:27:37.558Z
-updated: 2025-01-01T22:02:59.552Z
+date: 2025-01-08T17:35:04.384Z
+updated: 2025-01-09T16:25:36.111Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,18 +88,21 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-closer-action-tips-for-zooming-in-on-videoleap/"><u>[New] Capturing Closer Action Tips for Zooming In on Videoleap</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>[New] Crafting Your Windows Photos Masterpiece Adding Filters, Musical Elements</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-perform-a-successful-streaming-on-twitch/"><u>2024 Approved How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-recording-suite-azs-top-app-reviews-and-backups/"><u>2024 Approved Ultimate Recording Suite - AZ's Top App Reviews & Backups</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-user-interface-with-fn-key-modifications/"><u>Enhancing User Interface with FN Key Modifications</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/photo-hdr-excellence-tips-from-the-pros-for-2024/"><u>Photo-HDR Excellence Tips From the Pros for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p40plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P40+ Black and White | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/revolutionary-mini-pc-that-mirrors-a-laptop-but-packs-an-i9-core-i9-and-4070-mobile-gpu-discover-the-atomman-g7-ti/"><u>Revolutionary Mini-PC that Mirrors a Laptop but Packs an I9 Core I9 and 4070 Mobile GPU - Discover the AtomMan G7 Ti</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Updated Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-streaming-services-worth-a-try/"><u>Updated Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-3-straightforward-methods-to-fine-tune-shades/"><u>[New] 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[Updated] In 2024, Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-snapcutmaster-insights-full-scrutiny/"><u>2024 Approved SnapCutMaster Insights – Full Scrutiny</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/beyond-antivirus-essential-strategies-for-comprehensive-protection-in-the-modern-digital-world/"><u>Beyond Antivirus: Essential Strategies for Comprehensive Protection in the Modern Digital World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f54-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy F54 5G has native HEVC support?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-p55-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel P55 to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-classic-cinema-in-paperback-examining-the-goofy-story/"><u>In 2024, Classic Cinema in Paperback Examining 'The Goofy Story'</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-capc/"><u>New In 2024, Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>New The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>Updated In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
 </ul></div>
 

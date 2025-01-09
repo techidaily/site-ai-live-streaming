@@ -1,7 +1,7 @@
 ---
 title: "Resolve Nonfunctional Speakers on Your Windows 11 PC: Expert Tips & Tricks"
-date: 2024-12-26T18:11:40.893Z
-updated: 2025-01-02T02:38:09.721Z
+date: 2025-01-03T17:31:48.460Z
+updated: 2025-01-09T16:13:41.821Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  If**the sound is not working** on your HP laptop (either HP pavilion or HP Envy laptop), don’t worry. This is a common issue. The good news is, you can**fix sound not working** **on HP laptop** quickly and easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix HP Laptop Sound Not Working
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Troubleshoot the hardware issue**
 
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
@@ -93,13 +97,13 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -117,15 +121,15 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
 4) Try the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -146,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
@@ -155,14 +159,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
@@ -182,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
@@ -213,6 +209,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  These are the fix**easy solutions to fix the sound not working on HP laptop** . If you have any questions, feel free to comment below and we will see what more we can do to help.
@@ -235,16 +235,16 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-integration-of-snapchat-on-apples-laptops/"><u>[New] 2024 Approved Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>2024 Approved Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-6-must-have-tools-for-successful-game-streaming-for-2024/"><u>New 6 Must-Have Tools for Successful Game Streaming for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches/"><u>New Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premier-uav-choices-for-optimal-gopro-hd-imaging-for-2024/"><u>Premier UAV Choices for Optimal GoPro HD Imaging for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-8-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 8 for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triumph-over-troublesome-nvidia-errors-fix-complete/"><u>Triumph over Troublesome NVIDIA Errors (Fix Complete)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>Updated Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-all-about-triller-diverging-from-standard-tiktok-experience-for-2024/"><u>[New] All About Triller Diverging From Standard TikTok Experience for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-adobe-easy-hue-transformations/"><u>[New] In 2024, Mastering Adobe Easy Hue Transformations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>[New] Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[New] The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-of-vivacut-full-video-editing-review-24/"><u>Behind the Scenes of VivaCut Full Video Editing Review '24</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-best-boxing-streaming-websites-for-the-latest-match-coverage-for-2024/"><u>The Best Boxing Streaming Websites for the Latest Match Coverage for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>Updated Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Updated In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Updated Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-control-panel-lost-find-unlisted-system-configurations/"><u>Win11 Control Panel Lost, Find Unlisted System Configurations</u></a></li>
 </ul></div>
 

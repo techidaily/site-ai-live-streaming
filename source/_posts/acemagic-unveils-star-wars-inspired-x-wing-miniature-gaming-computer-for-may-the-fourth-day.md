@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2024-12-31T23:18:58.041Z
-updated: 2025-01-02T03:34:33.749Z
+date: 2025-01-05T18:06:01.343Z
+updated: 2025-01-09T16:33:02.600Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,24 +74,18 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-best-templates-no-cost-explore-premiere-pro-samples-free-for-2024/"><u>[Updated] Best Templates, No Cost! Explore Premiere Pro Samples (FREE) for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>2024 Approved The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/flv-qt-movavi/"><u>FLV QT格式自動線上免費轉換器 - Movavi視頻編輯解決方案</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guida-passo-passo-come-interrompere-i-cursori-in-windows-11/"><u>Guida Passo-Passo: Come Interrompere I Cursori in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-properly-utilize-system-restore-on-microsoft-windows/"><u>How to Properly Utilize System Restore on Microsoft Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone XS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-m14-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy M14 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>New 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>New The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>New Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pro-hackers-guide-to-achieving-higher-frame-rates-and-better-performance-in-escape-from-tarkov/"><u>Pro Hackers' Guide to Achieving Higher Frame Rates & Better Performance in Escape From Tarkov</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-sony-televisions-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Ranked Sony Televisions : Comprehensive Reviews and Ratings by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated 2024 Approved Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-9-free-tv-streaming-services-or-sites-to-use/"><u>Updated In 2024, Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-transform-youtube-live-with-these-must-know-secrets/"><u>Updated In 2024, Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/yl-software-tutorial-how-to-set-up-your-own-typefaces-on-windows-and-macos/"><u>YL Software Tutorial: How To Set Up Your Own Typefaces On Windows & MacOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-highlighting-the-leading-10-shadowy-story-viewers/"><u>[New] 2024 Approved Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-guide-to-removing-youtube-ads-across-platforms-for-2024/"><u>[New] A Step-by-Step Guide to Removing YouTube Ads Across Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>[New] In 2024, Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-image-enhancement-for-breathtaking-results/"><u>[Updated] In 2024, Mastering Image Enhancement for Breathtaking Results</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-selling-a-comprehensive-starters-guide/"><u>2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>2024 Approved The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-s24plus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy S24+ Unlock Without Password</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064661-9781071546352-curar-el-dolor-emocional-y-fisico-con-el-poder-de-la-meditacion/"><u>Curar el Dolor Emocional y Físico con el Poder de la Meditación | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>In 2024, How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-learn-the-best-6-alternative-streaming-platforms/"><u>In 2024, Learn The Best 6 Alternative Streaming Platforms</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-streaming-services-worth-a-try/"><u>In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/metaverse-odyssey-10-sci-fi-movies-that-redefine-reality/"><u>Metaverse Odyssey 10 Sci-Fi Movies that Redefine Reality</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>Updated A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Discord's Camera Dilemma: A Step-by-Step Guide"
-date: 2024-12-30T01:10:41.609Z
-updated: 2025-01-01T20:31:52.619Z
+date: 2025-01-03T17:24:07.202Z
+updated: 2025-01-09T17:15:23.327Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=c6e54ebd92da4ee8819c1c0956cebdc4)**  has seen a thriving surge among gamers. Overall, it is a game that players are enjoying. But the performance issues such as the game stutters and freezes during cutscenes or normal gameplay are plaguing them. These definitely will affect the gaming experience. But you can fix it on your own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before getting started
@@ -53,6 +53,10 @@ Here’s how you can download and install Windows updates:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
  (If you’re not using a NVIDIA graphics card, simply head to[fix 3](https://tools.techidaily.com/drivereasy/download/) . )
@@ -65,25 +69,25 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -99,22 +103,22 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -125,10 +129,6 @@ Here’s how you can do this:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
@@ -171,7 +171,7 @@ To verify the integrity of game files, take these steps:
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
@@ -189,7 +189,7 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
@@ -217,19 +217,22 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-comparing-videography-power-in-prohero-and-keymission/"><u>[New] Comparing Videography Power in ProHero and Keymission</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-the-art-of-fcp-freedom/"><u>[New] Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] 2024 Approved From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>2024 Approved A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premium-video-collaboration-software-guides/"><u>2024 Approved Premium Video Collaboration Software Guides</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-unifying-your-pcs-with-files-through-aoemi/"><u>Bridging the Gap: Unifying Your PCs With Files Through AOEMi</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>In 2024, The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-pixel-art-generator-in-2024/"><u>New What Is AI Pixel Art Generator, In 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/searching-for-free-sports-streaming-sites-look-no-further-for-2024/"><u>Searching for Free Sports Streaming Sites? Look No Further for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-process-for-converting-ape-to-optimized-mp3-achieving-smaller-size-with-superior-sound-quality/"><u>Step-by-Step Process for Converting APE to Optimized MP3: Achieving Smaller Size with Superior Sound Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-strategy-for-boosted-instagram-video-traffic/"><u>[New] 2024 Approved The Ultimate Strategy for Boosted Instagram Video Traffic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rhythm-route-redistribution-your-playlist-anywhere/"><u>[New] Rhythm Route Redistribution Your Playlist, Anywhere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-15-creative-ventures-to-pursue-while-youre-heeding-stories/"><u>2024 Approved 15 Creative Ventures to Pursue While You're Heeding Stories</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>2024 Approved The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-gaming-performance-with-updated-razer-drivers-for-windows-1187xpvista/"><u>Ensure Optimal Gaming Performance with Updated Razer Drivers for Windows 11/8/7/XP/Vista</u></a></li>
+<li><a href="https://fox-links.techidaily.com/hero-4-vs-x1000v-which-camera-delivers-more-professional-results-for-2024/"><u>Hero 4 Vs. X1000V Which Camera Delivers More Professional Results for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-steam-troubles-eliminate-black-screens-with-these-7-effective-solutions/"><u>Mastering Steam Troubles: Eliminate Black Screens with These 7 Effective Solutions</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>New 2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>New 2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-nvidias-customizable-ai-service-your-guide-to-generative-tech-innovation/"><u>Unveiling NVIDIA's Customizable AI Service – Your Guide to Generative Tech Innovation</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>Updated 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-3d-video-editing-programs-for-professionals-for-2024/"><u>Updated Discover the Best 3D Video Editing Programs for Professionals for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>Updated In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-top-rated-3d-video-production-tools-free-paid-and-in-between/"><u>Updated In 2024, Top-Rated 3D Video Production Tools Free, Paid, and In-Between</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china-for-2024/"><u>Updated Reviewing the Live Streaming Shopping Industry in China for 2024</u></a></li>
 </ul></div>
 

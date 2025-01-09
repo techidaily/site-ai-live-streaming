@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2024-12-28T20:52:12.113Z
-updated: 2025-01-01T22:44:31.804Z
+date: 2025-01-06T17:35:57.201Z
+updated: 2025-01-09T17:19:19.187Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -41,9 +37,17 @@ Lifewire / Todd Braylor
 
 3.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -66,10 +70,6 @@ Lifewire / Todd Braylor
 
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -79,6 +79,10 @@ Lifewire / Todd Braylor
  The speaker on this radar detector is very small, about a quarter-inch square, but the audio alerts are high volume. You can select between standard and loud tones. The SmartCord power cable for the S55 has a handy mute button on it so you don't have to reach over the dash.
 
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Easy installation**
 
@@ -92,6 +96,10 @@ Lifewire / Todd Braylor
 
  It reliably delivers on its promise of long-distance sensitivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Not exactly enhanced**
 
  The S55 has different modes designed to adjust to specific frequency bands and sensitivity levels for city or highway driving. You can quickly customize the settings by using the included quick reference guide. You can also turn off specific frequency bands if they tend to give a lot of false alerts.
@@ -100,19 +108,11 @@ Lifewire / Todd Braylor
 
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: You get what you pay for**
 
  With an MSRP of $128, the Passport S55 is a low-end radar detector priced accordingly. More advanced radar detectors can easily be several hundred dollars more expensive, and the S55 is a good deal if you plan to use it primarily on the highway. Door-openers along the city and commercial roads will frequently trigger false alerts. You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
@@ -127,7 +127,7 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -159,24 +159,19 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web.techidaily.com/1-steps-to-modify-your-vmware-vcenter-server-name-successfully/"><u>1. Steps to Modify Your VMware vCenter Server Name Successfully</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/eloquent-exchange-linguistic-leaders-choice/"><u>Eloquent Exchange: Linguistic Leaders' Choice</u></a></li>
-<li><a href="https://discover-great.techidaily.com/follow-up-questions/"><u>Follow-Up Questions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-magic-6-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor Magic 6 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-user-choice-top-free-streaming-sites-for-sports/"><u>New In 2024, User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>New Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-installing-camera-drivers-for-windows-111087/"><u>Step-by-Step Guide to Installing Camera Drivers for Windows 11/10/8/7</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-resolving-the-infamous-0xc00000f-error-on-windows-11-systems/"><u>Step-by-Step Guide: Resolving the Infamous 0xC00000F Error on Windows 11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-10-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 10 Pro Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-marketing-playbook-for-digital-beginners-on-reddit-for-2024/"><u>The Ultimate Marketing Playbook for Digital Beginners on Reddit for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify/"><u>Updated Best Live Chat Apps To Try With Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>Updated In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>Updated In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210558020-9798885406222-whispers-of-poetry/"><u>Whispers of Poetry | Free Book</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-rotating-the-ripple-effect-mastering-instagrams-video-manipulation-art/"><u>[New] Rotating the Ripple Effect Mastering Instagram's Video Manipulation Art</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/connect-seamlessly-lihan-lhfm1039-bluetooth-to-car-stereo-conversion-a-users-perspective-and-review/"><u>Connect Seamlessly: LIHAN LHFM1039 Bluetooth to Car Stereo Conversion - A User's Perspective & Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-itel-p55-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Itel P55 Phone? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-english-vocabulary-simplified/"><u>Elevate Your English Vocabulary, Simplified</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/free-high-quality-desktop-video-encoding-software-for-2024/"><u>Free, High-Quality Desktop Video Encoding Software for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-c67-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme C67 4G FRP?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-free-online-file-converter-compatible-with-all-formats/"><u>Movavi: FREE Online File Converter - Compatible with All Formats</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-convert-mp4-to-mp3-top-tools-for-seamless-audio-extraction/"><u>New In 2024, Convert MP4 to MP3 Top Tools for Seamless Audio Extraction</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unihertz-atom-xl-evaluation-the-compact-yet-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Evaluation: The Compact yet Durable Device That Packs a Mighty Punch</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>Updated The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2024-12-30T21:41:47.653Z
-updated: 2025-01-01T23:48:06.229Z
+date: 2025-01-02T17:43:15.518Z
+updated: 2025-01-09T17:42:23.178Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,19 +64,21 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ideal-high-res-displays-the-best-5-for-ps5/"><u>[New] In 2024, Ideal High-Res Displays The Best 5 For PS5</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-urgent-top-ten-todays-rapid-video-views/"><u>[Updated] Urgent Top Ten Today's Rapid Video Views</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fundamentals-of-uncomplicated-hdr-techniques/"><u>2024 Approved The Fundamentals of Uncomplicated HDR Techniques</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube/"><u>A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exceptional-book-video-examples/"><u>Exceptional Book Video Examples</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-seagate-external-hdd-unrecognized-by-windows-10-solutions-inside/"><u>Fix: Seagate External HDD Unrecognized by Windows 10 – Solutions Inside</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-channels-of-social-media-connection-facebook-twitter-instagram-and-youtube/"><u>Leading Channels of Social Media Connection: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New 2024 Approved Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ne-replay-select-playlist-extractors-reviewed-for-2024/"><u>Offline Replay Select Playlist Extractors Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-allure-comprehensive-beauty-how-tos-on-youtube-for-2024/"><u>Unveiling Allure Comprehensive Beauty How-Tos on Youtube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>Updated 2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-no-software-needed-try-our-top-free-youtube-to-mp3-tools-for-2024/"><u>[Updated] No Software Needed? Try Our Top Free YouTube-to-MP3 Tools for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y200e-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y200e 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-drivers-tp-link-wifi-network-card-compatible-with-windows-10-8-and-7/"><u>Download Updated Drivers: TP-Link WiFi Network Card Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>In 2024, Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-gt-5-240w-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme GT 5 (240W) to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-essential-2023-social-media-video-exploration/"><u>In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>New Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>New In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-scrutinizing-and-clearing-windows-history-with-precision/"><u>Strategies for Scrutinizing & Clearing Windows History with Precision</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12 5G FRP Bypass</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>Updated User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/visual-unity-ai-driven-instavideo-compilation-for-2024/"><u>Visual Unity AI-Driven InstaVideo Compilation for 2024</u></a></li>
 </ul></div>
 
