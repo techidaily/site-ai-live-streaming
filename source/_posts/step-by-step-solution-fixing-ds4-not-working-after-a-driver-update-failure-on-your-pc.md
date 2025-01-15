@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing 'DS4 Not Working' After a Driver Update Failure on Your PC"
-date: 2025-01-08T16:55:18.306Z
-updated: 2025-01-09T17:06:43.195Z
+date: 2025-01-10T16:47:00.232Z
+updated: 2025-01-14T22:42:26.299Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
 Specially designed for split-screen cooperative muliplayer,**It Takes Two** is definitely a great action-advanture game in 2021\. However, just like any other games released recently, for many players, the game still has some performance issues. **If It Takes Two FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix this issue on your own easily after reading this article!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -29,10 +33,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -40,10 +40,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -67,20 +63,24 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Steam Overlay
 
@@ -89,6 +89,10 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _It Takes Two_ . Then select **Properties** .
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -133,16 +137,8 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -151,10 +147,6 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -167,19 +159,23 @@ To optimize the graphics settings, follow the steps below:
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -188,6 +184,10 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -227,20 +227,17 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-digital-transformation-elevate-your-videos-with-advanced-editing-tools/"><u>[New] Digital Transformation Elevate Your Videos with Advanced Editing Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-fine-tune-your-cinematography-mastering-kinemaster-zoom-features-for-2024/"><u>[New] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-crafting-visuals-the-science-of-youtube-banners-and-thumbnails/"><u>[New] In 2024, Crafting Visuals The Science of YouTube Banners & Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-pixlr-upgrades-for-enhanced-results/"><u>[Updated] 2024 Approved Essential Pixlr Upgrades for Enhanced Results</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-it-right-essential-camera-lenses-for-video-blogging-for-2024/"><u>[Updated] Capture It Right Essential Camera Lenses for Video Blogging for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>[Updated] YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-10-streaming-services-worth-a-try/"><u>2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-playstation-expert-selection-of-30-ps3-emulators-for-pc/"><u>Rediscover PlayStation: Expert Selection of 30 PS3 Emulators for PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/s-top-10-streaming-video-services-free-ones-available/"><u>S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/tiktoks-best-practices-for-stellar-edits/"><u>TikTok's Best Practices for Stellar Edits</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>Updated A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-potential-with-android-camera-apps-for-2024/"><u>[New] Unlocking Potential with Android Camera Apps for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-excellent-free-memes-at-your-fingertips/"><u>[Updated] In 2024, Excellent FREE Memes at Your Fingertips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] In 2024, The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-getting-started-a-primer-on-screencastify-use/"><u>2024 Approved Getting Started A Primer on Screencastify Use</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-engagement-with-our-cookiebot-technology/"><u>Boost Your Site's Engagement with Our Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crash-proof-your-intel-gaming-rig-developers-in-game-warning-and-fix-for-13th14th-gen-cpu-users/"><u>Crash-Proof Your Intel Gaming Rig: Developer's In-Game Warning and Fix for 13Th/14th Gen CPU Users</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/online-converter-turn-facebook-vids-into-mp3/"><u>Online Converter Turn Facebook Vids Into MP3</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>Updated Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
 </ul></div>
 

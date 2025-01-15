@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System
-date: 2025-01-02T18:00:45.564Z
-updated: 2025-01-09T16:47:42.795Z
+date: 2025-01-12T18:50:38.119Z
+updated: 2025-01-15T06:20:15.905Z
 tags: 
   - ai
   - live-streaming
@@ -96,19 +96,11 @@ TikTok Shop offers a platform for seamless shopping experiences within the TikTo
 2. It has an Affiliate Program that allows shoppers to interact with thousands of content creators.
 3. This platform has an integrated in-app checkout to help in buyers’ journey. It streamlines the process by allowing users to discover and purchase items within the same platform.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Bambuser
 
 Bambuser stands out due to its ability to increase engagement with social video commerce. It provides an immersive shopping experience that keeps customers coming back for more. Brands can welcome infinite customers into highly engaging shoppable videos on their native site. Also, Bambuser can be integrated into various platforms, including websites, social media channels, and mobile apps.
 
 ![bambuser livestream shopping](https://images.wondershare.com/virbo/article/2024/03/best-livestream-shopping-apps-to-use-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -194,6 +186,10 @@ There are specific options in live selling when users want to showcase their pro
 
 ![ntwrk livestream shopping](https://images.wondershare.com/virbo/article/2024/03/best-livestream-shopping-apps-to-use-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. It provides sellers with innovative ways, including hosting live auctions and selling drops.
@@ -232,10 +228,6 @@ In conclusion, we've learned that live streaming is becoming essential for onlin
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Power of YouTube Live Selling: Unlock Your Sales Potential
 
 As more people shop online through live channels, big streaming websites are adding this feature to their platforms. [YouTube](https://www.youtube.com/), a significant site for videos, lets people sell things while they stream live. It is not available as a separate feature but as a part of the regular live-streaming setup on YouTube. This benefits creators because they can sell stuff to their viewers while showcasing their content.
@@ -270,10 +262,6 @@ Selecting products you want to promote on your YouTube channel is essential. Sel
 * **Step 2.** Under the live stream preview, you can hit the “Shopping” tab. Afterward, hit the “+” icon to search and choose up to 30 products for your livestream. You can remove any product by tapping the “Trash” icon next to the product. Finally, tap “Save” to apply this setting to individual videos.
 
 ![add tag on product and save](https://images.wondershare.com/virbo/article/2024/03/complete-guide-to-youtube-live-selling-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps of Pinning a Product During Livestream on YouTube
 
@@ -572,10 +560,6 @@ Navigate to "AI Avatars" to select an avatar for your live stream. Additionally,
 
 ![Customize AI avatar and background](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Start the live stream.
 
 Once your AI avatar and background are set, click "Start Livestream" to commence broadcasting. The next step should be acquiring the Twitch streaming key to put into the OBS.
@@ -725,7 +709,7 @@ Within the Virbo Live interface, you can either compose the script for your live
 ![Write your content script for Twitch Live](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pro Tip:** You can use Virbo's AI Script Writer for inspiration. Click on "AI Smart Script" and provide topic details, language preferences, and stylistic choices. Click "Generate" to create a script. Then, you can refine it as needed.
@@ -868,6 +852,10 @@ Click Start Live Streaming and connect your AI avatar to your live commerce plat
 
 ![live stream](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 5 Interact With the Audience
 
 Activate the Interact With the Audience feature to allow the AI streamer to seamlessly engage your viewers without your involvement.
@@ -902,6 +890,10 @@ Live commerce provides a unique opportunity for brands to reach more audiences a
 
 To get started, let’s define what is live ecommerce. Is it different from the ecommerce that most people know or just an enhanced version? Do you need any special tools to be successful in live stream ecommerce and how does it boost sales?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 01 What is Live Commerce?
 
 Live commerce is the act of selling products online via immersive live shopping platforms. Brands and creators use live commerce in the form of live and shoppable videos to sell their products while shoppers can interact with brands in real-time. In simpler terms, live stream commerce is like a customer watching a livestream event but can shop.
@@ -934,10 +926,6 @@ Michael Kors partnered with the popular influencer Aimee Song to host a live str
 **Achievement:** The e commerce live streaming event garnered over 1 million views and increased website traffic by 300%. Michael Kors recorded that the sales of featured items surpassed expectations, as the dress that Aimee wore was sold out within minutes.
 
 **Lessons Drawn:** Collaborations with relatable influencers can drive significant engagement and sales. The live stream event also demonstrated the importance of interactive elements like styling tips and real-time Q&A in fostering connections and building trust with customers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Sephora: Beauty Unboxed with Community Building
 
@@ -987,6 +975,10 @@ The evolution of live commerce is far from over. The next frontier lies in the s
 * Seamless language and accent translations to engage a diverse global audience
 * Stable and lag-free streaming performance
 * Enhanced content safety through AI-driven moderation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 02 Simplified Workflow and Better Viewer Experience with Virbo Live
 
@@ -1096,9 +1088,17 @@ However, you need to have a loyal audience in order to do so. People use YouTube
 
 To make it easier for you, let’s say that a new game rolls out. By discussing the game or playing the game on live stream, you are going to attract the right audience according to your YouTube channel and gain followers instead of being clueless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Ranking live videos
 
 ![Ranking Live Videos](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Yes! It is possible to rank videos on the go as you go live. By doing YouTube research, you can leverage different keywords and rank for them as you go online. Most people make evergreen videos and put pre-recorded ones but compared to them, the live world is still small.
 
@@ -1188,10 +1188,6 @@ So, if you want to transform your YouTube streaming journey from zero to hero, h
 
 ![Virbo Live](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We live in an AI-centric world with YouTube automation coming into play. A lot of YouTubers nowadays go to the automation path since it gives them a positive return on their investment. Let’s say that you are going to start your explainer YouTube channel or an eCommerce-related one.
 
 In that case, you should leverage [Virbo Live,](https://virbo.wondershare.com/virbo-live.html) which is a cost-effective and multilingual AI avatar tool. You can create explainer videos, host live shopping sessions, and do seamless AI streaming with vTubers and avatars.
@@ -1201,6 +1197,10 @@ In that case, you should leverage [Virbo Live,](https://virbo.wondershare.com/vi
 #### Virbo Live Features
 
 ![Features](https://images.wondershare.com/virbo/article/transform-youtube-live-with-these-must-know-secrets-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Cloud-based operations**
 
@@ -1231,6 +1231,10 @@ If you are a new creator who is looking to make his mark as a successful streame
 However, you need to have a loyal audience in order to do so. People use YouTube to get information or some sort of entertainment. Whether you are a new creator or someone who already has a set audience, your main focus should be to discuss hot topics or play trending games to get views faster and efficiently.
 
 To make it easier for you, let’s say that a new game rolls out. By discussing the game or playing the game on live stream, you are going to attract the right audience according to your YouTube channel and gain followers instead of being clueless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Ranking live videos
 
@@ -1426,10 +1430,6 @@ Conclusively, we have presented a detailed overview of OBS Studio and its integr
 
 </article
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Unlocking TalkShopLive: Pros and Tips for Live Shopping Success
 
 With the launch of its Studio App for brands and creators, **TalkShopLive** empowered sellers to live stream their shows in HD. The broadcast-quality app is lauded for its multiple capabilities, including a built-in broadcast studio and HD-quality streaming. In this article, we introduce Talk Shop Live as a live shopping platform and provide a brief guide on how to start your livestream on the platform.
@@ -1472,10 +1472,6 @@ As a social selling network, Talk Shop Live is a community of viewers who follow
 4. **Discover new products and brands:** Shoppers get real-time recommendations from hosts and influencers.
 5. **Sense of a Community**: TalkShopLive fosters a sense of community where users connect
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cons
 
 * **Limited product selection:** The selection of products on TalkShopLive may be skewed towards certain categories.
@@ -1495,6 +1491,10 @@ AI streamers are avatars that replicate human streamers, keeping your viewers en
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers a host of AI streamers that you can use in your TalkShopLive shows to keep your viewers engaged. By automating live shopping events, Virbo Live promises to save you the costs and time often incurred when hiring a human streamer. You get access to AI-driven avatars or Vtubers that will interact with your audience, provide information about your products, and answer customer questions. This way, you can boost your revenue during live shopping events and address more customer needs.
 
 ![virbo live](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 02 Why choose Virbo Live Shop
 
@@ -1650,18 +1650,18 @@ As a social-selling network, Talk Shop Live allows users to interact with each o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-breakthrough-ways-to-amplify-your-video-content-reach/"><u>[New] 2024 Approved Breakthrough Ways to Amplify Your Video Content Reach</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-art-of-color-correction-best-practices-top-11/"><u>[New] 2024 Approved The Art of Color Correction Best Practices (Top 11)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-thumbnail-theories-selecting-the-most-effective-youtube-fonts/"><u>[New] In 2024, Thumbnail Theories Selecting the Most Effective YouTube Fonts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[Updated] 2024 Approved Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crafting-gopro-professionals-a-filmmaking-guide/"><u>Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-storytelling-with-epic-videos/"><u>In 2024, Instagram Storytelling with Epic Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/lg-ultrafine-4k-monitor-complete-review-for-2024/"><u>LG UltraFine 4K Monitor Complete Review for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New In 2024, Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-10-free-football-streaming-sites-to-bookmark-for-2024/"><u>Updated 10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-highlighting-the-top-video-creation-apps-iphone-android/"><u>[New] In 2024, Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-is-it-possible-to-see-all-chatted-content-of-others/"><u>[Updated] Is It Possible to See All Chatted Content of Others?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-k70e-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi K70E Pattern Lock Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-on-twitch-the-ultimate-guide-for-2024/"><u>How to Stream on Twitch The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-gentle-volume-reduction-methods-in-ableton-live/"><u>In 2024, Gentle Volume Reduction Methods in Ableton Live</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry/"><u>New Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-top-5-substitutes-for-syncplicity-ensuring-security-and-dependability/"><u>The Ultimate Top 5 Substitutes for Syncplicity: Ensuring Security and Dependability</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-the-amplifi-hd-wireless-router-system-eliminate-your-homes-dead-zones-for-good/"><u>Unveiling the Potential of the Amplifi HD Wireless Router System: Eliminate Your Home's Dead Zones for Good</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-facebook-live-shopping-a-comprehensive-guide/"><u>Updated In 2024, Facebook Live Shopping A Comprehensive Guide</u></a></li>
 </ul></div>
 

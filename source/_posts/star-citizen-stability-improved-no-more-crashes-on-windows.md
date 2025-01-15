@@ -1,7 +1,7 @@
 ---
 title: "Star Citizen Stability Improved: No More Crashes on Windows"
-date: 2025-01-02T17:14:15.418Z
-updated: 2025-01-09T18:05:18.680Z
+date: 2025-01-08T02:20:02.943Z
+updated: 2025-01-15T00:15:11.766Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ There is nothing more frustrating than buying a video game and not being able to
 
  This problem may occur for various reasons, most of which are hard to detect because of the number of unique hardware and software settings players have. The information below is a general guide to help rule out common issues. You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix** _Total War_ **crash?**
 
 1. **[Meet the minimum system requirements](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,6 +30,10 @@ There is nothing more frustrating than buying a video game and not being able to
 7. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Configure your in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -50,10 +50,6 @@ Here is how to view your computer specifications:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Type **dxdiag**  and click **OK** .
 
@@ -80,7 +76,7 @@ Here is how to view your computer specifications:
 If your game still crashes, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
@@ -95,13 +91,13 @@ If your game still crashes, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart_Total War_ from Steam.
 
@@ -134,7 +130,7 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -142,10 +138,6 @@ There are two ways you can get the right driver for your graphics card:
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -160,10 +152,6 @@ There are two ways you can get the right driver for your graphics card:
 
  To check if there is any update, go to the **[Total War: Three Kingdoms website](https://www.totalwar.com/blog/)**  and search for the latest patch. If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 6, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change the power option
 
  The power plan on all computers is set to Balanced by default. Under this mode, your computer sometimes might slow down automatically to save energy, which could be the reason why your game crashes frequently.
@@ -173,6 +161,10 @@ There are two ways you can get the right driver for your graphics card:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -194,6 +186,10 @@ There are two ways you can get the right driver for your graphics card:
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Verify the integrity of your game files
 
  Another possible cause of the_Total War_ crashing issue is a damaged or missing game file. In this case, verifying the integrity of your game files can help fix your issue. Follow the instructions below:
@@ -205,7 +201,7 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
@@ -229,6 +225,10 @@ If your issue persists, go ahead with the next fix, below.
 **2)**  Navigate to the **Settings** **menu** , click**OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-226.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the**ADVANCED** .
 
@@ -254,17 +254,21 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -283,10 +287,6 @@ If your game crashes again, try the fix below.
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -315,18 +315,19 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-go-to-lighting-kit-17-picks-reviewed/"><u>[New] 2024 Approved YouTube's Go-To Lighting Kit - #17 Picks Reviewed</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-most-popular-tiktok-filters-enhancing-video-quality/"><u>[New] Most Popular TikTok Filters Enhancing Video Quality</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-spectacular-thumbnails-artistic-environments/"><u>[New] Spectacular Thumbnails Artistic Environments</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[Updated] In 2024, All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-introduction-to-professional-audio-recording-a-mac-and-audacity-approach/"><u>[Updated] In 2024, Introduction to Professional Audio Recording A Mac & Audacity Approach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-livestream-titans-clash-facebook-live-and-youtube-vs-twitter-spaces/"><u>[Updated] Livestream Titans Clash Facebook LIVE & YouTube Vs. Twitter Spaces</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-photo-aesthetics-the-essence-of-luts/"><u>In 2024, Mastering Photo Aesthetics The Essence of LUTs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-master-amazon-live-features-pro-tips-and-future-trends/"><u>New In 2024, Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-the-power-of-youtube-live-selling-unlock-your-sales-potential-for-2024/"><u>New The Power of YouTube Live Selling Unlock Your Sales Potential for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>Updated Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exceptional-book-video-examples/"><u>[New] 2024 Approved Exceptional Book Video Examples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-various-windows-movie-maker-product-types/"><u>[Updated] Examining Various Windows Movie Maker Product Types</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-8-sites-for-sharing-and-downloading-free-3d-text-psds/"><u>[Updated] The Top 8 Sites for Sharing and Downloading Free 3D Text PSDs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands-for-2024/"><u>Boost Sales with Live Shopping Learn Winning Strategies From Top Brands for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clean-and-connected-the-introduction-of-apple-airplay-in-select-luxury-hotels-unveiling-the-ultimate-guest-viewing-experience/"><u>Clean & Connected: The Introduction of Apple AirPlay in Select Luxury Hotels - Unveiling the Ultimate Guest Viewing Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-resolution-macs-favorite-4k-screens/"><u>Excellence in Resolution Mac's Favorite 4K Screens</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-re-establishing-obs-audio-recording-capabilities/"><u>In 2024, Re-Establishing OBS Audio Recording Capabilities</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/king-a-world-of-talent-with-the-top-10-low-cost-youtube-creators-for-2024/"><u>Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-pixel-buds-pro-2-get-the-lowdown-on-release-date-price-forecast-features-and-rumors/"><u>Unveiling Pixel Buds Pro 2? Get the Lowdown on Release Date, Price Forecast, Features & Rumors.</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
 </ul></div>
 

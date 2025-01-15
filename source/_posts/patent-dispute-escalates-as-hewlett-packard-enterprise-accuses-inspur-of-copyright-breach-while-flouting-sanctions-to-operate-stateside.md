@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2025-01-02T17:43:15.518Z
-updated: 2025-01-09T17:42:23.178Z
+date: 2025-01-14T01:20:47.202Z
+updated: 2025-01-14T23:57:33.010Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,21 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-no-software-needed-try-our-top-free-youtube-to-mp3-tools-for-2024/"><u>[Updated] No Software Needed? Try Our Top Free YouTube-to-MP3 Tools for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y200e-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y200e 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-drivers-tp-link-wifi-network-card-compatible-with-windows-10-8-and-7/"><u>Download Updated Drivers: TP-Link WiFi Network Card Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide/"><u>In 2024, Becoming a Pro in TikTok Live Shopping Your Complete Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-gt-5-240w-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme GT 5 (240W) to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-essential-2023-social-media-video-exploration/"><u>In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>New Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>New In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-scrutinizing-and-clearing-windows-history-with-precision/"><u>Strategies for Scrutinizing & Clearing Windows History with Precision</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12 5G FRP Bypass</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>Updated User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/visual-unity-ai-driven-instavideo-compilation-for-2024/"><u>Visual Unity AI-Driven InstaVideo Compilation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-combat-chronicles-in-the-ring-or-on-screen/"><u>[New] Combat Chronicles In the Ring or on Screen?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-stylistics-swapping-videos-rightside-up/"><u>[New] Instagram Stylistics Swapping Videos Rightside Up</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-video-editors-top-8-linux-picks/"><u>2024 Approved Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-gaming-bugs-solving-persistent-pc-issues-with-frontier-using-easy-fixes/"><u>Beat Gaming Bugs: Solving Persistent PC Issues with 'Frontier' Using Easy Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-complex-video-effects-and-transitions-in-gopro-studio/"><u>In 2024, Mastering Complex Video Effects and Transitions in GoPro Studio</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide-for-2024/"><u>New Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
+<li><a href="https://win-web.techidaily.com/transform-your-macbook-into-a-touchscreen-masterpiece-with-this-compact-portable-display-discover-more-on-zdnet/"><u>Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/radiko/"><u>ラジオ配信のスクリーン録画 - Radikoでの操作ガイド</u></a></li>
 </ul></div>
 

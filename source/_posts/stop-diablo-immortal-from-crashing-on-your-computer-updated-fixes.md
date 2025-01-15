@@ -1,7 +1,7 @@
 ---
 title: Stop Diablo Immortal From Crashing on Your Computer (Updated Fixes )
-date: 2025-01-03T17:52:40.604Z
-updated: 2025-01-09T16:51:03.189Z
+date: 2025-01-12T20:18:22.629Z
+updated: 2025-01-15T03:17:40.009Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 5. [**Move game files to your Steam drive**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  When you’re dealing with game crashes, first you need to check if you have**the latest intact game files** . You’re likely to run into issues with missing or corrupted game data.
@@ -46,6 +42,10 @@ Here’s how to verify file integrity on Steam:
 2. Right click**Back 4 Blood** and select**Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-3.jpg)
 3. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
 
@@ -71,17 +71,9 @@ Once done, restart your game and see if it crashes again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After updating your drivers, restart your PC and check if Back 4 Blood crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check for conflicting programs
 
@@ -91,8 +83,16 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -101,7 +101,7 @@ Once done, restart your game and see if it crashes again.
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -112,7 +112,7 @@ Once done, restart your game and see if it crashes again.
 If the issue lingers on, you can continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Make sure Windows is up to date
@@ -125,11 +125,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
@@ -143,6 +147,10 @@ Here’s how you can check for updates manually:
 
  If your system is already the latest, simply move on to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Move game files to your Steam drive
 
  According to some players,**moving game files to the same drive of Steam** might be a cure to the fix. So if you have your games installed in another drive, try moving them to your Steam drive and check the result. This trick was originally used to fix the disconnection issue.
@@ -155,10 +163,6 @@ Here’s how you can check for updates manually:
 
  If this method doesn’t work for you, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change in-game graphics settings
 
  There’re reports showing that**NVIDIA DLSS** might be the culprit of Back 4 Blood crashing. If you have this feature enabled, you can turn it off and see if the game stops crashing.
@@ -169,10 +173,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Set**Anti-Aliasing** to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-disable-dlss.jpg)
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -193,22 +193,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/pgrade-your-video-playback-activating-av1-on-youtube-for-2024/"><u>[New] Upgrade Your Video Playback Activating AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-educational-transformation-the-vr-revolution/"><u>[Updated] In 2024, Educational Transformation The VR Revolution</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-tv-off-switch-guide-for-2024/"><u>[Updated] Instagram TV Off Switch Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-bandicam-reference-unpacking-2023-features-for-2024/"><u>[Updated] The Ultimate Bandicam Reference – Unpacking 2023 Features for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-googles-proven-technique-for-accurate-speech-conversion/"><u>2024 Approved Google’s Proven Technique for Accurate Speech Conversion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/configuring-print-functionality-on-windows-a-guide-by-yl-software-for-addremove-and-default-printer-setup/"><u>Configuring Print Functionality on Windows: A Guide by YL Software for Add/Remove & Default Printer Setup</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722900063658-exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/"><u>Exploring a Ravaged World on Motorcycle in 'Days Gone': Our Comprehhavis Review.</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-hd-content-efficient-posting-in-fb-app/"><u>Navigating HD Content: Efficient Posting in FB App</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-user-choice-top-free-streaming-sites-for-sports/"><u>New In 2024, User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>New Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>Updated How To Start a Private Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-review-of-lazlive-live-selling-platform-with-guide/"><u>Updated In 2024, Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>Updated In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-approaches-to-youtube-short-glitches/"><u>[New] Strategic Approaches to YouTube Short Glitches</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New 2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-learn-the-best-6-alternative-streaming-platforms-for-2024/"><u>New Learn The Best 6 Alternative Streaming Platforms for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-dvd-audio-tracks-into-high-quality-flac-files/"><u>Step-by-Step Guide: Converting DVD Audio Tracks Into High-Quality FLAC Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-update-error-code-0x80240034-on-windows-10-devices/"><u>Step-by-Step Solution to Overcome 'Update Error' Code 0X80240034 on Windows 10 Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Updated Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
 </ul></div>
 
