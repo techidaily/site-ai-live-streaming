@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2025-01-14T01:20:47.202Z
-updated: 2025-01-14T23:57:33.010Z
+date: 2025-01-20T17:10:43.772Z
+updated: 2025-01-21T17:12:05.735Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,22 +64,18 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-combat-chronicles-in-the-ring-or-on-screen/"><u>[New] Combat Chronicles In the Ring or on Screen?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-stylistics-swapping-videos-rightside-up/"><u>[New] Instagram Stylistics Swapping Videos Rightside Up</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-video-editors-top-8-linux-picks/"><u>2024 Approved Ultimate Video Editors Top 8 Linux Picks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-gaming-bugs-solving-persistent-pc-issues-with-frontier-using-easy-fixes/"><u>Beat Gaming Bugs: Solving Persistent PC Issues with 'Frontier' Using Easy Fixes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-complex-video-effects-and-transitions-in-gopro-studio/"><u>In 2024, Mastering Complex Video Effects and Transitions in GoPro Studio</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New 2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide-for-2024/"><u>New Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/streamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
-<li><a href="https://win-web.techidaily.com/transform-your-macbook-into-a-touchscreen-masterpiece-with-this-compact-portable-display-discover-more-on-zdnet/"><u>Transform Your MacBook Into a Touchscreen Masterpiece with This Compact Portable Display - Discover More on ZDNet!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/radiko/"><u>ラジオ配信のスクリーン録画 - Radikoでの操作ガイド</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalcut-pro-elevating-your-youtube-edits-from-good-to-great-for-2024/"><u>[New] FinalCut Pro Elevating Your YouTube Edits From Good to Great for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamline-your-tech-experience-with-top-10-free-mac-capture-apps/"><u>[New] Streamline Your Tech Experience with Top 10 FREE Mac Capture Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-100-safe-audio-download-techniques-from-youtube/"><u>[Updated] 2024 Approved 100% Safe Audio Download Techniques From YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-investigating-how-tseries-makes-money-with-youtube-viewers/"><u>[Updated] 2024 Approved Investigating How TSeries Makes Money with YouTube Viewers</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-fine-tuning-dimensions-aspect-ratio-essentials/"><u>In 2024, Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-insights-on-maximizing-business-engagement-on-insta/"><u>In 2024, Top Insights on Maximizing Business Engagement on Insta</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>New Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-our-take-on-lg-k92-with-5g-does-it-offer-more-than-just-the-latest-network-speed/"><u>Unveiling Our Take on LG K92 with 5G: Does It Offer More Than Just the Latest Network Speed?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>Updated User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
 </ul></div>
 

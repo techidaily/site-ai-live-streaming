@@ -1,7 +1,7 @@
 ---
 title: New Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024
-date: 2025-01-10T16:00:45.653Z
-updated: 2025-01-15T08:05:16.535Z
+date: 2025-01-15T17:26:25.104Z
+updated: 2025-01-21T17:06:43.339Z
 tags: 
   - ai
   - live-streaming
@@ -63,6 +63,10 @@ Open Wondershare Virbo Live's browser page on your device and continue to select
 
 ![start creating live stream content](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * Step 2\. Pick the Perfect AI Avatar for the Live Stream
@@ -112,6 +116,10 @@ Another important tip for live selling on Instagram is product demo video clips.
 ### 5\. Collaborate and Promote Product Through Online Creators
 
 Finally, set your stage by collaborating with various Instagram influencers and content creators. You can partner with different brands and give them sponsored content and more. This will increase your brand revenue and visibility and drive sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,6 +180,10 @@ Once the new window opens on your browser, click the “AI avatars” option on 
 
 ![select avatar for virbo livestream video](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Step 3\. Adjust Background Settings and Include Stickers
 
 Now, hit the “Background” tab from the top toolbar option. Pick one background from the available categories to match your Livestream background and avatar. You can navigate to the “Stickers” tab to select the sticker representing your live selling motive.
@@ -213,10 +225,6 @@ Another important tip for live selling on Instagram is product demo video clips.
 ### 5\. Collaborate and Promote Product Through Online Creators
 
 Finally, set your stage by collaborating with various Instagram influencers and content creators. You can partner with different brands and give them sponsored content and more. This will increase your brand revenue and visibility and drive sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -301,13 +309,13 @@ Once you've gathered all the necessary equipment, you can proceed with the follo
 
 ![Customize scenes for Twitch livestream](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** When you're ready to start broadcasting, click "Start Stream" at the bottom of the Twitch Studio. Then, select your stream category and enter your live stream title. Hit "Go Live" to begin streaming.
 
 ![How to live stream on Twitch](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to stream Twitch live on a smartphone
 
@@ -363,10 +371,6 @@ Go to [Wondershare Virbo Live](https://virbo.wondershare.com/live/) and select �
 
 ![How to live stream on Twitch 24/7 with Virbo Live](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Write your content script or upload audio recordings.
 
 Within the Virbo Live interface, you can either compose the script for your live stream or upload pre-recorded audio content by selecting "Upload local file."
@@ -380,6 +384,10 @@ Within the Virbo Live interface, you can either compose the script for your live
 Navigate to "AI Avatars" to select an avatar for your live stream. Additionally, you can customize the background, incorporate stickers, or use available templates.
 
 ![Customize AI avatar and background](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Start the live stream.
 
@@ -402,10 +410,6 @@ If you’re a content creator, you should definitely consider leveraging this po
 If you’re new to the scene, we can help you start your Twitch streaming journey off right with the right gear and some useful tips.
 
 ![Live stream on Twitch](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Essential Preparations Before Beginning Your Twitch Streaming Journey
 
@@ -452,6 +456,10 @@ If your Twitch stream content involves showcasing your reactions or facial expre
 You can consider some popular webcam choices like the Logitech HD Pro C920, Logitech StreamCam, Logitech BRIO, Microsoft LifeCam HD-3000, and Razer Kiyo.
 
 ![Equipment for Twitch video streaming](https://images.wondershare.com/virbo/article/2024/04/how-to-perform-a-successful-streaming-on-twitch-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Understanding Twitch Streaming Rules
 
@@ -589,6 +597,10 @@ Ready to share your talents or ideas with a select audience? Dive into the steps
 * **Step 3:** Now, set your visibility. Before starting your broadcast, ensure your stream is private. Under the **Visibility** setting, click the dropdown menu and choose **Private**. This option restricts viewership to individuals you specifically invite.
 
 ![youtube private setting](https://images.wondershare.com/virbo/article/2024/03/private-youtube-livestream-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Step 4:** There are two methods existing for inviting viewers:
 * **Email Invitations:**Click on **Share Privately** and enter the email addresses of individuals you wish to grant access. You can also choose to notify them via email.
@@ -939,10 +951,6 @@ AI streamers are avatars that replicate human streamers, keeping your viewers en
 
 ![virbo live](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 02 Why choose Virbo Live Shop
 
 As live shopping becomes more common among buyers and sellers, choosing the right content is integral to success. Virbo Live allows you to experience cost-effective and multilingual AI streamers that will boost your revenues during your live shopping experience. By using Virbo Live, you can transform the live experience in the following ways:
@@ -984,6 +992,10 @@ Virbo Live offers you more freedom with the cloud-based operation. All the featu
 TalkShopLive offers sellers and shoppers a unique experience to sell and buy products during live shows. The platform is specially designed to help in the distribution, collaboration, and sharing of a truly shoppable and social video experience.
 
 As a social-selling network, Talk Shop Live allows users to interact with each other and make informed purchase decisions. However, hiring a human streamer and preparing their content can be time-consuming and expensive. That’s why we recommend [Virbo Live](https://virbo.wondershare.com/virbo-live.html) as the future of live-stream shopping. Get access to AI-powered avatars that will keep your viewers engaged while boosting your revenue from live-stream events.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Free Streaming Options for Watching MLB Matches
 
@@ -1065,10 +1077,6 @@ Watching MLB matches with Sportsurge doubles the fun for sports lovers. This pla
 2. This platform has a user-centric interface to facilitate users with intuitive live streaming options.
 3. No region-based restrictions exist, so you want to watch sports from anywhere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Comparison of the Best MLB Streaming Sites \[Made Easy\]
 
 As a matter of fact, every tool provides benefits with some drawbacks as well. In the above section, we have included the five **best MLB streaming sites**. These sites also offer both perks and negatives. So, here is a clear comparison of the sites to help you pick the best one.
@@ -1084,7 +1092,7 @@ As a matter of fact, every tool provides benefits with some drawbacks as well. I
 After going through all these points, you have a clear idea about each platform. You can easily choose the **best streaming platform for gaming** and sports matches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Part. Make Personalized Live Stream Videos Using Wondershare Virbo Live
@@ -1197,10 +1205,6 @@ However, there is still room for improvement for **live shopping apps** to make 
 
 ![top livestream apps for effective selling](https://images.wondershare.com/virbo/article/2024/03/best-livestream-shopping-apps-to-use-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Top 10 Live Streaming Shopping Platforms To Consider in 2024
 
 People look forward for live-streaming platforms that are easy to use and have many different things to buy. In 2024, some platforms have become popular because they offer features such as live videos. Since this is the highlight of this article, the following are the top 10 **livestream shopping apps** that are getting attention from shoppers:
@@ -1281,10 +1285,6 @@ Bambuser stands out due to its ability to increase engagement with social video 
 
 ![bambuser livestream shopping](https://images.wondershare.com/virbo/article/2024/03/best-livestream-shopping-apps-to-use-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. The app allows customers to complete their purchases while staying at the platform.
@@ -1339,6 +1339,10 @@ The QVC App is a mobile **livestreaming shopping app** for a seamless smartphone
 2. With live television broadcasts streamed through the app, users can shop while watching.
 3. Timely notifications ensure that users never miss out on special promotions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Showday Live & Shoppable Video
 
 When looking for innovation in **online video shopping app,** Showday Live offers several exceptional features. Customers can purchase showcased products without leaving the video with an in-video cart. It integrates with every Shopify theme, requiring no code for installation. This integration ensures that product feeds and transactions are in synchronization with the Shopify store.
@@ -1350,10 +1354,6 @@ When looking for innovation in **online video shopping app,** Showday Live offer
 1. Showday can integrate with platforms, including Facebook, YouTube, and Google Analytics.
 2. It is equipped with a variety of engagement features like vouchers to convert viewers into customers.
 3. This app has marketing tools to gather and analyze valuable consumer data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. Facebook Live
 
@@ -1414,18 +1414,19 @@ In conclusion, we've learned that live streaming is becoming essential for onlin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-alternatives-spotlighted-by-az-screen-recorder-for-2024/"><u>[New] Alternatives Spotlighted by AZ Screen Recorder for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-televising-streamed-social-media-vids-in-households/"><u>[Updated] 2024 Approved Televising Streamed Social Media Vids in Households</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-compilation-of-samsungs-picture-editing-capabilities/"><u>[Updated] In 2024, The Ultimate Compilation of Samsung's Picture Editing Capabilities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-step-by-step-guide-to-reestablish-working-airdrop-linkage-for-2024/"><u>[Updated] Step-by-Step Guide to Reestablish Working Airdrop Linkage for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-download-and-setup-of-official-drivers-for-hp-laptop-series-840-g3/"><u>Easy Download and Setup of Official Drivers for HP Laptop Series 840 G3.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/igtv-mastery-best-video-editors-for-social-media-for-2024/"><u>IGTV Mastery Best Video Editors for Social Media for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audacitys-toolkit-for-exceptional-sound-recording/"><u>In 2024, Audacity's Toolkit for Exceptional Sound Recording</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-hot-40-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Hot 40</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further-for-2024/"><u>New Searching for Free Sports Streaming Sites? Look No Further for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revitalize-reps-with-the-top-backdrop-tracks-for-training/"><u>Revitalize Reps with the Top Backdrop Tracks for Training</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>Updated 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated In 2024, How To Perform a Successful Streaming on Twitch</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated In 2024, RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-playlist-creation-on-youtube-easily/"><u>[New] 2024 Approved Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-shorts-are-back-on-youtube-for-2024/"><u>[New] Your Shorts Are Back on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-gaming-sessions-pick-between-obs-or-shadowplay-for-2024/"><u>[Updated] Capturing Gaming Sessions Pick Between OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-beat-the-purchase-free-fb-playlists-download/"><u>[Updated] In 2024, Beat the Purchase Free FB Playlists Download</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-recorder-capturing-screens-and-cameras-on-streams/"><u>[Updated] Mastering Vimeo Recorder Capturing Screens & Cameras on Streams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-video-chats-on-xbox-one-with-zoom/"><u>2024 Approved Seamless Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-online-clarity-a-zoomers-guide/"><u>Capturing Online Clarity A Zoomer's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958202896-ensure-smooth-performance-update-targus-displaylink-drivers-in-windows-10-8-and-(br)7-today/"><u>Ensure Smooth Performance: Update Targus DisplayLink Drivers in Windows 10, 8 & <Br>7 Today</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-10-free-football-streaming-sites-to-bookmark/"><u>New 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>New 2024 Approved Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-streaming-services-worth-a-try/"><u>New Top 10 Streaming Services Worth a Try</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify/"><u>Updated Best Live Chat Apps To Try With Shopify</u></a></li>
 </ul></div>
 

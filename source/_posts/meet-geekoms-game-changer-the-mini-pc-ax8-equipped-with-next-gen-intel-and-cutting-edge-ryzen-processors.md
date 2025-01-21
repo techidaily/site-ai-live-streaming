@@ -1,7 +1,7 @@
 ---
 title: "Meet GeekOm's Game-Changer: The Mini PC AX8 Equipped with Next-Gen Intel and Cutting-Edge Ryzen Processors"
-date: 2025-01-11T18:06:23.074Z
-updated: 2025-01-14T22:55:49.543Z
+date: 2025-01-18T16:29:33.072Z
+updated: 2025-01-21T16:00:36.635Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,19 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-hack-your-channels-identity-with-these-11-budget-tools/"><u>[New] 2024 Approved Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-script-to-spectacle-independent-effect-innovation/"><u>[New] From Script to Spectacle Independent Effect Innovation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiled-top-5-visual-treats-on-social-medias-giant/"><u>[Updated] Unveiled Top 5 Visual Treats on Social Media's Giant</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>2024 Approved 8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chorus-of-commitment-best-ballads-for-marital-dreaming/"><u>2024 Approved Chorus of Commitment Best Ballads for Marital Dreaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v29-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V29 Phone When You Forget the Password</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-a-revenue-driven-approach-to-youtube-content-creation/"><u>Crafting a Revenue-Driven Approach to YouTube Content Creation</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/how-to-start-a-private-live-stream-on-youtube-for-2024/"><u>How To Start a Private Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Device</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>New 2024 Approved The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook-for-2024/"><u>New A Guide to Using OBS Studio To Stream to Facebook for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-in-2024/"><u>New Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-stop-quittime-video-capture-procedures/"><u>[New] 2024 Approved Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations-for-2024/"><u>[New] Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[Updated] 2024 Approved The Best of the Best YT's Premier Unboxing Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-game-capture-faceoff-evaluate-obs-and-shadowplay-for-2024/"><u>[Updated] Game Capture Faceoff Evaluate OBS & ShadowPlay for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-advanced-taskbar-features-in-windows-11/"><u>Activating Advanced Taskbar Features in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-tools-para-grabar-pantalla-en-computadoras-con-windows-versiones-1087-incluye-grabaciones-completas-o-partiales-de-la-pantalla/"><u>Best Tools Para Grabar Pantalla en Computadoras Con Windows - Versiónes 10/8/7 Incluye Grabaciones Completas O Partiales De La Pantalla</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18e-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18e Phones with/without a PC</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722959604227-instant-access-get-brother-hl-3170cdw-driver-downloads-here/"><u>Instant Access - Get Brother HL-3170CDW Driver Downloads Here!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>New 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>New Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-searching-for-free-sports-streaming-sites-look-no-further-for-2024/"><u>New Searching for Free Sports Streaming Sites? Look No Further for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-performance-secrets-tips-from-toms-hardware-analysis/"><u>Unlocking Performance Secrets - Tips From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-s-top-10-streaming-video-services-free-ones-available/"><u>Updated 2024 Approved S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Updated Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-perform-a-successful-streaming-on-twitch/"><u>Updated In 2024, How To Perform a Successful Streaming on Twitch</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated In 2024, RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2025-01-14T00:35:25.446Z
-updated: 2025-01-15T08:06:44.494Z
+date: 2025-01-15T16:11:48.287Z
+updated: 2025-01-21T16:45:35.649Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,20 +74,24 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/aifc-to-jpgpng-movavi-online/"><u>無料 AIFC to JPG/PNG ファイル変換サービス - Movavi Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/comprehensive-analysis-the-power-of-the-samsung-galaxy-note20-ultra-5g/"><u>Comprehensive Analysis: The Power of the Samsung Galaxy Note20 Ultra 5G</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/elevate-fathers-day-gifting-with-an-immersive-ibuypower-computer-experience/"><u>Elevate Father’s Day Gifting with an Immersive iBUYPOWER Computer Experience</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/exclusive-offer-chip-in-an-extra-250-for-your-ultimate-rtx-cuarto-pc/"><u>Exclusive Offer: Chip In An Extra $250 for Your Ultimate RTX Cuarto PC!</u></a></li>
-<li><a href="https://games-able.techidaily.com/grasp-the-games-nitty-gritty-championship-manager-free-pc-version/"><u>Grasp the Game's Nitty-Gritty: Championship Manager, Free PC Version</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-g24-power-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola G24 Power.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>In 2024, Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/master-the-latest-tech-trends-with-insights-from-toms-hardware/"><u>Master the Latest Tech Trends with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/navigating-toms-tech-landscape-comprehensive-reviews-and-comparisons/"><u>Navigating Tom's Tech Landscape: Comprehensive Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/1723262424124-save-1058-on-lenovos-top-of-the-line-rtx-4080-gpu-equipped-legion-desktop-priced-at-just-2091/"><u>Save $1,058 on Lenovo's Top-of-the-Line RTX 4080 GPU-Equipped Legion Desktop Priced at Just $2,091!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/save-time-effortlessly-the-ultimate-list-of-10-chatgpt-plus-pdf-syncing-plugins/"><u>Save Time Effortlessly: The Ultimate List of 10 ChatGPT + PDF Syncing Plugins</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/score-big-savings-slash-250-off-your-new-rtx-nvidia-geforce-rtx-4090-equipped-beast-mode-gaming-setup/"><u>Score Big Savings: Slash $250 Off Your New RTX nVidia GeForce RTX 4090-Equipped Beast Mode Gaming Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-your-photo-preview-sizes-on-pc/"><u>Set Your Photo Preview Sizes on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/stealth-video-tactics-for-soundless-capture/"><u>Stealth Video Tactics for Soundless Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximize-fun-mp4-extractor-for-fb-videos/"><u>[New] 2024 Approved Maximize Fun MP4 Extractor for FB Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-brisk-blueprints-for-scribing-presentations/"><u>[Updated] 2024 Approved Brisk Blueprints for Scribing Presentations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives/"><u>[Updated] 2024 Approved Transform Your iPhone Footage Creating & Editing Lengthened Visual Narratives</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/best-text-to-audio-converters-of-all-times-for-2024/"><u>Best Text-to-Audio Converters of All Times for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/breaking-barriers-innovative-ways-to-hook-your-podcast-audience/"><u>Breaking Barriers Innovative Ways to Hook Your Podcast Audience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chromatic-excellence-learning-to-leverage-colors/"><u>Chromatic Excellence Learning to Leverage Colors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-groundbreaking-satellite-sos-feature-in-the-newly-launched-google-pixel-9-a-game-changer-for-emergency-communication/"><u>Introducing the Groundbreaking Satellite SOS Feature in the Newly Launched Google Pixel 9: A Game-Changer for Emergency Communication</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/master-amazon-live-features-pro-tips-and-future-trends-for-2024/"><u>Master Amazon Live Features, Pro Tips and Future Trends for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-the-seo-maze-a-guide-to-youtube-keywords/"><u>Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-searching-for-free-sports-streaming-sites-look-no-further/"><u>New 2024 Approved Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-selling-a-comprehensive-starters-guide-for-2024/"><u>New Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-transform-youtube-live-with-these-must-know-secrets-for-2024/"><u>New Transform YouTube Live with These Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-pacifica-drive-launch-obstacles-top-strategies-and-fixes/"><u>Overcome Pacifica Drive Launch Obstacles – Top Strategies and Fixes</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-windows-11-a-compreayer-to-master-video-editing-techniques-for-2024/"><u>Unveiling Windows 11 A Compreayer to Master Video Editing Techniques for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 </ul></div>
 

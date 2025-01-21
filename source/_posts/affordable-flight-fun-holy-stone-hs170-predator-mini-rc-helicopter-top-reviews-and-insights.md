@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2025-01-13T18:15:46.914Z
-updated: 2025-01-14T16:20:43.499Z
+date: 2025-01-18T16:55:26.560Z
+updated: 2025-01-21T16:45:53.020Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -76,6 +76,10 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
@@ -83,7 +87,7 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Impressive detection**
@@ -93,7 +97,7 @@ Lifewire / Todd Braylor
  It reliably delivers on its promise of long-distance sensitivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
@@ -110,10 +114,6 @@ Lifewire / Todd Braylor
 
  You get what you pay for with the Escort Passport S55—maximum sensitivity and range without advanced filtering capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Escort Passport S55 vs. Uniden DFR9 Super long-range Radar/Laser Detector**
 
  A popular competitor brand to Escort that makes a wide selection of radar detectors is Uniden. The Uniden DFR9 (view on[Amazon](https://www.amazon.com/Uniden-DFR9-Detection-Cameras-Display/dp/B07F6PZXHM/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7C) ) is a model that can be considered the next price tier above the S55\. The DFR9's MSRP is $300 but it can often be found on sale for about $270.
@@ -127,7 +127,7 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -159,22 +159,22 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-examining-vllos-user-driven-feedback-for-2024/"><u>[New] Examining VLLO's User-Driven Feedback for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i/"><u>[New] In 2024, Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>[Updated] 2024 Approved Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>2024 Approved A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-google-meet-enrollment/"><u>2024 Approved Navigating Google Meet Enrollment</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-system-strain-tackling-high-cpu-through-rm-insights/"><u>Deciphering System Strain: Tackling High CPU Through RM Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-corsair-hs70-headset-microphone-stops-working/"><u>DIY Fixes for When Your Corsair HS70 Headset Microphone Stops Working</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-smart-are-they-really-ais-ability-to-tell-jokes-and-the-chronology-of-laptop-innovations-enhanced-by-secure-connection-tech/"><u>How Smart Are They Really?: AI's Ability to Tell Jokes & The Chronology of Laptop Innovations Enhanced by Secure Connection Tech</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://video-capture.techidaily.com/recording-tech-evaluation-blueprint/"><u>Recording Tech Evaluation Blueprint</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-update-error-code-0x8024800c/"><u>Resolving Windows Update Error: Code 0X8024800C</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches-for-2024/"><u>Top 5 Free Streaming Options for Watching MLB Matches for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of-for-2024/"><u>Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>Updated 2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated 2024 Approved The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Updated In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adobe-premiere-tips-youtube-video-uploads/"><u>[New] 2024 Approved Adobe Premiere Tips YouTube Video Uploads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>[New] Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-master-the-art-moviemaker-movie-uploads-on-vimeo-for-2024/"><u>[New] How To Master the Art Moviemaker Movie Uploads on Vimeo for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-achieving-professional-grade-vr-gameplay-captures/"><u>[Updated] 2024 Approved Achieving Professional-Grade VR Gameplay Captures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-imaginedge-coder/"><u>[Updated] ImaginEdge Coder</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/kick-starting-a-captivating-instagram-live/"><u>Kick-Starting a Captivating Instagram Live</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>New In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>New In 2024, Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>Updated Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Updated Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
 </ul></div>
 
