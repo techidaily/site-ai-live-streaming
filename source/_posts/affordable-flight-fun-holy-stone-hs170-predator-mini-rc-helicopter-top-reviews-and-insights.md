@@ -1,7 +1,7 @@
 ---
 title: "Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
-date: 2025-01-18T16:55:26.560Z
-updated: 2025-01-21T16:45:53.020Z
+date: 2025-01-20T16:56:41.817Z
+updated: 2025-01-27T17:15:01.756Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter - Top Reviews & Insights"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
 3.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Escort Passport S55
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/f0RN56-eh6pu8aD6gCixTQbPxa8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -45,6 +45,10 @@ Lifewire / Todd Braylor
 
 ![Escort Passport S55](https://www.lifewire.com/thmb/sfbFkL8zI4goROALJ4BAsKN18us=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_PassportS55_HeroSquare-cf0bc8f027124f10ae69543a9ad91418.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Todd Braylor
 
 [View On Amazon $280](https://www.amazon.com/dp/B019HF60EI/?tag=lifewire-onsite-prod-20&ascsubtag=4799949%7Cncd245a3f879640b69fbbb5e95c20e78e20%7CB019HF60EI) [View On Walmart $140](https://www.walmart.com/ip/Escort-Passport-S55-High-Performance-Pro-Radar-and-Laser-Detector-w-DSP/49140972)
@@ -66,6 +70,10 @@ Lifewire / Todd Braylor
 
  The Escort Passport S55 is designed to deliver high-performance features in a low-budget package; this model has a great range and a high-intensity LED display. Let's take a closer look at some strengths and weaknesses to evaluate what kind of performance you can expect on the road.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design:** **A bit cheap**
 
  The S55 is palm-sized, about comparable in size and shape to most other radar detectors. The plastic material feels a bit cheaper than other radar detectors I've tested, though the control buttons worked well and felt long-lasting and I never had issues with them sticking. The Passport S55 comes with a very small windshield mount that's functional, but you may want to consider an aftermarket mount. It's minimal with small suction cups and I'm not confident it will last long. Luckily, the lightweight design of the S55 means it doesn't need much to hold it in place.
@@ -77,7 +85,7 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Easy installation**
@@ -86,19 +94,11 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: Impressive detection**
 
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
 
  It reliably delivers on its promise of long-distance sensitivity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
 
@@ -127,7 +127,7 @@ Lifewire / Todd Braylor
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -159,22 +159,18 @@ Lifewire / Todd Braylor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adobe-premiere-tips-youtube-video-uploads/"><u>[New] 2024 Approved Adobe Premiere Tips YouTube Video Uploads</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>[New] Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-master-the-art-moviemaker-movie-uploads-on-vimeo-for-2024/"><u>[New] How To Master the Art Moviemaker Movie Uploads on Vimeo for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-achieving-professional-grade-vr-gameplay-captures/"><u>[Updated] 2024 Approved Achieving Professional-Grade VR Gameplay Captures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-imaginedge-coder/"><u>[Updated] ImaginEdge Coder</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/kick-starting-a-captivating-instagram-live/"><u>Kick-Starting a Captivating Instagram Live</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New 2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>New In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>New In 2024, Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>Updated Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Updated Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-in-depth-study-of-audafreedomaudiotools/"><u>[Updated] 2024 Approved The In-Depth Study of AudaFreedomAudioTools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-game-on-the-leading-12-youtube-videographers-for-opening-tutorials-freepaid/"><u>[Updated] Game On The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-analyzing-elite-performance-of-parrots-ar-drone-20/"><u>[Updated] In 2024, Analyzing Elite Performance of Parrot's AR Drone 2.0</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-trailblazing-the-future-of-3d-color-grading-tools/"><u>[Updated] Trailblazing the Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-critical-limitations-why-chatgpt-falls-short-in-analyzing-cryptocurrency-trends/"><u>5 Critical Limitations: Why ChatGPT Falls Short in Analyzing Cryptocurrency Trends</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/6-must-have-tools-for-successful-game-streaming-for-2024/"><u>6 Must-Have Tools for Successful Game Streaming for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-vibes-photos-with-a-soundtrack-twist-for-2024/"><u>Cinematic Vibes Photos with a Soundtrack Twist for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-peasy-podcast-go-live-hack/"><u>Easy-Peasy Podcast Go Live Hack</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>New In 2024, Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-boosting-windows-storage-without-a-fee/"><u>The Ultimate Guide to Boosting Windows Storage Without a Fee</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated In 2024, How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Updated Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
 </ul></div>
 

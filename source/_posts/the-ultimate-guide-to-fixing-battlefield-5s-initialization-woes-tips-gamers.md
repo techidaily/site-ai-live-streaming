@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers
-date: 2025-01-17T17:16:47.773Z
-updated: 2025-01-21T16:17:12.518Z
+date: 2025-01-20T17:20:27.723Z
+updated: 2025-01-27T17:34:44.878Z
 tags:
   - win11
   - win10
@@ -31,27 +31,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ignore the specs listed here. This computer is not used for gaming.
 
  3) Go to the **Display** tab so you can view the information about your **graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
@@ -60,10 +48,6 @@ In case you don’t know how, here’s the guidance:
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
 
@@ -95,6 +79,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -116,6 +104,10 @@ In case you don’t know how, here’s the guidance:
 **[Fix 8: Wait for more game updates](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
 
@@ -163,10 +155,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
@@ -187,15 +175,27 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -217,10 +217,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
@@ -241,15 +237,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -270,10 +266,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -281,6 +273,10 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -294,6 +290,10 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -304,12 +304,16 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
@@ -321,10 +325,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -352,21 +352,24 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-game-based-youtube-earning-guide/"><u>[Updated] Game-Based YouTube Earning Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-path-to-earnings-on-youtube-for-2024/"><u>[Updated] Gamer's Path to Earnings on YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revolutionize-your-mac-streaming-experience-for-2024/"><u>[Updated] Revolutionize Your Mac Streaming Experience for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-video-conferencing-with-zoom-and-gmail/"><u>[Updated] Seamless Video Conferencing with Zoom & Gmail</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>2024 Approved Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>2024 Approved The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-exception-breakpoint-reached-message-on-pcs/"><u>Correcting Exception Breakpoint Reached Message on PCs</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminating-unwanted-glances-the-ultimate-fb-privacy-guide/"><u>Eliminating Unwanted Glances: The Ultimate FB Privacy Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hero5-black-versus-hero4-silver-comparison/"><u>In 2024, Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-joint-filmmaking-and-gaining-followers-quickly/"><u>In 2024, Joint Filmmaking & Gaining Followers Quickly</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/mastering-facebook-live-your-complete-guide-to-successful-streaming-for-2024/"><u>Mastering Facebook Live Your Complete Guide to Successful Streaming for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-selling-a-comprehensive-starters-guide-for-2024/"><u>Updated Live Selling A Comprehensive Starters Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/whirling-installer-range-for-2024/"><u>Whirling Installer Range for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-packaging-as-a-sales-catalyst/"><u>[New] Packaging as a Sales Catalyst</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-add-voiceover-to-video-on-tiktok-in-2024/"><u>[Updated] How to Add Voiceover to Video on TikTok, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-igniting-online-frenzy-essential-trending-hashes/"><u>[Updated] Igniting Online Frenzy Essential Trending Hashes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-stay-focused-with-smart-youtube-channel-management-for-pc-and-phones-for-2024/"><u>[Updated] Stay Focused with Smart Youtube Channel Management for PC and Phones for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/diagnosing-underpowered-cpu-issues-tips-and-tricks-from-yl-computing-for-maximum-efficiency/"><u>Diagnosing Underpowered CPU Issues: Tips & Tricks From YL Computing for Maximum Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978147160-dti-provides-detailed-images-of-white-matter-tracts-useful-for-assessing-traumatic-brain-injury-or-multiple-scleroserole-plaques/"><u>DTI Provides Detailed Images of White Matter Tracts, Useful for Assessing Traumatic Brain Injury or Multiple Scleroserole Plaques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-for-apple-coders-unlock-next-level-programming-with-newly-upgraded-complimentary-ai-features-zdnet/"><u>Exclusive for Apple Coders! Unlock Next-Level Programming with Newly Upgraded, Complimentary AI Features | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-a2plus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-v29-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo V29? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-9-free-tv-streaming-services-or-sites-to-use-for-2024/"><u>New Top 9 Free TV Streaming Services or Sites To Use for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Updated In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated In 2024, Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-list-best-livestream-shopping-apps-of-for-2024/"><u>Updated Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-your-selling-strategy-with-lazlive-live-selling-for-2024/"><u>Updated Your Selling Strategy With LazLive Live Selling for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>Updated YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
 </ul></div>
 

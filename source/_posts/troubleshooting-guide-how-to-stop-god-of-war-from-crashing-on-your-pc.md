@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop God of War From Crashing on Your PC"
-date: 2025-01-18T16:07:20.030Z
-updated: 2025-01-21T16:04:45.357Z
+date: 2025-01-21T16:38:23.650Z
+updated: 2025-01-27T16:57:22.983Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -51,14 +47,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -74,7 +66,7 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -106,6 +98,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -113,7 +109,7 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -126,6 +122,10 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -153,24 +153,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/"><u>[New] 2024 Approved Unleashing Your Brand Potential with Advanced Insights on Instagram Data</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-screenshots-software-series/"><u>[Updated] Best Screenshots Software Series</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-announce-your-first-social-giving-drive/"><u>[Updated] In 2024, How to Announce Your First Social Giving Drive</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reimagining-the-corporate-environment-to-maximize-employee-potential/"><u>[Updated] Reimagining the Corporate Environment to Maximize Employee Potential</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-capture-basics-for-hp-and-chromebook-owners-for-2024/"><u>[Updated] Webcam Capture Basics for HP and Chromebook Owners for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-latest-accessory-for-vision-pro-at-just-199-a-surprisingly-snug-travel-case-exposed/"><u>Apple's Latest Accessory for Vision Pro at Just $199 - A Surprisingly Snug Travel Case Exposed .</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-reels-add-sound-for-impactful-storytelling/"><u>Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-beyond-the-basics-secrets-for-tiktok-live-studio-success-for-2024/"><u>New Beyond the Basics Secrets for TikTok Live Studio Success for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>New Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/searching-for-free-sports-streaming-sites-look-no-further/"><u>Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo FRP</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-collection-premium-dj-visuals-available-for-download/"><u>Ultimate Collection Premium DJ Visuals Available for Download</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-5-free-streaming-options-for-watching-mlb-matches/"><u>Updated Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-choosing-gopro-wisely-a-comparative-examination/"><u>[New] In 2024, Choosing GoPro Wisely A Comparative Examination</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-forgotten-basics-of-instagram-reels-success/"><u>[Updated] The Forgotten Basics of Instagram Reels Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-art-of-iphone-photography-skill-building-tips/"><u>[Updated] Unlock the Art of iPhone Photography Skill-Building Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdmacx-dvd-ripper-pro/"><u>人気DVDリッピングソフト『MacX DVD Ripper Pro』公式サイトから安全に購入ガイド</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11f-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11F 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>In 2024, How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-10-free-football-streaming-websites-for-live-matches/"><u>In 2024, Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-conversion-rates-with-our-customizable-cookiebot-solutions/"><u>Maximize Conversion Rates with Our Customizable Cookiebot Solutions</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New In 2024, A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-dark-theme-a-step-by-step-guide-on-restoring-facebooks-night-display/"><u>Reviving Your Dark Theme: A Step-by-Step Guide on Restoring FaceBook's Night Display</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-detailed-guide-to-stream-to-instagram-with-an-rtmp-for-2024/"><u>Updated A Detailed Guide To Stream to Instagram With an RTMP for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/wiederherstellung-von-versehentlich-geloschten-partitionen-losungen-mit-myrecovery/"><u>Wiederherstellung Von Versehentlich Gelöschten Partitionen: Lösungen Mit MyRecovery</u></a></li>
 </ul></div>
 

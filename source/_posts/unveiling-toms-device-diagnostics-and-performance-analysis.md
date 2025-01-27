@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2025-01-20T16:13:01.426Z
-updated: 2025-01-21T16:45:12.220Z
+date: 2025-01-24T17:14:57.478Z
+updated: 2025-01-27T17:16:28.656Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,19 +88,20 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-the-perfect-phrases-for-gamers-videos/"><u>[Updated] Finding the Perfect Phrases for Gamers' Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726026571405-2024/"><u>【2024年度対策】ニコニコ生放送で「タイムシフト」機能を記録・保管するテクニック</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/flipping-currencies-through-cosmetics-content/"><u>Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-can-i-fix-scanner-issues-without-reinstalling-windows-tips-from-yl-computing/"><u>How Can I Fix Scanner Issues Without Reinstalling Windows? - Tips From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y78-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y78 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>In 2024, Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-note-30-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Note 30 Pro FRP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-free-translation-top-8-choices-revealed-for-2024/"><u>Mastering Free Translation Top 8 Choices Revealed for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/must-use-livestream-shopping-apps-for-seamless-online-system-for-2024/"><u>Must-Use Livestream Shopping Apps for Seamless Online System for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>New 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Updated Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-screenplay-blueprint-unveiled/"><u>[New] Screenplay Blueprint Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essential-tips-for-discarding-unwanted-youtube-files/"><u>[New] The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-secrets-to-crafting-compelling-openers-in-game-videos-yt-freepremium/"><u>2024 Approved Secrets to Crafting Compelling Openers in Game Videos (YT Free/Premium)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-in-spectacue-prime-platforms-showcasing-hdr-imagery/"><u>2024 Approved Sky in Spectacue - Prime Platforms Showcasing HDR Imagery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-anyone-fast-a-guide-to-the-best-8-person-search-platforms/"><u>Find Anyone Fast: A Guide to the Best 8 Person Search Platforms</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-40i-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 40i to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-audio-transformation-tools-unleash-voices/"><u>In 2024, Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>New Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>New In 2024, Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/transform-youtube-live-with-these-must-know-secrets-for-2024/"><u>Transform YouTube Live with These Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-android-gameplay-on-windows-11-with-googles-platform/"><u>Unlock Android Gameplay on Windows 11 with Google's Platform</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-your-favorite-games-online/"><u>Updated 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-becoming-a-pro-in-tiktok-live-shopping-your-complete-guide-for-2024/"><u>Updated Becoming a Pro in TikTok Live Shopping Your Complete Guide for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>Updated In 2024, Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
 </ul></div>
 
