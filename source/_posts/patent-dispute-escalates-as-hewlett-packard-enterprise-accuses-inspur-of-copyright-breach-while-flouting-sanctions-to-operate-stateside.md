@@ -1,7 +1,7 @@
 ---
 title: Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside
-date: 2025-01-26T16:18:51.372Z
-updated: 2025-01-27T17:54:47.750Z
+date: 2025-02-01T17:08:42.558Z
+updated: 2025-02-09T11:52:50.753Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,24 +64,16 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-discover-leading-fonts-boosting-your-youtube-thumbnails/"><u>[New] 2024 Approved Discover Leading Fonts Boosting Your YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-how-to-remove-signature-background-in-seconds/"><u>[New] How to Remove Signature Background in Seconds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-android-dominance-top-10-moba-games-showcase-for-2024/"><u>[Updated] Android Dominance Top 10 MOBA Games Showcase for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insights-into-instagrams-selfie-verification/"><u>[Updated] In 2024, Insights Into Instagram's Selfie Verification</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/cant-watch-mlb-matches-get-free-mlb-streaming-options-now-for-2024/"><u>Cant Watch MLB Matches? Get Free MLB Streaming Options Now for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-strategies-to-resolve-access-violation-in-memory-locations-a-complete-guide/"><u>Essential Strategies to Resolve ‘Access Violation’ in Memory Locations - A Complete Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y100t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y100t without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-12-sports-streaming-sites-freeandpaid/"><u>In 2024, Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-facebook-live-shopping-a-comprehensive-guide/"><u>In 2024, Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-psone-emulators-perfect-play-on-your-pc/"><u>In 2024, Top 5 PsOne Emulators Perfect Play on Your PC</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-imessage-on-non-ios-devices-tips-and-tricks/"><u>Navigating iMessage on Non-iOS Devices: Tips and Tricks</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-10-streaming-services-worth-a-try/"><u>New 2024 Approved Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-s-top-10-streaming-video-services-free-ones-available-for-2024/"><u>New S Top 10 Streaming Video Services Free Ones Available for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-audacity-audio-recording-on-macos-for-2024/"><u>Step-by-Step Audacity Audio Recording on MacOS for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/strategies-pour-la-restauration-de-photos-perdues-reprendre-les-fichiers-nrw-effaces-par-votre-appareil-photo-nikon-tutoriel-complet/"><u>Stratégies Pour La Restauration De Photos Perdues : Reprendre Les Fichiers NRW Effacés Par Votre Appareil Photo Nikon | Tutoriel Complet</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Updated In 2024, Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-2-pc-game-optimization-guide-eliminating-frame-rate-drops-and-stuttering-issues-for-a-smooth-experience/"><u>'Modern Warfare 2' PC Game Optimization Guide: Eliminating Frame Rate Drops and Stuttering Issues for a Smooth Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-searching-for-free-sports-streaming-sites-look-no-further/"><u>2024 Approved Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-network-drives-on-macos-a-comprehensive-how-to/"><u>Master the Art of Network Drives on macOS: A Comprehensive How-To</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-common-problems-with-your-usb-to-hdmi-adapter-fixes-inside/"><u>Solving Common Problems with Your USB to HDMI Adapter (Fixes Inside)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlabs-versus-obs-the-ultimate-showdown/"><u>Streamlabs Versus OBS The Ultimate Showdown</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tecnicas-efectivas-para-optimizar-la-notificacion-de-mensajes-electronicos/"><u>Técnicas Efectivas Para Optimizar La Notificación De Mensajes Electrónicos</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-10-streaming-services-worth-a-try-for-2024/"><u>Top 10 Streaming Services Worth a Try for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated In 2024, Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>Updated In 2024, The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-secrets-for-tiktok-live-studio-success/"><u>Updated Secrets for TikTok Live Studio Success</u></a></li>
 </ul></div>
 
