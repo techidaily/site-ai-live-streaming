@@ -1,7 +1,7 @@
 ---
 title: Unveiling Tom's Device Diagnostics & Performance Analysis
-date: 2025-02-07T19:54:31.926Z
-updated: 2025-02-08T16:19:49.577Z
+date: 2025-02-15T16:00:14.910Z
+updated: 2025-02-19T16:20:28.577Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,22 +88,20 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-process-to-update-your-videos-cover-images/"><u>[New] In 2024, The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-gastronomes-blueprint-filming-feasts/"><u>[New] The Gastronome’s Blueprint Filming Feasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expertise-in-speech-conversion-mastering-googles-method/"><u>[Updated] In 2024, Expertise in Speech Conversion Mastering Google’s Method</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-essentials-of-stylistic-self-discovery-high-impact/"><u>In 2024, The Essentials of Stylistic Self-Discovery [High Impact]</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New In 2024, Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>New In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pro-vs-express-uncovering-the-key-differences-in-final-cut/"><u>Pro vs Express Uncovering the Key Differences in Final Cut</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-for-2024/"><u>Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-11-must-have-windows-and-macos-applications-tech-insights-on-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-8-live-selling-platforms-and-beginners-tool-suggestion-for-2024/"><u>Top 8 Live Selling Platforms & Beginners Tool Suggestion for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-learn-the-best-6-alternative-streaming-platforms/"><u>Updated 2024 Approved Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Updated In 2024, Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Updated Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi A2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-list-of-top-18-webcam-recorder-apps-and-tools-to-use/"><u>[New] List of Top 18 Webcam Recorder Apps and Tools to Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-charting-your-course-to-certification-a-guide-to-verified-partnership-for-2024/"><u>[Updated] Charting Your Course to Certification A Guide to Verified Partnership for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-craft-magical-time-lapse-video-using-a-gopro/"><u>[Updated] Craft Magical Time Lapse Video Using a GoPro</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-10-free-football-streaming-sites-to-bookmark/"><u>2024 Approved 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breakthrough-strategies-to-maximize-impact-on-snapchat/"><u>Breakthrough Strategies to Maximize Impact on Snapchat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-update-your-intel-based-imac-a-comprehensive-step-by-step-manual/"><u>How To Update Your Intel-Based iMac: A Comprehensive Step-by-Step Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-pro-controller-download-latest-drivers-for-all-windows-versions-11-10-8-and-7/"><u>Logitech G Pro Controller: Download Latest Drivers for All Windows Versions (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-your-first-steps-in-podcast-editing-a-comprehensive-beginners-guide-for-2024/"><u>New Your First Steps in Podcast Editing A Comprehensive Beginners Guide for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamlessly-sync-media-library-across-platforms-with-5kplayer-connect-your-windows-10mac-devices-using-airplay-technology/"><u>Seamlessly Sync Media Library Across Platforms with 5KPlayer - Connect Your Windows 10/Mac Devices Using AirPlay Technology</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide/"><u>Unraveling Instagram's Complex World of Data A Beginner to Pro Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
 </ul></div>
 

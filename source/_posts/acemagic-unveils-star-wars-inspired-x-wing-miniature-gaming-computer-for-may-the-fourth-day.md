@@ -1,7 +1,7 @@
 ---
 title: AceMagic Unveils Star Wars-Inspired X-Wing Miniature Gaming Computer for May the Fourth Day
-date: 2025-02-07T07:59:04.279Z
-updated: 2025-02-08T23:33:17.102Z
+date: 2025-02-13T16:17:13.410Z
+updated: 2025-02-19T16:08:47.700Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,21 +74,16 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>[New] In 2024, Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[Updated] Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a05-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A05 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-visual-experience-top-10-screen-selections-for-mac/"><u>2024 Approved Premier Visual Experience Top 10 Screen Selections for Mac</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-selecting-the-best-online-game-coverage/"><u>In 2024, Secrets to Selecting the Best Online Game Coverage</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-for-2024/"><u>Live Shopping Success Secrets Unveiling Strategies From Real Case Studies for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>New 2024 Approved Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-6-must-have-tools-for-successful-game-streaming/"><u>New 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>New In 2024, The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-never-miss-a-moment-with-free-world-cup-live-streaming-for-2024/"><u>New Never Miss a Moment With Free World Cup Live Streaming for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-5-software-applications-for-effectively-rescuing-erased-iphone-note-content/"><u>Top 5 Software Applications for Effectively Rescuing Erased iPhone Note Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-auto-coding-tools-that-serve-as-great-substitutes-for-chatgpt/"><u>Top 7 Auto-Coding Tools That Serve as Great Substitutes for ChatGPT</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-9-free-tv-streaming-services-or-sites-to-use/"><u>Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-external-hard-drive-connection-problems-on-windows-11/"><u>Troubleshooting External Hard Drive Connection Problems on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-the-affordable-cloud-storage-of-2024/"><u>[New] Finding the Affordable Cloud Storage of 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-and-save-your-next-google-meet-with-iphoneandroid/"><u>[Updated] 2024 Approved Capture & Save Your Next Google Meet with iPhone/Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-ranking-of-free-accurate-srt-translators/"><u>2024 Approved The Ultimate Ranking of Free, Accurate SRT Translators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-titans-of-tutorials-top-youtuber-earnings/"><u>2024 Approved Titans of Tutorials Top Youtuber Earnings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-7-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 7 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-v27-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo V27 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211387528-9789888843930-love-becomes-her/"><u>Love Becomes Her | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New 2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Updated Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
 </ul></div>
 
